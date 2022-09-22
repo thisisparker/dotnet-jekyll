@@ -33,7 +33,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/card-primate-apple.png
+      image: /assets/images/card-primate-apple.jpg
       author:
         twitter: xor
 
