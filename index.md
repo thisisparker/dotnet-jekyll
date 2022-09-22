@@ -5,7 +5,7 @@ title: parker higgins dot net
 
 <div class="home-block" markdown="1">
 
-<img class="home-img" src="{{ site.baseurl }}/assets/images/higgins-goldsworthy.jpg">
+<img class="home-img" src="{{ site.baseurl }}/assets/images/higgins-goldsworthy.jpg" alt="Parker Higgins in sunglasses standing in a forest with a tote bag over his shoulder and a mirrorless camera hanging around his neck. Behind him, a cairn built by Andy Goldsworthy.">
 <div class="bio" markdown="1">
 Hi, my name is Parker Higgins. I am an artist and activist living in Brooklyn. My work has focused on the interplay between technology, society, and the law, with a focus on copyright, speech, and privacy issues.
 
