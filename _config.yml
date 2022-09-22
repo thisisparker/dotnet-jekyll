@@ -3,8 +3,6 @@ domain: 'parkerhiggins.net'
 url: 'https://parkerhiggins.net'
 title: 'parker higgins dot net'
 description: 'parker higgins is an artist and activist in brooklyn, new york'
-author:
-  twitter: xor
 
 
 paginate: 5
@@ -36,6 +34,9 @@ defaults:
       path: ""
     values:
       image: /assets/image/card-primate-apple.png
+      author:
+        twitter: xor
+
 # Gems
 plugins:
   - jekyll-gist
