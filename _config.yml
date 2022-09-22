@@ -21,6 +21,12 @@ collections:
     output: true
     permalink: /projects/:name
 
+twitter:
+  username: xor
+  card: summary_large_image
+
+image: /assets/image/card-primate-apple.png
+
 # Gems
 plugins:
   - jekyll-gist
