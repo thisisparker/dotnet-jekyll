@@ -7,7 +7,7 @@ title: Home
 
 <img class="home-img" src="{{ site.baseurl }}/assets/images/higgins-goldsworthy.jpg">
 <div class="bio" markdown="1">
-Hi, my name is Parker Higgins. I am an artist and activist working in Brooklyn. My work has focused on the interplay between technology, society, and the law, with a focus on copyright, speech, and privacy issues.
+Hi, my name is Parker Higgins. I am an artist and activist living in Brooklyn. My work has focused on the interplay between technology, society, and the law, with a focus on copyright, speech, and privacy issues.
 
 From 2017-2022, I worked at the [Freedom of the Press Foundation](https://freedom.press), first as Director of Special Projects and subsequently as Director of Advocacy. From 2011–2017 I worked as an activist at the [Electronic Frontier Foundation](https://eff.org).
 
