@@ -1,7 +1,7 @@
 # Setup
-domain: 'thisisparker.github.io'
-url: 'https://thisisparker.github.io'
-baseurl: '/dotnet-jekyll'
+domain: 'parkerhiggins.net'
+url: 'https://parkerhiggins.net'
+baseurl: '/'
 title: 'parker higgins dot net'
 description: ''
 
