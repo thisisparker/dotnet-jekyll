@@ -22,10 +22,14 @@ collections:
     permalink: /projects/:name
 
 twitter:
-  username: xor
+  username: "@xor"
   card: summary_large_image
 
-image: /assets/image/card-primate-apple.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/image/card-primate-apple.png
 
 # Gems
 plugins:
