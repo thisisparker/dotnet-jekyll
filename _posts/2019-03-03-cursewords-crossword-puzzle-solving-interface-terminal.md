@@ -1,0 +1,33 @@
+---
+id: 1894
+title: 'Introducing: cursewords, a crossword puzzle solving interface for the terminal'
+date: '2019-03-03T10:55:35-08:00'
+author: 'Parker Higgins'
+layout: post
+guid: 'https://parkerhiggins.net/?p=1894'
+permalink: /2019/03/cursewords-crossword-puzzle-solving-interface-terminal/
+image: /wp-content/uploads/2019/03/Screenshot_2019-03-03_13-05-40.png
+categories:
+    - Uncategorized
+tags:
+    - computers
+    - crosswords
+    - cursewords
+    - 'new york times'
+    - programming
+    - python
+---
+
+I’m releasing [new software today for solving crossword puzzles in the terminal](https://github.com/thisisparker/cursewords). `cursewords` is a small Python program to open, navigate, and solve puzzles stored as .puz files. If you’re a Mac or Linux user, you can install it today by running `pip3 install --user cursewords` in your terminal, and then use the `cursewords` command to open a .puz file on your computer.
+
+In case you’re not a crossword nerd: the .puz file was developed for popular solving software called AcrossLite, and it remains the most popular format for transmitting crosswords online, from independent creators all the way up to the *New York Times*.
+
+<figure><img src="https://parkerhiggins.net/wp-content/uploads/2019/03/demo.gif"><figcaption>cursewords in action on my terminal</figcaption></figure>
+
+In fact, many independent puzzle creators *only* distribute their puzzles as digital files. For example, I subscribe to a handful of excellent puzzle outlets—[American Values Club](https://avxwords.com/#/), [The Inkubator](https://inkubatorcrosswords.com/), [Crossword Nation](https://www.crosswordnation.com/), [Fireball Crosswords](http://www.fireballcrosswords.com/)—that don’t offer an online solver or an app like the *Times* does. As a Linux user, I didn’t have a lot of options to open them: AcrossLite isn’t compatible, Web-based solutions have their limitations, and beyond that, I wanted to be able to introduce fun features like a “downs only” mode that hides the across clues. (You can try it: running `cursewords`with the `--downs-only` flag activates this very challenging mode.)
+
+But also, I liked the challenge of writing my own software as a way of thinking more about how crosswords are built and how we hold them in our head for navigation. I also love the retro-computing aesthetic that comes with terminal applications, and—while I think this is the first ever terminal crossword client—that it’s mostly based on tech that has remained unchanged for decades. In that way I’ve likened it to efforts to, say, imagine what [a car built with first-century technology would look like](https://jalopnik.com/the-greeks-had-the-technology-to-build-a-car-in-60-a-d-5888188): it’s not necessarily the most useful or the best, but it’s instructive (and in my case, actually works)!
+
+As the name may suggest, `cursewords` relies on a famed [programming library called curses](https://en.wikipedia.org/wiki/Curses_(programming_library)) that helps to build text-based user interfaces. It is also heavily indebted to [a curses wrapper called blessed](https://github.com/jquast/blessed), and [a library called puz that reads and writes .puz files](https://github.com/alexdej/puzpy).
+
+If you’re interested in `cursewords`, please give it a try and let me know how it works for you. I’ve been very interested in how to solve this problem for over a month now and I am excited to talk about it more publicly.

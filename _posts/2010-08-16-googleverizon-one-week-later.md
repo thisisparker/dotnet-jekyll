@@ -1,0 +1,22 @@
+---
+id: 54
+title: 'Google/Verizon, one week later'
+date: '2010-08-16T12:00:07-07:00'
+author: 'Parker Higgins'
+layout: post
+guid: 'https://parkerhiggins.net/?p=54'
+permalink: /2010/08/googleverizon-one-week-later/
+categories:
+    - Uncategorized
+---
+
+It’s been one week since [Google and Verizon announced a policy framework proposal](http://googlepublicpolicy.blogspot.com/2010/08/joint-policy-proposal-for-open-internet.html) that would do away with traditional network neutrality in the mobile space and possibly prompt the establishment of a second “premium” internet. Apparently this proposal has touched some nerves, and there’s been a lot of great writing about it. Nearly everybody I’ve read is opposed to the framework, but there are a few interesting differences in their opposition.
+
+- Mike Masnick of Techdirt is [mostly unimpressed](http://www.techdirt.com/articles/20100809/12505010560.shtml). This proposal isn’t good, but it also isn’t binding, so we don’t have to worry too much about it. At the same time, the difference between present and earlier Google stances is [stark and Googleable](http://techdirt.com/blog/wireless/articles/20100812/17291310611.shtml).
+- EFF has found something to be happy about in the [proposed limits on FCC jurisdiction](https://www.eff.org/deeplinks/2010/08/google-verizon-netneutrality). They taken this stance [for a long time now](https://www.eff.org/deeplinks/2009/09/net-neutrality-fcc-perils-and-promise), which sometimes puts them at odds with other free culture groups.
+- [Siva Vaidhyanathan](http://www.msnbc.msn.com/id/38645475/ns/technology_and_science-tech_and_gadgets/) on MSNBC, [Ars Technica](http://arstechnica.com/telecom/news/2010/08/google-verizon-unveil-net-neutrality-lite-to-government.ars) ([twice](http://arstechnica.com/telecom/guides/2010/08/googleverizon-we-do-loopholes-right.ars)), [Public Knowledge](http://www.publicknowledge.org/blog/theres-only-one-internet), [Lessig + Crawford (+ Wu)](http://www.mercurynews.com/opinion/ci_15745767?nclick_check=1&forced=true) in the Mercury News, all seem pretty hard-pressed to find any redeeming factors, except maybe that the existing internet would stick around in some form.
+- Jonathan Zittrain has put up a [thought-provoking post](http://futureoftheinternet.org/what-matters-in-net-neutrality) examining some fundamental ideas about net neutrality, and positing alternative economic models that could also preserve the generativity of a neutral network. He refers to a theoretical streaming video site from the future called SchmouTube, which might be a site on Jeff Jarvis’ schminternet, the name he [bestows upon the proposal’s posited premium internet](http://www.buzzmachine.com/2010/08/10/internet-schminternet/) in an entertaining and insightful post.
+- [Voogle Wireless](http://vooglewireless.com/) is showing a campy 2006 PSA Google made promoting net neutrality, and providing resources and information on who to contact to express disagreement with this proposal.
+- And Wired wins the award for the [funniest headline](http://www.wired.com/epicenter/2010/08/why-google-became-a-carrier-humping-net-neutrality-surrender-monkey/all/1) in one post, and has a good and slightly longer [wrap-up of the same literature covered here](http://www.wired.com/epicenter/2010/08/google-verizon-propose-open-vs-paid-internets/all/1) in another. They were also the only ones I’ve seen who compare the premium internet to cable or satellite television, which was my first thought while reading the proposal, but then take it a thoughtful (and troubling) step further by asking if it might more resemble network television and syndication, which more or less ran the local stations off the air.
+
+If there were more disagreement in the field, I’d be more inclined to jump in with my opinion here. I understand the EFF’s concerns about the FCC as a regulatory body for the internet, but I can’t think of a better solution. The thought of a premium and non-neutral internet alongside the regular internet doesn’t provoke a guttural reaction in me, but I don’t think it would be very successful. (Neither does Fred Benenson, who [remembers that Verizon and YouTube had a deal that pre-dated real internet on phones](http://fredbenenson.com/blog/2010/08/12/thoughts-on-verizon-and-google/).) And as many of the authors have pointed out, making less rigorous rules for mobile internet now is incredibly short-sighted, and doesn’t make sense.

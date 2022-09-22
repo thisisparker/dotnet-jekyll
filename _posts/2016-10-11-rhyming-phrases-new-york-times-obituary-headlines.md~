@@ -1,0 +1,56 @@
+---
+id: 1648
+title: 'Rhyming &#8220;who phrases&#8221; from New York Times obituary headlines'
+date: '2016-10-11T23:11:58-07:00'
+author: 'Parker Higgins'
+layout: post
+guid: 'https://parkerhiggins.net/?p=1648'
+permalink: /2016/10/rhyming-phrases-new-york-times-obituary-headlines/
+categories:
+    - Uncategorized
+tags:
+    - 'new york times'
+    - obituary
+    - poetry
+    - programming
+    - python
+---
+
+Many obituary headlines follow a standard formula: “Firstname Lastname, Who You Know From That One Thing, Dies at Age.” It’s a tendency I’ve counted on before when extracting names from obituaries for [FOIA The Dead](https://foiathedead.org/), but tonight it also got me thinking about the “who phrase”: the relative clause that condenses a lifetime of context into a handful of words.
+
+I decided to pull out the “who phrases” from about 1000 headlines over the past year, and using `<a href="https://pypi.python.org/pypi/pronouncing">pronouncing</a>`, arrange them to rhyme (if not yet to meter). It’s poetry.
+
+> who made the dallas cowboys cheerleaders a global brand,  
+> who built and ruled world soccer with firm hand,  
+> whose radio show twanged for decades,  
+> who fought racial barriers in building trades,  
+> who delivered in the clutch,  
+> who wrote adolescent novels with a personal touch,  
+> whose b-1 bomber recast the cold war,  
+> who fictionalized medicine’s absurdity and gore,  
+> who promoted n.w.a. and gangsta rap,  
+> who bridged racial gap,  
+> who chronicled his cancer fight,  
+> who set ‘the wicker man’ cult alight,  
+> who embraced gonzo journalism,  
+> who lost his prime to racism,  
+> who led sicilian mafia clan,  
+> who took aim at iran,  
+> who shaped venture capitalism,  
+> who shifted to optimism,  
+> who wrote of colonialism and racism,  
+> who preached pacifism,  
+> who won a round-the-world race,  
+> who quit in pentagon papers case,  
+> who wrote of madness and isolation,  
+> who helped turn wlir into a radio destination,  
+> who helped pave way for head start,  
+> who elevated blown glass to fine art,  
+> whose furniture evoked sensuality,  
+> who examined puerto rican identity,  
+> who saw literary criticism as art,  
+> who gave the rolling stones their start,  
+> whose bleak fiction won the booker prize,  
+> who shaped foreign ties,  
+> who put the @ sign in email,  
+> who shaped geometries on a bold scale.

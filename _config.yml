@@ -1,0 +1,56 @@
+# Setup
+domain: 'thisisparker.github.io'
+url: 'https://thisisparker.github.io'
+baseurl: '/dotnet'
+title: 'parker higgins dot net'
+description: ''
+
+paginate: 5
+paginate_path: '/blog/page:num/'
+permalink: '/:year/:month/:title/'
+
+feed:
+  tags:
+    path: "/tag/"
+    disable_in_development: true
+
+collections:
+  projects:
+    output: false
+  project-pages:
+    output: true
+    permalink: /projects/:name
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Parker Higgins
+  url: https://twitter.com/xor
+
+# Custom vars
+version: 3.0.0
