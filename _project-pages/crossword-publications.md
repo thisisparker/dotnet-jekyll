@@ -3,7 +3,7 @@ title: Published crosswords
 year: 2020–
 link: /projects/crossword-publications
 layout: page
-image: nyt-crossword.jpg
+image: /assets/images/nyt-crossword.jpg
 ---
 
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.

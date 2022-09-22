@@ -1,7 +1,7 @@
 ---
 title: Cursewords Live
 year: 2021–
-image: cursewords-live.jpg
+image: /assets/images/cursewords-live.jpg
 link: https://cursewords.live
 ---
 

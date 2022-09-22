@@ -1,7 +1,7 @@
 ---
 title: 
 year: 2022
-image: baseball-underground.png
+image: /assets/images/baseball-underground.png
 layout: page
 featured: false
 link: https://twitter.com/xor/status/1560353464886124551
