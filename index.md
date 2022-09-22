@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: parker higgins dot net
 ---
 
 <div class="home-block" markdown="1">
