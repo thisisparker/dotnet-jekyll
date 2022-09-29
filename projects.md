@@ -1,8 +1,8 @@
 ---
 id: 5
 title: projects
-author: 'Parker Higgins'
 layout: page
+image: /assets/images/computer-music.png
 permalink: /projects/
 ---
 
