@@ -1,8 +1,8 @@
 ---
 title: Cursewords
-year: 2019
+year: 2019–
 link: https://github.com/thisisparker/cursewords
-featured: true
+featured: false
 image: /assets/images/cursewords-demo.gif
 ---
 
