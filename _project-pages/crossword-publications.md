@@ -17,6 +17,7 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 ## Indies
 
 |---|---|---|
+| 2022/10/02 | _Rosswords_ | [Let's Split Dessert! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/02/lets-split-dessert/) |
 | 2022/07/22 | _Boswords Summer 2022_ | [Acting Shifty (tournament puzzle 4)](https://www.boswords.org/) |
 | 2022/05/25 | _AVCX Classic_ | [Low Scores (with Malaika Handa)](https://avxwords.com/puzzles/1095/) |
 | 2022/03/27 | _Rosswords_ | [Labor Unions (with Ross Trudeau)](https://rosswordpuzzles.com/2022/03/27/labor-unions/) |
