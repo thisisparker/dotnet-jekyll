@@ -2,7 +2,6 @@
 id: 941
 title: 'Connecting to SFPL-Wireless'
 date: '2012-12-22T16:17:49-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=941'
 permalink: /2012/12/connecting-to-sfpl-wireless/

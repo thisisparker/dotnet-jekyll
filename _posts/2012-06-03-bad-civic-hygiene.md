@@ -2,7 +2,6 @@
 id: 711
 title: 'Bad civic hygiene'
 date: '2012-06-03T00:47:26-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=711'
 permalink: /2012/06/bad-civic-hygiene/

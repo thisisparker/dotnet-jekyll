@@ -2,7 +2,6 @@
 id: 1514
 title: '&#8220;Computers: The Truth of the Matter&#8221;'
 date: '2015-07-12T23:45:32-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1514'
 permalink: /2015/07/computers-the-truth-of-the-matter/

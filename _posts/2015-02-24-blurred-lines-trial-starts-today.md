@@ -2,7 +2,6 @@
 id: 1461
 title: '&#8220;Blurred Lines&#8221; trial starts today'
 date: '2015-02-24T07:40:01-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1461'
 permalink: /2015/02/blurred-lines-trial-starts-today/

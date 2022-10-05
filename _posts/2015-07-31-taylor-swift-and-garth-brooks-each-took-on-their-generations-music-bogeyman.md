@@ -2,7 +2,6 @@
 id: 1518
 title: 'Taylor Swift and Garth Brooks each took on their generation&#8217;s music bogeyman'
 date: '2015-07-31T00:28:21-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1518'
 permalink: /2015/07/taylor-swift-and-garth-brooks-each-took-on-their-generations-music-bogeyman/

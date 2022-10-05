@@ -2,7 +2,6 @@
 id: 1358
 title: 'Do Androids Dream of Electric Free Speech?'
 date: '2014-05-23T00:32:39-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1358'
 permalink: /2014/05/do-androids-dream-of-electric-free-speech/

@@ -2,7 +2,6 @@
 id: 376
 title: 'Four types of copyright infringement'
 date: '2011-09-04T12:35:11-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=376'
 permalink: /2011/09/four-types-of-copyright-infringement/

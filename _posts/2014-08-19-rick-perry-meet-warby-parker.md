@@ -2,7 +2,6 @@
 id: 1404
 title: 'Rick Perry, meet Warby Parker'
 date: '2014-08-19T18:12:33-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1404'
 permalink: /2014/08/rick-perry-meet-warby-parker/

@@ -2,7 +2,6 @@
 id: 839
 title: 'Copying and creativity at day one of XOXO'
 date: '2012-09-15T18:26:18-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=839'
 permalink: /2012/09/copying-and-creativity-at-day-one-of-xoxo/

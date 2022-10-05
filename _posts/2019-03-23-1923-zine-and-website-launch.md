@@ -2,7 +2,6 @@
 id: 1927
 title: '1923 zine and website launch'
 date: '2019-03-23T11:24:45-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1927'
 permalink: /2019/03/1923-zine-and-website-launch/

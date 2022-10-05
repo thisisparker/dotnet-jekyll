@@ -2,7 +2,6 @@
 id: 157
 title: 'Why Wesabe Lost to Mint'
 date: '2010-10-07T21:46:44-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=157'
 permalink: /2010/10/why-wesabe-lost-to-mint/

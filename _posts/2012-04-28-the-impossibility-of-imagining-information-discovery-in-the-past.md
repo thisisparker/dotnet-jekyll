@@ -2,7 +2,6 @@
 id: 666
 title: 'The impossibility of imagining information retrieval in the past'
 date: '2012-04-28T20:04:32-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=666'
 permalink: /2012/04/the-impossibility-of-imagining-information-discovery-in-the-past/

@@ -2,7 +2,6 @@
 id: 1045
 title: 'An update on the Christopher Dorner drone situation'
 date: '2013-02-17T15:09:58-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1045'
 permalink: /2013/02/an-update-on-the-christopher-dorner-drone-situation/

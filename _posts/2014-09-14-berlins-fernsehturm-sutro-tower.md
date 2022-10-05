@@ -2,7 +2,6 @@
 id: 1415
 title: 'Berlin&#8217;s Fernsehturm and Sutro Tower'
 date: '2014-09-14T18:28:42-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1415'
 permalink: /2014/09/berlins-fernsehturm-sutro-tower/

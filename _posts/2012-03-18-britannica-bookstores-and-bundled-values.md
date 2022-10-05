@@ -2,7 +2,6 @@
 id: 561
 title: 'Britannica, bookstores, and bundle failure'
 date: '2012-03-18T19:56:08-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=561'
 permalink: /2012/03/britannica-bookstores-and-bundled-values/

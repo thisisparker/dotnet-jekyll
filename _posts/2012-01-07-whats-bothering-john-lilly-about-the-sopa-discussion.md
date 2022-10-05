@@ -2,7 +2,6 @@
 id: 427
 title: 'What&#8217;s bothering John Lilly about the SOPA discussion'
 date: '2012-01-07T19:08:49-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=427'
 permalink: /2012/01/whats-bothering-john-lilly-about-the-sopa-discussion/

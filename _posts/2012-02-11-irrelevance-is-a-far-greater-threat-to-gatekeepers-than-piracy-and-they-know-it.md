@@ -2,7 +2,6 @@
 id: 503
 title: 'Irrelevance is a far greater threat to gatekeepers than piracy &#8212; and they know it'
 date: '2012-02-11T21:38:35-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=503'
 permalink: /2012/02/irrelevance-is-a-far-greater-threat-to-gatekeepers-than-piracy-and-they-know-it/

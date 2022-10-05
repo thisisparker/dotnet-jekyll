@@ -2,7 +2,6 @@
 id: 1743
 title: 'Which states hated Wesley?'
 date: '2017-09-08T12:20:59-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1743'
 permalink: /2017/09/which-states-hated-wesley/

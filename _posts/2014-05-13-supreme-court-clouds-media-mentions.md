@@ -2,7 +2,6 @@
 id: 1356
 title: 'Supreme Court Clouds media mentions'
 date: '2014-05-13T14:20:40-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1356'
 permalink: /2014/05/supreme-court-clouds-media-mentions/

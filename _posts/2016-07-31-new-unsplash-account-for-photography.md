@@ -2,7 +2,6 @@
 id: 1632
 title: 'New Unsplash account for photography'
 date: '2016-07-31T20:47:21-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1632'
 permalink: /2016/07/new-unsplash-account-for-photography/

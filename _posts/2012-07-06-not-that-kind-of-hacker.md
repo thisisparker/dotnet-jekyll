@@ -2,7 +2,6 @@
 id: 743
 title: 'Not *that* kind of hacker'
 date: '2012-07-06T18:29:58-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=743'
 permalink: /2012/07/not-that-kind-of-hacker/

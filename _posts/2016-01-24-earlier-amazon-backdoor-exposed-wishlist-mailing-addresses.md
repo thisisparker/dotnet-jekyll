@@ -2,7 +2,6 @@
 id: 1574
 title: 'Amazon backdoor exposed wishlist mailing addresses'
 date: '2016-01-24T20:15:22-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1574'
 permalink: /2016/01/earlier-amazon-backdoor-exposed-wishlist-mailing-addresses/

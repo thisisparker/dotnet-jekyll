@@ -2,7 +2,6 @@
 id: 155
 title: 'Professor Robert Thompson is always in the New York Times'
 date: '2010-10-07T09:51:21-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=155'
 permalink: /2010/10/professor-robert-thompson-is-always-in-the-new-york-times/

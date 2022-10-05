@@ -2,7 +2,6 @@
 id: 1689
 title: 'Online communities under threat in new copyright decision'
 date: '2017-04-09T10:19:07-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1689'
 permalink: /2017/04/online-communities-threat-new-copyright-decision/

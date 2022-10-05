@@ -2,7 +2,6 @@
 id: 989
 title: 'Sunday morning in San Francisco'
 date: '2013-01-06T12:52:20-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=989'
 permalink: /2013/01/sunday-morning-in-san-francisco/

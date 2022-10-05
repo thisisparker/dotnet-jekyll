@@ -2,7 +2,6 @@
 id: 1317
 title: 'Our encryption tools must be free software, not just open source'
 date: '2014-03-03T00:15:30-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1317'
 permalink: /2014/03/our-encryption-tools-must-be-free-software-not-just-open-source/

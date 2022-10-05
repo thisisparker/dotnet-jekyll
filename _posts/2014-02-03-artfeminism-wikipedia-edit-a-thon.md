@@ -2,7 +2,6 @@
 id: 1304
 title: 'Art+Feminism Wikipedia edit-a-thon'
 date: '2014-02-03T01:11:30-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1304'
 permalink: /2014/02/artfeminism-wikipedia-edit-a-thon/

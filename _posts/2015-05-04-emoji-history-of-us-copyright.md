@@ -2,7 +2,6 @@
 id: 1495
 title: 'Emoji history of US copyright'
 date: '2015-05-04T03:49:06-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1495'
 permalink: /2015/05/emoji-history-of-us-copyright/

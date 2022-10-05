@@ -2,7 +2,6 @@
 id: 1434
 title: 'Digging up info on the USPTO&#8217;s creepy mascot'
 date: '2014-12-08T00:00:16-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1434'
 permalink: /2014/12/digging-info-usptos-creepy-mascot/

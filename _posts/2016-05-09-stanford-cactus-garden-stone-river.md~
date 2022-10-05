@@ -2,7 +2,6 @@
 id: 1603
 title: 'Stanford&#8217;s cactus garden and Stone River'
 date: '2016-05-09T00:20:52-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1603'
 permalink: /2016/05/stanford-cactus-garden-stone-river/

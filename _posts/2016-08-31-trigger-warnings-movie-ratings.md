@@ -2,7 +2,6 @@
 id: 1640
 title: 'Trigger warnings and movie ratings'
 date: '2016-08-31T18:26:04-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1640'
 permalink: /2016/08/trigger-warnings-movie-ratings/

@@ -2,7 +2,6 @@
 id: 347
 title: 'Privacy, public transportation, and Berlin&#8217;s Touch&#038;Travel program'
 date: '2011-07-26T01:44:57-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=347'
 permalink: /2011/07/privacy-public-transportation-berlins-touch-travel-program/

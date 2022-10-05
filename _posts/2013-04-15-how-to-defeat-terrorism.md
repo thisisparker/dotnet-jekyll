@@ -2,7 +2,6 @@
 id: 1103
 title: 'How to defeat terrorism'
 date: '2013-04-15T22:19:18-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1103'
 permalink: /2013/04/how-to-defeat-terrorism/

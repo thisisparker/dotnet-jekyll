@@ -2,7 +2,6 @@
 id: 1381
 title: 'Valerie Simpson on sampling and creativity'
 date: '2014-07-10T17:42:47-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1381'
 permalink: /2014/07/valerie-simpson-sampling-creativity/

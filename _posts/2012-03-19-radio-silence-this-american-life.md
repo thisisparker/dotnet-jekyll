@@ -2,7 +2,6 @@
 id: 587
 title: 'Radio silence: the empty space in This American Life'
 date: '2012-03-19T23:55:19-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=587'
 permalink: /2012/03/radio-silence-this-american-life/

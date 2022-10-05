@@ -2,7 +2,6 @@
 id: 146
 title: 'Grimmelmann and Ohm&#8217;s &#8220;Dr. Generative Or: How I Learned to Stop Worrying and Love the iPhone&#8221;'
 date: '2010-09-30T09:33:37-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=146'
 permalink: /2010/09/grimmelmann-and-ohms-dr-generative/

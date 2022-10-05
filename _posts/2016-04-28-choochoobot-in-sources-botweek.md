@@ -2,7 +2,6 @@
 id: 1601
 title: 'Choochoobot in Source&#8217;s #botweek'
 date: '2016-04-28T22:31:42-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1601'
 permalink: /2016/04/choochoobot-in-sources-botweek/

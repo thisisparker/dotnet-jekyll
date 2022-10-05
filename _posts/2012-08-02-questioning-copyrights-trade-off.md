@@ -2,7 +2,6 @@
 id: 761
 title: 'Questioning copyright&#8217;s trade-off'
 date: '2012-08-02T17:25:53-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=761'
 permalink: /2012/08/questioning-copyrights-trade-off/

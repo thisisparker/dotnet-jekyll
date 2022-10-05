@@ -2,7 +2,6 @@
 id: 142
 title: 'Obama administration&#8217;s encryption proposal and the Clipper chip'
 date: '2010-09-29T09:08:52-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=142'
 permalink: /2010/09/obama-administrations-encryption-proposal-and-the-clipper-chip/

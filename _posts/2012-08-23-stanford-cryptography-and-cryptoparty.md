@@ -2,7 +2,6 @@
 id: 802
 title: 'Stanford Cryptography and #CryptoParty'
 date: '2012-08-23T22:30:00-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=802'
 permalink: /2012/08/stanford-cryptography-and-cryptoparty/

@@ -2,7 +2,6 @@
 id: 1595
 title: 'Mark Twain&#8217;s ghost haunts copyright history'
 date: '2016-03-05T22:19:47-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1595'
 permalink: /2016/03/mark-twains-ghost-haunts-copyright-history/

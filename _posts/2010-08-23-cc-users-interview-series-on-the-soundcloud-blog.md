@@ -2,7 +2,6 @@
 id: 90
 title: 'CC users interview series on the SoundCloud blog'
 date: '2010-08-23T23:32:38-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=90'
 permalink: /2010/08/cc-users-interview-series-on-the-soundcloud-blog/

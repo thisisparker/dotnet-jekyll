@@ -2,7 +2,6 @@
 id: 873
 title: '100 years of cinematic copyright'
 date: '2012-10-14T23:58:36-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=873'
 permalink: /2012/10/100-years-of-cinematic-copyright/

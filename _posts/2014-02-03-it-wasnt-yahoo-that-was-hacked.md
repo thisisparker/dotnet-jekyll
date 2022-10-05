@@ -2,7 +2,6 @@
 id: 1302
 title: 'It wasn&#8217;t Yahoo that was hacked'
 date: '2014-02-03T00:52:39-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1302'
 permalink: /2014/02/it-wasnt-yahoo-that-was-hacked/

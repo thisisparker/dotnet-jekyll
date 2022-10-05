@@ -2,7 +2,6 @@
 id: 1557
 title: 'Mad Generation Loss'
 date: '2015-10-31T17:35:00-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1557'
 permalink: /2015/10/mad-generation-loss/

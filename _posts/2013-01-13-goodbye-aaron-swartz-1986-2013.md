@@ -2,7 +2,6 @@
 id: 994
 title: 'Goodbye Aaron Swartz, 1986-2013'
 date: '2013-01-13T21:09:55-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=994'
 permalink: /2013/01/goodbye-aaron-swartz-1986-2013/

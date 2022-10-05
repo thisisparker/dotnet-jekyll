@@ -2,7 +2,6 @@
 id: 1554
 title: 'Outline Bling'
 date: '2015-10-21T23:56:10-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1554'
 permalink: /2015/10/outline-bling/

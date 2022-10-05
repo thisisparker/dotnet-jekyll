@@ -2,7 +2,6 @@
 id: 707
 title: 'IP above all else'
 date: '2012-05-24T00:38:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=707'
 permalink: /2012/05/ip-above-all-else/

@@ -2,7 +2,6 @@
 id: 1664
 title: 'All of my Deeplinks blog posts'
 date: '2017-01-18T16:39:51-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1664'
 permalink: /2017/01/all-eff-deeplinks-blog-posts/

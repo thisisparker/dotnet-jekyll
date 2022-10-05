@@ -2,7 +2,6 @@
 id: 1625
 title: 'You wouldn&#8217;t reimplement an API'
 date: '2016-05-22T22:31:25-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1625'
 permalink: /2016/05/you-wouldnt-reimplement-an-api/

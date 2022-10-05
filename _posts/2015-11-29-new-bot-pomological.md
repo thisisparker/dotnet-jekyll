@@ -2,7 +2,6 @@
 id: 1567
 title: 'New bot: @pomological'
 date: '2015-11-29T12:48:02-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1567'
 permalink: /2015/11/new-bot-pomological/

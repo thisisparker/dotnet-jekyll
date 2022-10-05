@@ -2,7 +2,6 @@
 id: 1039
 title: 'Did the Internet just fall for a massive drone hoax?'
 date: '2013-02-11T01:40:12-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1039'
 permalink: /2013/02/did-the-internet-just-fall-for-a-massive-drone-hoax/

@@ -2,7 +2,6 @@
 id: 173
 title: 'Mozilla Drumbeat Festival'
 date: '2010-11-03T01:15:10-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=173'
 permalink: /2010/11/mozilla-drumbeat-festival/

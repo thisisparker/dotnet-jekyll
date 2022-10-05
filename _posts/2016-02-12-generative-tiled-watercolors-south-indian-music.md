@@ -2,7 +2,6 @@
 id: 1588
 title: 'Generative tiled watercolors and live south Indian music'
 date: '2016-02-12T23:43:12-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1588'
 permalink: /2016/02/generative-tiled-watercolors-south-indian-music/

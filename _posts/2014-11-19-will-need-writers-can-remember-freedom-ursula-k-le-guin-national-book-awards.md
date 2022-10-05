@@ -2,7 +2,6 @@
 id: 1429
 title: '&#8220;We will need writers who can remember freedom&#8221;: Ursula K Le Guin at the National Book Awards'
 date: '2014-11-19T20:38:35-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1429'
 permalink: /2014/11/will-need-writers-can-remember-freedom-ursula-k-le-guin-national-book-awards/

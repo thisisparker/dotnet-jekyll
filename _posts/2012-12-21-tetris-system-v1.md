@@ -2,7 +2,6 @@
 id: 937
 title: 'TETRIS-SYSTEM, V1'
 date: '2012-12-21T00:46:06-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=937'
 permalink: /2012/12/tetris-system-v1/

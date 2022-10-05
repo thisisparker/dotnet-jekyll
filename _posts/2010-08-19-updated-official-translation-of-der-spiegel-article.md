@@ -2,7 +2,6 @@
 id: 75
 title: 'UPDATED: Official translation of Der Spiegel article'
 date: '2010-08-19T09:47:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=75'
 permalink: /2010/08/updated-official-translation-of-der-spiegel-article/

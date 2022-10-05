@@ -2,7 +2,6 @@
 id: 1448
 title: '3 circus posters that changed the face of copyright law'
 date: '2015-01-26T21:24:36-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1448'
 permalink: /2015/01/3-circus-posters-changed-face-copyright-law/

@@ -2,7 +2,6 @@
 id: 1545
 title: 'HOWTO: Diff PDFs pixel-by-pixel on the command line'
 date: '2015-09-01T19:20:34-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1545'
 permalink: /2015/09/howto-diff-pdfs-pixel-by-pixel-on-the-command-line/

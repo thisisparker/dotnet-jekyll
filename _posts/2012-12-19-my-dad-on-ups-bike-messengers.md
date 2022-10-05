@@ -2,7 +2,6 @@
 id: 924
 title: 'My dad on UPS bike messengers'
 date: '2012-12-19T22:35:04-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=924'
 permalink: /2012/12/my-dad-on-ups-bike-messengers/

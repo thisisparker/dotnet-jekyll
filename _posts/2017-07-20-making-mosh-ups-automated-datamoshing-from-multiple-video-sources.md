@@ -2,7 +2,6 @@
 id: 1719
 title: 'Making mosh-ups: automated datamoshing from multiple video sources'
 date: '2017-07-20T12:19:34-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1719'
 permalink: /2017/07/making-mosh-ups-automated-datamoshing-from-multiple-video-sources/

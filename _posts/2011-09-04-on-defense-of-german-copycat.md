@@ -2,7 +2,6 @@
 id: 391
 title: 'On &#8220;A Defense of the German copycat&#8221;'
 date: '2011-09-04T15:53:06-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=391'
 permalink: /2011/09/on-defense-of-german-copycat/

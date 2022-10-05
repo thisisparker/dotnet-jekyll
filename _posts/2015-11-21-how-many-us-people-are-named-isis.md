@@ -2,7 +2,6 @@
 id: 1565
 title: 'How many US people are named Isis?'
 date: '2015-11-21T15:48:20-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1565'
 permalink: /2015/11/how-many-us-people-are-named-isis/

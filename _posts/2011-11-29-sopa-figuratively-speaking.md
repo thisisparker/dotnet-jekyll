@@ -2,7 +2,6 @@
 id: 404
 title: 'SOPA, figuratively speaking'
 date: '2011-11-29T19:16:46-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=404'
 permalink: /2011/11/sopa-figuratively-speaking/

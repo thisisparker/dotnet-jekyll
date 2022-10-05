@@ -2,7 +2,6 @@
 id: 1216
 title: 'When Obama met Nixon'
 date: '2013-06-29T00:33:40-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1216'
 permalink: /2013/06/when-obama-met-nixon/

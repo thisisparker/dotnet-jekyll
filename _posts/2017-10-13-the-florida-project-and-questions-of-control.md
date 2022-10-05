@@ -2,7 +2,6 @@
 id: 1769
 title: '&#8220;The Florida Project&#8221; and questions of control'
 date: '2017-10-13T14:28:22-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1769'
 permalink: /2017/10/the-florida-project-and-questions-of-control/

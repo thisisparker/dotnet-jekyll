@@ -2,7 +2,6 @@
 id: 235
 title: 'A response to the Harvard Crimson&#8217;s &#8220;A Sensible Compromise&#8221;'
 date: '2010-12-24T13:20:18-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=235'
 permalink: /2010/12/a-response-to-the-harvard-crimsons-a-sensible-compromise/

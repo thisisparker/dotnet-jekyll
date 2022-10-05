@@ -2,7 +2,6 @@
 id: 1444
 title: 'Making Alice &#038; Bob tees'
 date: '2015-01-18T22:20:08-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1444'
 permalink: /2015/01/making-alice-bob-tees/

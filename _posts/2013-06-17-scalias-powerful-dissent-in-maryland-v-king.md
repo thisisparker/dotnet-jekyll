@@ -2,7 +2,6 @@
 id: 1214
 title: 'Scalia&#8217;s powerful dissent in Maryland v. King'
 date: '2013-06-17T23:51:00-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1214'
 permalink: /2013/06/scalias-powerful-dissent-in-maryland-v-king/

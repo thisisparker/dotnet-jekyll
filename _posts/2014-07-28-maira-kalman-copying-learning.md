@@ -2,7 +2,6 @@
 id: 1390
 title: 'Maira Kalman on copying and learning'
 date: '2014-07-28T00:34:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1390'
 permalink: /2014/07/maira-kalman-copying-learning/

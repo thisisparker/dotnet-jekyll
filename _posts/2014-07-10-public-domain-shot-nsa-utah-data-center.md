@@ -2,7 +2,6 @@
 id: 1386
 title: 'Public domain shot of the NSA Utah Data Center'
 date: '2014-07-10T21:24:19-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1386'
 permalink: /2014/07/public-domain-shot-nsa-utah-data-center/

@@ -2,7 +2,6 @@
 id: 177
 title: 'Kindle screensaver transit map pack'
 date: '2010-11-22T10:17:13-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=177'
 permalink: /2010/11/kindle-screensaver-transit-map-pack/

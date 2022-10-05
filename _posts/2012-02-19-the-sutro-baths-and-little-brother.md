@@ -2,7 +2,6 @@
 id: 527
 title: 'The Sutro Baths and Little Brother'
 date: '2012-02-19T19:50:05-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=527'
 permalink: /2012/02/the-sutro-baths-and-little-brother/

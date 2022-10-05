@@ -2,7 +2,6 @@
 id: 1341
 title: 'Aereo, permission culture, and one line that makes my blood boil'
 date: '2014-04-24T02:08:22-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1341'
 permalink: /2014/04/aereo-permission-culture-and-one-line-that-makes-my-blood-boil/

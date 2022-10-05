@@ -2,7 +2,6 @@
 id: 282
 title: 'Klout scores, inactive followers, and Goodhart&#8217;s law'
 date: '2011-02-28T02:37:43-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=282'
 permalink: /2011/02/klout-scores-inactive-followers-and-goodharts-law/

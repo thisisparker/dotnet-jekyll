@@ -2,7 +2,6 @@
 id: 1894
 title: 'Introducing: cursewords, a crossword puzzle solving interface for the terminal'
 date: '2019-03-03T10:55:35-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1894'
 permalink: /2019/03/cursewords-crossword-puzzle-solving-interface-terminal/

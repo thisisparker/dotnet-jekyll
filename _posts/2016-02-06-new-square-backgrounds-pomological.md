@@ -2,7 +2,6 @@
 id: 1586
 title: 'New square backgrounds for @pomological'
 date: '2016-02-06T08:01:41-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1586'
 permalink: /2016/02/new-square-backgrounds-pomological/

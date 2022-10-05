@@ -2,7 +2,6 @@
 id: 1243
 title: 'Cardboard Sutro Tower'
 date: '2013-10-20T12:10:05-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1243'
 permalink: /2013/10/cardboard-sutro-tower/

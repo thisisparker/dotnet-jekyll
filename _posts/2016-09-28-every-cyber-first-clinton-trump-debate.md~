@@ -2,7 +2,6 @@
 id: 1644
 title: 'Every &#8220;cyber&#8221; in the first Clinton/Trump debate'
 date: '2016-09-28T23:57:33-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1644'
 permalink: /2016/09/every-cyber-first-clinton-trump-debate/

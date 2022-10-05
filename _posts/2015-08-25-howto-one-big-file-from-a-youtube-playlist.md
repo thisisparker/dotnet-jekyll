@@ -2,7 +2,6 @@
 id: 1542
 title: 'HOWTO: One big file from a YouTube playlist'
 date: '2015-08-25T19:39:33-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1542'
 permalink: /2015/08/howto-one-big-file-from-a-youtube-playlist/

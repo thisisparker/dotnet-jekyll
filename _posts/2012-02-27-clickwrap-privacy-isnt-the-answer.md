@@ -2,7 +2,6 @@
 id: 539
 title: 'Clickwrap privacy isn&#8217;t the answer'
 date: '2012-02-27T00:37:16-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=539'
 permalink: /2012/02/clickwrap-privacy-isnt-the-answer/

@@ -2,7 +2,6 @@
 id: 602
 title: 'Problems around me'
 date: '2012-03-31T19:55:56-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=602'
 permalink: /2012/03/problems-around-me/

@@ -2,7 +2,6 @@
 id: 693
 title: 'Sonic tourism in San Francisco'
 date: '2012-05-06T18:52:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=693'
 permalink: /2012/05/sonic-tourism-in-san-francisco/

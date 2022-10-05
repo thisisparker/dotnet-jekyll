@@ -2,7 +2,6 @@
 id: 1502
 title: 'Oakland&#8217;s awesome public records request system'
 date: '2015-05-04T16:34:03-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1502'
 permalink: /2015/05/oaklands-awesome-public-records-request-system/

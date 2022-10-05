@@ -2,7 +2,6 @@
 id: 1570
 title: 'A Twitter list of somebody else&#8217;s timeline'
 date: '2015-12-13T17:00:58-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1570'
 permalink: /2015/12/a-twitter-list-of-somebody-elses-timeline/

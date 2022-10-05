@@ -2,7 +2,6 @@
 id: 1225
 title: 'The 18 flags of San Francisco&#8217;s Civic Center Plaza'
 date: '2013-09-15T16:08:22-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1225'
 permalink: /2013/09/the-flags-of-san-franciscos-civic-center-plaza/

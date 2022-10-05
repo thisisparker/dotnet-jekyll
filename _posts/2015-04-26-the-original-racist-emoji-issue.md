@@ -2,7 +2,6 @@
 id: 1499
 title: 'The original racist emoji issue'
 date: '2015-04-26T19:25:46-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1499'
 permalink: /2015/04/the-original-racist-emoji-issue/

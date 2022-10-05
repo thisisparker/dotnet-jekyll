@@ -2,7 +2,6 @@
 id: 1328
 title: 'The Ulysses piracy case and &#8220;Innocence of Muslims&#8221;'
 date: '2014-03-23T16:18:20-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1328'
 permalink: /2014/03/the-ulysses-piracy-case-and-innocence-of-muslims/

@@ -2,7 +2,6 @@
 id: 929
 title: 'A closer look at the &#8220;Girl on Fire&#8221; copyright lawsuit'
 date: '2012-12-20T02:32:56-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=929'
 permalink: /2012/12/a-closer-look-at-the-girl-on-fire-copyright-lawsuit/

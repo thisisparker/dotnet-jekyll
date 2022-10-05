@@ -2,7 +2,6 @@
 id: 1198
 title: '&#8220;Where was the outrage then?&#8221; ask the trolls'
 date: '2013-05-08T09:55:38-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1198'
 permalink: /2013/05/where-was-the-outrage-then-ask-the-trolls/

@@ -2,7 +2,6 @@
 id: 138
 title: 'Best Game Ever in Bing Crosby&#8217;s cellar &#8211; history and the analog hole'
 date: '2010-09-29T12:00:13-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=138'
 permalink: /2010/09/best-game-ever-in-bing-crosbys-cellar-history-and-the-analog-hole/

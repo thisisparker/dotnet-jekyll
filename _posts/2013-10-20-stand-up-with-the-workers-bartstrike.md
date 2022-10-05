@@ -2,7 +2,6 @@
 id: 1253
 title: 'Stand up with the workers — #BARTstrike'
 date: '2013-10-20T12:15:14-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1253'
 permalink: /2013/10/stand-up-with-the-workers-bartstrike/

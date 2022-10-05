@@ -2,7 +2,6 @@
 id: 628
 title: 'Maiden voyage for my Public Laboratory balloon mapping kit'
 date: '2012-04-15T10:31:40-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=628'
 permalink: /2012/04/maiden-voyage-for-my-public-laboratory-balloon-mapping-kit/

@@ -2,7 +2,6 @@
 id: 1278
 title: 'Scripts for book scanning'
 date: '2013-11-28T13:50:54-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1278'
 permalink: /2013/11/scripts-for-book-scanning/

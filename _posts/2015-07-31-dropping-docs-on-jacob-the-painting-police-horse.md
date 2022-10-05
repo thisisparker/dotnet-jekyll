@@ -2,7 +2,6 @@
 id: 1521
 title: 'Dropping docs on Jacob the painting police horse'
 date: '2015-07-31T23:00:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1521'
 permalink: /2015/07/dropping-docs-on-jacob-the-painting-police-horse/

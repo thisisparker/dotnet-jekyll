@@ -2,7 +2,6 @@
 id: 1524
 title: 'Misogyny on Mars'
 date: '2015-08-15T13:09:56-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1524'
 permalink: /2015/08/misogyny-on-mars/

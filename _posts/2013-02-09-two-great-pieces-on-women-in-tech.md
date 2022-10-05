@@ -2,7 +2,6 @@
 id: 1032
 title: 'Two great pieces on women in tech'
 date: '2013-02-09T00:32:54-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1032'
 permalink: /2013/02/two-great-pieces-on-women-in-tech/

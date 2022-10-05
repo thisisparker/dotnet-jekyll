@@ -2,7 +2,6 @@
 id: 1346
 title: 'Supreme Court Clouds (2014)'
 date: '2014-04-26T08:52:05-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1346'
 permalink: /2014/04/supreme-court-clouds/

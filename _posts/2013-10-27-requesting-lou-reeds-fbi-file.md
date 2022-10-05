@@ -2,7 +2,6 @@
 id: 1257
 title: 'Requesting Lou Reed&#8217;s FBI file'
 date: '2013-10-27T23:52:23-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1257'
 permalink: /2013/10/requesting-lou-reeds-fbi-file/

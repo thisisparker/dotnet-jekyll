@@ -2,7 +2,6 @@
 id: 1489
 title: 'Public domain victory! SpaceX photos now belong to you'
 date: '2015-03-28T16:03:43-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1489'
 permalink: /2015/03/public-domain-victory-spacex-photos-now-belong/

@@ -2,7 +2,6 @@
 id: 749
 title: 'Six months of Iron Blogger SF'
 date: '2012-07-22T15:43:44-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=749'
 permalink: /2012/07/six-months-of-iron-blogger-sf/

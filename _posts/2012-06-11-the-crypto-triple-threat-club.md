@@ -2,7 +2,6 @@
 id: 727
 title: 'The crypto triple threat club'
 date: '2012-06-11T01:24:03-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=727'
 permalink: /2012/06/the-crypto-triple-threat-club/

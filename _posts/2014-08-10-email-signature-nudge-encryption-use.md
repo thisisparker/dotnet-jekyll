@@ -2,7 +2,6 @@
 id: 1395
 title: 'An email signature to encourage encryption use'
 date: '2014-08-10T17:38:38-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1395'
 permalink: /2014/08/email-signature-nudge-encryption-use/

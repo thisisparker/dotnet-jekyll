@@ -2,7 +2,6 @@
 id: 1648
 title: 'Rhyming &#8220;who phrases&#8221; from New York Times obituary headlines'
 date: '2016-10-11T23:11:58-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1648'
 permalink: /2016/10/rhyming-phrases-new-york-times-obituary-headlines/

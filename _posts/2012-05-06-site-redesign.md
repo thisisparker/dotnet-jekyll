@@ -2,7 +2,6 @@
 id: 690
 title: 'Site redesign'
 date: '2012-05-06T17:22:18-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=690'
 permalink: /2012/05/site-redesign/

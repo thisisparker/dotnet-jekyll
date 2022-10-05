@@ -2,7 +2,6 @@
 id: 1571
 title: 'Supreme Court Data (2015)'
 date: '2015-12-15T18:18:36-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1571'
 permalink: /2015/12/supreme-court-data-2015/

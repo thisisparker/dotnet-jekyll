@@ -2,7 +2,6 @@
 id: 2075
 title: 'New Rossword puzzle'
 date: '2021-03-07T04:05:00-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=2075'
 permalink: /2021/03/new-rossword-puzzle/

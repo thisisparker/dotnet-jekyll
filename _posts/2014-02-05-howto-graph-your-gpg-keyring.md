@@ -2,7 +2,6 @@
 id: 1308
 title: 'HOWTO: Graph your GPG keyring'
 date: '2014-02-05T22:44:46-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1308'
 permalink: /2014/02/howto-graph-your-gpg-keyring/

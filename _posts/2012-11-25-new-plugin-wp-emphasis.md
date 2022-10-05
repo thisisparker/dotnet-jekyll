@@ -2,7 +2,6 @@
 id: 915
 title: 'New plugin: WP Emphasis'
 date: '2012-11-25T00:39:50-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=915'
 permalink: /2012/11/new-plugin-wp-emphasis/

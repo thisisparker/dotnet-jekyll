@@ -2,7 +2,6 @@
 id: 1597
 title: 'New bot: @choochoobot'
 date: '2016-03-13T23:58:31-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1597'
 permalink: /2016/03/new-bot-choochoobot/

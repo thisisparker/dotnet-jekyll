@@ -2,7 +2,6 @@
 id: 1552
 title: 'Vegetation Wants To Be Free, a Wikicon talk on pomological watercolors'
 date: '2015-10-13T10:12:57-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1552'
 permalink: /2015/10/vegetation-wants-to-be-free-a-wikicon-talk-on-pomological-watercolors/

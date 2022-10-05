@@ -2,7 +2,6 @@
 id: 1442
 title: 'Musical quote: They Might Be Giants and Darlene Love'
 date: '2015-01-11T21:52:45-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1442'
 permalink: /2015/01/musical-quote-might-giants-darlene-love/

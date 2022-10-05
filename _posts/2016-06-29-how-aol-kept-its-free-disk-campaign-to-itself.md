@@ -2,7 +2,6 @@
 id: 1629
 title: 'How AOL kept its free disk campaign to itself'
 date: '2016-06-29T21:47:47-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1629'
 permalink: /2016/06/how-aol-kept-its-free-disk-campaign-to-itself/

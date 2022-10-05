@@ -2,7 +2,6 @@
 id: 902
 title: 'My 2012 San Francisco ballot'
 date: '2012-11-04T20:52:17-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=902'
 permalink: /2012/11/2012-san-francisco-ballot/

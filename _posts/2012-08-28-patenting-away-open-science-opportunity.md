@@ -2,7 +2,6 @@
 id: 805
 title: 'Patenting away an open science opportunity'
 date: '2012-08-28T00:46:13-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=805'
 permalink: /2012/08/patenting-away-open-science-opportunity/

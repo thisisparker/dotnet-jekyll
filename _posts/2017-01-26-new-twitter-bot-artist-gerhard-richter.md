@@ -2,7 +2,6 @@
 id: 1673
 title: 'New Twitter bot after artist Gerhard Richter'
 date: '2017-01-26T10:06:35-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1673'
 permalink: /2017/01/new-twitter-bot-artist-gerhard-richter/

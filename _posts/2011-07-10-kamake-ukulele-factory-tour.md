@@ -2,7 +2,6 @@
 id: 303
 title: 'Touring the Kamake ukulele factory'
 date: '2011-07-10T10:05:03-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=303'
 permalink: /2011/07/kamake-ukulele-factory-tour/

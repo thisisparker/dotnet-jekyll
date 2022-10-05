@@ -2,7 +2,6 @@
 id: 1453
 title: 'Earth to Elon: please let the public domain have space photos'
 date: '2015-02-16T00:55:00-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1453'
 permalink: /2015/02/earth-elon-please-let-public-domain-space-photos/

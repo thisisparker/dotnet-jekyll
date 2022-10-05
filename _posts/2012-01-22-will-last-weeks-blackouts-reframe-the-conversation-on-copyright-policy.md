@@ -2,7 +2,6 @@
 id: 448
 title: 'Will last week&#8217;s blackouts reframe the conversation on copyright policy?'
 date: '2012-01-22T23:25:15-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=448'
 permalink: /2012/01/will-last-weeks-blackouts-reframe-the-conversation-on-copyright-policy/

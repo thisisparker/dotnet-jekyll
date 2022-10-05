@@ -2,7 +2,6 @@
 id: 28
 title: 'My profile of Solo Goodspeed'
 date: '2010-08-14T17:58:01-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=28'
 permalink: /2010/08/my-profile-of-solo-goodspeed/

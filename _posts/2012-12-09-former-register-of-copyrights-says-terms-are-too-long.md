@@ -2,7 +2,6 @@
 id: 919
 title: 'Former Register of Copyrights says terms are too long'
 date: '2012-12-09T16:33:03-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=919'
 permalink: /2012/12/former-register-of-copyrights-says-terms-are-too-long/

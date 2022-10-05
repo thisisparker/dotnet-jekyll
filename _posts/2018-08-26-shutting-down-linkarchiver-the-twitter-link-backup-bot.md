@@ -2,7 +2,6 @@
 id: 1862
 title: 'Shutting down @LinkArchiver, the Twitter link backup bot'
 date: '2018-08-26T15:13:52-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1862'
 permalink: /2018/08/shutting-down-linkarchiver-the-twitter-link-backup-bot/

@@ -2,7 +2,6 @@
 id: 80
 title: 'SoundCloud CC release'
 date: '2010-08-20T00:49:44-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=80'
 permalink: /2010/08/soundcloud-cc-release/

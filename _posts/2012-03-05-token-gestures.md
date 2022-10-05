@@ -2,7 +2,6 @@
 id: 546
 title: 'Token gestures'
 date: '2012-03-05T00:52:42-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=546'
 permalink: /2012/03/token-gestures/

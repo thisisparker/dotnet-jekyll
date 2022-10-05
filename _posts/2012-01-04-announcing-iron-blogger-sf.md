@@ -2,7 +2,6 @@
 id: 421
 title: 'Announcing: Iron Blogger SF'
 date: '2012-01-04T07:06:30-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=421'
 permalink: /2012/01/announcing-iron-blogger-sf/

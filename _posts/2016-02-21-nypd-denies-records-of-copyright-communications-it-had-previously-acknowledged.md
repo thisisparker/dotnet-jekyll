@@ -2,7 +2,6 @@
 id: 1593
 title: 'NYPD denies records of copyright communications it had previously acknowledged'
 date: '2016-02-21T21:02:27-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1593'
 permalink: /2016/02/nypd-denies-records-of-copyright-communications-it-had-previously-acknowledged/

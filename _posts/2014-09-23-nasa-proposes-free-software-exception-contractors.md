@@ -2,7 +2,6 @@
 id: 1419
 title: 'NASA proposes free software exception for contractors'
 date: '2014-09-23T20:13:45-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1419'
 permalink: /2014/09/nasa-proposes-free-software-exception-contractors/

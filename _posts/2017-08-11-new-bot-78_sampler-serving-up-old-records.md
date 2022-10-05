@@ -2,7 +2,6 @@
 id: 1737
 title: 'New bot: @78_sampler, serving up old records'
 date: '2017-08-11T10:36:49-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1737'
 permalink: /2017/08/new-bot-78_sampler-serving-up-old-records/

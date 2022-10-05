@@ -2,7 +2,6 @@
 id: 1699
 title: 'Building Mastodon to be frozen'
 date: '2017-04-30T17:21:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1699'
 permalink: /2017/04/building-mastodon-frozen/

@@ -2,7 +2,6 @@
 id: 253
 title: 'Dice mosaics'
 date: '2011-01-25T01:09:10-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=253'
 permalink: /2011/01/dice-mosaics/

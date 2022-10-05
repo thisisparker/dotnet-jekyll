@@ -2,7 +2,6 @@
 id: 414
 title: 'My 2011 Charitable Giving Guide'
 date: '2011-12-25T09:26:06-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=414'
 permalink: /2011/12/my-2011-charitable-giving-guide/

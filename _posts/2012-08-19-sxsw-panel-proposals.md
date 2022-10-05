@@ -2,7 +2,6 @@
 id: 797
 title: 'SXSW panel proposals'
 date: '2012-08-19T23:21:29-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=797'
 permalink: /2012/08/sxsw-panel-proposals/

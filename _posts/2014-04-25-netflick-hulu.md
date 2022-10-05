@@ -2,7 +2,6 @@
 id: 1339
 title: 'Netflick, Hulu'
 date: '2014-04-25T14:49:13-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1339'
 permalink: /2014/04/netflick-hulu/

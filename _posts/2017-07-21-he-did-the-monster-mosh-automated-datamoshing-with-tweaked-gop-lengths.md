@@ -2,7 +2,6 @@
 id: 1723
 title: 'He did the monster mosh: automated datamoshing with tweaked GOP lengths'
 date: '2017-07-21T14:52:32-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1723'
 permalink: /2017/07/he-did-the-monster-mosh-automated-datamoshing-with-tweaked-gop-lengths/

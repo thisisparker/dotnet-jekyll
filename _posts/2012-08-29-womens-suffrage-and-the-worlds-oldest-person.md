@@ -2,7 +2,6 @@
 id: 811
 title: 'Women&#8217;s suffrage and the world&#8217;s oldest person'
 date: '2012-08-29T09:30:43-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=811'
 permalink: /2012/08/womens-suffrage-and-the-worlds-oldest-person/

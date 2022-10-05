@@ -2,7 +2,6 @@
 id: 1002
 title: 'Kicking off year two of Iron Blogger SF'
 date: '2013-01-14T23:58:52-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1002'
 permalink: /2013/01/kicking-off-year-two-of-iron-blogger-sf/

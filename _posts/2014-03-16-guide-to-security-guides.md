@@ -2,7 +2,6 @@
 id: 1326
 title: 'Guide to security guides'
 date: '2014-03-16T22:49:59-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1326'
 permalink: /2014/03/guide-to-security-guides/

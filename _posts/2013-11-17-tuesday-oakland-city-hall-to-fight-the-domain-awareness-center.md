@@ -2,7 +2,6 @@
 id: 1269
 title: 'Tuesday: Oakland City Hall to fight the Domain Awareness Center'
 date: '2013-11-17T15:09:02-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1269'
 permalink: /2013/11/tuesday-oakland-city-hall-to-fight-the-domain-awareness-center/

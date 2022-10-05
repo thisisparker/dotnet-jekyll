@@ -2,7 +2,6 @@
 id: 1375
 title: 'Illegal spying below: my trip over Utah'
 date: '2014-06-28T22:09:04-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1375'
 permalink: /2014/06/illegal-spying-below-my-trip-over-utah/

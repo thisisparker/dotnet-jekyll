@@ -2,7 +2,6 @@
 id: 1272
 title: 'Remarkable selfies from the public domain'
 date: '2013-11-19T10:17:09-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1272'
 permalink: /2013/11/remarkable-selfies-from-the-public-domain/

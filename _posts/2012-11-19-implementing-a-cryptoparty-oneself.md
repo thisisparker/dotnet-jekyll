@@ -2,7 +2,6 @@
 id: 912
 title: 'Implementing a CryptoParty Oneself'
 date: '2012-11-19T01:01:17-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=912'
 permalink: /2012/11/implementing-a-cryptoparty-oneself/

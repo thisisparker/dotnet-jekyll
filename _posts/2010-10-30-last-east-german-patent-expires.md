@@ -2,7 +2,6 @@
 id: 171
 title: 'Last East German patent expires'
 date: '2010-10-30T13:55:18-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=171'
 permalink: /2010/10/last-east-german-patent-expires/

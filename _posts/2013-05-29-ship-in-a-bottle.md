@@ -2,7 +2,6 @@
 id: 1201
 title: 'Ship in a bottle'
 date: '2013-05-29T18:06:31-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1201'
 permalink: /2013/05/ship-in-a-bottle/

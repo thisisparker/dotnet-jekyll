@@ -2,7 +2,6 @@
 id: 192
 title: 'Metro Maps Kindle screensaver pack, v1.0'
 date: '2010-12-21T23:09:02-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=192'
 permalink: /2010/12/metro-maps-kindle-screensaver/

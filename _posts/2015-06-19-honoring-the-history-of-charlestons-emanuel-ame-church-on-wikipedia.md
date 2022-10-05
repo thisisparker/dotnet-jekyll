@@ -2,7 +2,6 @@
 id: 1511
 title: 'Honoring the history of Charleston&#8217;s Emanuel AME Church on Wikipedia'
 date: '2015-06-19T20:15:03-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1511'
 permalink: /2015/06/honoring-the-history-of-charlestons-emanuel-ame-church-on-wikipedia/

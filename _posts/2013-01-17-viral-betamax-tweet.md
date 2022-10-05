@@ -2,7 +2,6 @@
 id: 1005
 title: 'Viral Betamax tweet'
 date: '2013-01-17T21:31:36-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1005'
 permalink: /2013/01/viral-betamax-tweet/

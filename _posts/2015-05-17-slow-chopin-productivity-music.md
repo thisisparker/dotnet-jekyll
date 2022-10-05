@@ -2,7 +2,6 @@
 id: 1505
 title: 'Slow Chopin productivity music'
 date: '2015-05-17T11:58:37-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1505'
 permalink: /2015/05/slow-chopin-productivity-music/

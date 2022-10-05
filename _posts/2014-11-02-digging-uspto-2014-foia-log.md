@@ -2,7 +2,6 @@
 id: 1425
 title: 'Digging in to the USPTO FOIA 2014 log'
 date: '2014-11-02T16:13:18-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1425'
 permalink: /2014/11/digging-uspto-2014-foia-log/

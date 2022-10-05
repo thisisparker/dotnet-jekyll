@@ -2,7 +2,6 @@
 id: 154
 title: 'Free Culture Research Conference'
 date: '2010-10-08T13:48:35-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=154'
 permalink: /2010/10/free-culture-research-conference/

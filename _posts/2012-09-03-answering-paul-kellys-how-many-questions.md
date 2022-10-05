@@ -2,7 +2,6 @@
 id: 825
 title: 'Answering Paul Kelly&#8217;s &#8220;how many?&#8221; questions'
 date: '2012-09-03T01:09:55-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=825'
 permalink: /2012/09/answering-paul-kellys-how-many-questions/

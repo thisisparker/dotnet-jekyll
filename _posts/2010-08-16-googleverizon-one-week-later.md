@@ -2,7 +2,6 @@
 id: 54
 title: 'Google/Verizon, one week later'
 date: '2010-08-16T12:00:07-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=54'
 permalink: /2010/08/googleverizon-one-week-later/

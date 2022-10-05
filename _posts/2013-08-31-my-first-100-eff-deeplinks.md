@@ -2,7 +2,6 @@
 id: 1222
 title: 'My first 100 EFF deeplinks'
 date: '2013-08-31T08:04:37-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1222'
 permalink: /2013/08/my-first-100-eff-deeplinks/

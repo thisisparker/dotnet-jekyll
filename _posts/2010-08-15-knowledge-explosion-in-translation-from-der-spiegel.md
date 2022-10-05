@@ -2,7 +2,6 @@
 id: 46
 title: 'Knowledge Explosion, in translation from der Spiegel'
 date: '2010-08-15T14:45:38-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=46'
 permalink: /2010/08/knowledge-explosion-in-translation-from-der-spiegel/

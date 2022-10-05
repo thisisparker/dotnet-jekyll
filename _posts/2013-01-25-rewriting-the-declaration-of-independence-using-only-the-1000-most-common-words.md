@@ -2,7 +2,6 @@
 id: 1011
 title: 'Rewriting the Declaration of Independence using only the 1000 most common words'
 date: '2013-01-25T17:13:56-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1011'
 permalink: /2013/01/rewriting-the-declaration-of-independence-using-only-the-1000-most-common-words/

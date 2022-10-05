@@ -2,7 +2,6 @@
 id: 1656
 title: 'Candidates saying cyber, now with more music'
 date: '2016-10-30T23:20:54-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1656'
 permalink: /2016/10/candidates-saying-cyber-now-music/

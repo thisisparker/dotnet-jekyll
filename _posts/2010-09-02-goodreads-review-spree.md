@@ -2,7 +2,6 @@
 id: 101
 title: 'Goodreads review spree'
 date: '2010-09-02T02:02:51-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=101'
 permalink: /2010/09/goodreads-review-spree/

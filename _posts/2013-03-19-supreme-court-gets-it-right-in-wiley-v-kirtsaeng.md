@@ -2,7 +2,6 @@
 id: 1059
 title: 'Supreme Court gets it right in Wiley v Kirtsaeng'
 date: '2013-03-19T09:54:48-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1059'
 permalink: /2013/03/supreme-court-gets-it-right-in-wiley-v-kirtsaeng/

@@ -2,7 +2,6 @@
 id: 1549
 title: 'Limiting Javascript to secure origins in Firefox'
 date: '2015-09-28T20:08:39-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1549'
 permalink: /2015/09/limiting-javascript-to-secure-origins-in-firefox/

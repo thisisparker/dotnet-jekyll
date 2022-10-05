@@ -2,7 +2,6 @@
 id: 1063
 title: 'April Fools&#8217; Day EFFector, 2013'
 date: '2013-04-01T00:35:42-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1063'
 permalink: /2013/04/april-fools-day-effector-2013/

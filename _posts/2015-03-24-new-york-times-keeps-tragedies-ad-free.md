@@ -2,7 +2,6 @@
 id: 1485
 title: 'How the New York Times keeps tragedies ad-free'
 date: '2015-03-24T16:48:36-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1485'
 permalink: /2015/03/new-york-times-keeps-tragedies-ad-free/

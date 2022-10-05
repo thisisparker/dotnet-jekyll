@@ -2,7 +2,6 @@
 id: 1359
 title: 'Accepting Amazon&#8217;s DRM makes it impossible to challenge its monopoly'
 date: '2014-05-26T15:56:32-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1359'
 permalink: /2014/05/accepting-amazons-drm-makes-it-impossible-to-challenge-its-monopoly/

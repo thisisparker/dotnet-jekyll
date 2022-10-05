@@ -2,7 +2,6 @@
 id: 66
 title: 'Paulstretch on Ubuntu 10.04'
 date: '2010-08-18T16:33:05-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=66'
 permalink: /2010/08/paulstretch-on-ubuntu-10-04/

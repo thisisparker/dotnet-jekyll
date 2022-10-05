@@ -2,7 +2,6 @@
 id: 657
 title: 'Interesting questions from the CC 4.0 draft discussions'
 date: '2012-04-23T00:56:52-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=657'
 permalink: /2012/04/interesting-questions-from-the-cc-4-0-draft-discussions/

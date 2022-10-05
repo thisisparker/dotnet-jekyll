@@ -2,7 +2,6 @@
 id: 1329
 title: 'Newsletter launch: 5 Useful Articles'
 date: '2014-03-30T10:53:24-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1329'
 permalink: /2014/03/newsletter-launch-5-useful-articles/

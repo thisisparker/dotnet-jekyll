@@ -2,7 +2,6 @@
 id: 1563
 title: '1000 apple cultivars for the corpora project'
 date: '2015-11-10T21:45:33-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1563'
 permalink: /2015/11/1000-apple-cultivars-for-the-corpora-project/

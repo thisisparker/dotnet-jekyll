@@ -2,7 +2,6 @@
 id: 63
 title: 'Drumbeat Berlin tonight'
 date: '2010-08-17T07:00:41-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=63'
 permalink: /2010/08/drumbeat-berlin-tonight/

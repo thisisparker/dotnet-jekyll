@@ -2,7 +2,6 @@
 id: 1051
 title: 'Arranging the keys'
 date: '2013-03-03T20:16:46-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1051'
 permalink: /2013/03/arranging-the-keys/

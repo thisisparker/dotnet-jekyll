@@ -2,7 +2,6 @@
 id: 1348
 title: 'Where is the copyright maximalist dystopian sci-fi?'
 date: '2014-04-28T09:17:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1348'
 permalink: /2014/04/where-is-the-copyright-maximalist-dystopian-sci-fi/

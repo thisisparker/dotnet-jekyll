@@ -2,7 +2,6 @@
 id: 645
 title: 'Lessons from the Reynoso report'
 date: '2012-04-16T01:25:26-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=645'
 permalink: /2012/04/lessons-from-the-reynoso-report/

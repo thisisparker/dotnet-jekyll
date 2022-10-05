@@ -2,7 +2,6 @@
 id: 676
 title: 'Conversation&#8217;s just fine, thanks: a response to Sherry Turkle'
 date: '2012-04-29T22:46:55-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=676'
 permalink: /2012/04/conversations-just-fine-thanks-a-response-to-sherry-turkle/

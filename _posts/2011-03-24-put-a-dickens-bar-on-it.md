@@ -2,7 +2,6 @@
 id: 291
 title: 'Put a Dickens Bar on it'
 date: '2011-03-24T21:21:46-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=291'
 permalink: /2011/03/put-a-dickens-bar-on-it/

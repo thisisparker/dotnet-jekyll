@@ -2,7 +2,6 @@
 id: 1734
 title: 'Hosting change'
 date: '2017-07-28T14:54:36-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1734'
 permalink: /2017/07/hosting-change/

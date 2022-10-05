@@ -2,7 +2,6 @@
 id: 1392
 title: 'Uber passenger ratings and algorithmic discrimination'
 date: '2014-07-28T00:59:26-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1392'
 permalink: /2014/07/uber-passenger-ratings-algorithmic-discrimination/

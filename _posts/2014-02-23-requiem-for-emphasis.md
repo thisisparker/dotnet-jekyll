@@ -2,7 +2,6 @@
 id: 1316
 title: 'Requiem for Emphasis'
 date: '2014-02-23T20:49:43-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1316'
 permalink: /2014/02/requiem-for-emphasis/

@@ -2,7 +2,6 @@
 id: 1668
 title: 'New bot: @i_remember_txt, tweeting Joe Brainard&#8217;s &#8220;I Remember&#8221; (1975)'
 date: '2017-01-23T20:31:55-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1668'
 permalink: /2017/01/new-bot-i-remember-txt-joe-brainard-i-remember/

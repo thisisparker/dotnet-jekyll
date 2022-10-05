@@ -2,7 +2,6 @@
 id: 1342
 title: 'Andy Warhol&#8217;s recovered digital artworks and copyright notice'
 date: '2014-04-24T22:07:41-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1342'
 permalink: /2014/04/andy-warhols-recovered-digital-artworks-and-copyright-notice/

@@ -2,7 +2,6 @@
 id: 620
 title: 'DRM means missed opportunities for e-books'
 date: '2012-04-08T10:08:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=620'
 permalink: /2012/04/drm-means-missed-opportunities-for-e-books/

@@ -2,7 +2,6 @@
 id: 1024
 title: 'New policy: don&#8217;t share coverage of academic research unless the research is open access'
 date: '2013-02-03T21:57:44-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1024'
 permalink: /2013/02/new-policy-dont-share-coverage-of-academic-research-unless-the-research-is-open-access/

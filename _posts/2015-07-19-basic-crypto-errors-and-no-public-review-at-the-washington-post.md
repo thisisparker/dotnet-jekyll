@@ -2,7 +2,6 @@
 id: 1516
 title: 'Basic crypto errors and no public review at the Washington Post'
 date: '2015-07-19T22:25:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1516'
 permalink: /2015/07/basic-crypto-errors-and-no-public-review-at-the-washington-post/

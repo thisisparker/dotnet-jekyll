@@ -2,7 +2,6 @@
 id: 853
 title: 'My sceneries from the plane window'
 date: '2012-09-23T16:13:49-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=853'
 permalink: /2012/09/my-sceneries-from-the-plane-window/

@@ -2,7 +2,6 @@
 id: 204
 title: 'Some thoughts on &#8220;When Free Software Isn&#8217;t Better&#8221;'
 date: '2010-12-20T03:34:24-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=204'
 permalink: /2010/12/some-thoughts-on-when-free-software-isnt-better/

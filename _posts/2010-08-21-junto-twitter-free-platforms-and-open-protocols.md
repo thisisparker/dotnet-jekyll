@@ -2,7 +2,6 @@
 id: 84
 title: 'Junto, Twitter, free platforms, and open protocols'
 date: '2010-08-21T21:24:09-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=84'
 permalink: /2010/08/junto-twitter-free-platforms-and-open-protocols/

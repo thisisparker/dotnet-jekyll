@@ -2,7 +2,6 @@
 id: 1298
 title: 'Copyright reform in Australia and Brazil'
 date: '2014-01-20T01:18:35-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1298'
 permalink: /2014/01/copyright-reform-in-australia-and-brazil/

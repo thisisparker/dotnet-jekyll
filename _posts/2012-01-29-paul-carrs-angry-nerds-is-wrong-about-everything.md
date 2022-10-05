@@ -2,7 +2,6 @@
 id: 458
 title: 'Paul Carr&#8217;s &#8220;Angry Nerds&#8221; piece is wrong about everything'
 date: '2012-01-29T03:04:56-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=458'
 permalink: /2012/01/paul-carrs-angry-nerds-is-wrong-about-everything/

@@ -2,7 +2,6 @@
 id: 339
 title: 'The best free culture TED talks'
 date: '2011-07-24T19:45:38-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=339'
 permalink: /2011/07/the-best-free-culture-ted-talks/

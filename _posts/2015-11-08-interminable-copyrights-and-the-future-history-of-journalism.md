@@ -2,7 +2,6 @@
 id: 1562
 title: 'Interminable copyrights and the (future) history of journalism'
 date: '2015-11-08T20:53:06-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1562'
 permalink: /2015/11/interminable-copyrights-and-the-future-history-of-journalism/

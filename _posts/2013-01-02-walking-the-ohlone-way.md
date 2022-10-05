@@ -2,7 +2,6 @@
 id: 951
 title: 'Walking the Ohlone Way'
 date: '2013-01-02T02:18:15-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=951'
 permalink: /2013/01/walking-the-ohlone-way/

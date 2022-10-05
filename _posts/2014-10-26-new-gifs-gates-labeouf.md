@@ -2,7 +2,6 @@
 id: 1424
 title: 'New GIFs: Gates and LaBeouf'
 date: '2014-10-26T16:45:54-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1424'
 permalink: /2014/10/new-gifs-gates-labeouf/

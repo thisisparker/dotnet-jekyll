@@ -2,7 +2,6 @@
 id: 140
 title: 'Responses to Malcom Gladwell&#8217;s social media article'
 date: '2010-09-29T15:00:32-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=140'
 permalink: /2010/09/responses-to-malcom-gladwells-social-media-article/

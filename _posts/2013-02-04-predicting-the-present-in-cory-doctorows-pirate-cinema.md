@@ -2,7 +2,6 @@
 id: 1028
 title: 'Predicting the present in Cory Doctorow&#8217;s &#8220;Pirate Cinema&#8221;'
 date: '2013-02-04T08:00:13-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1028'
 permalink: /2013/02/predicting-the-present-in-cory-doctorows-pirate-cinema/

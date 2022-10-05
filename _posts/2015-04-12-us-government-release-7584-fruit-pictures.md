@@ -2,7 +2,6 @@
 id: 1492
 title: 'The US government should release these 7,584 fruit paintings'
 date: '2015-04-12T23:01:18-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1492'
 permalink: /2015/04/us-government-release-7584-fruit-pictures/

@@ -2,7 +2,6 @@
 id: 475
 title: 'HOWTO: Transfer OTR private keys between Adium and Pidgin'
 date: '2012-01-30T01:44:24-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=475'
 permalink: /2012/01/howto-transfer-otr-private-keys-between-adium-and-pidgin/

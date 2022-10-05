@@ -2,7 +2,6 @@
 id: 737
 title: 'Golden Gate Bridge, minimal'
 date: '2012-07-01T02:15:46-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=737'
 permalink: /2012/07/golden-gate-bridge-minimal/

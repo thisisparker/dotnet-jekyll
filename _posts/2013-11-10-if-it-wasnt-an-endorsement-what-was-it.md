@@ -2,7 +2,6 @@
 id: 1265
 title: 'If it wasn&#8217;t an endorsement, what was it?'
 date: '2013-11-10T21:25:14-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1265'
 permalink: /2013/11/if-it-wasnt-an-endorsement-what-was-it/

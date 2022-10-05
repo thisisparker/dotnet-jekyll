@@ -2,7 +2,6 @@
 id: 181
 title: 'What if the largest states had the biggest populations?'
 date: '2010-11-24T09:52:14-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=181'
 permalink: /2010/11/what-if-the-largest-states-had-the-biggest-populations/

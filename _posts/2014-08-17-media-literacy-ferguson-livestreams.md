@@ -2,7 +2,6 @@
 id: 1401
 title: 'Media literacy and #Ferguson livestreams'
 date: '2014-08-17T23:19:01-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1401'
 permalink: /2014/08/media-literacy-ferguson-livestreams/

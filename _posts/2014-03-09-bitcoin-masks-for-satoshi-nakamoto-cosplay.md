@@ -2,7 +2,6 @@
 id: 1322
 title: 'Bitcoin masks for Satoshi Nakamoto cosplay'
 date: '2014-03-09T12:44:47-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1322'
 permalink: /2014/03/bitcoin-masks-for-satoshi-nakamoto-cosplay/

@@ -2,7 +2,6 @@
 id: 861
 title: 'Square&#8217;s security anti-patterns'
 date: '2012-10-08T00:38:13-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=861'
 permalink: /2012/10/squares-security-anti-patterns/

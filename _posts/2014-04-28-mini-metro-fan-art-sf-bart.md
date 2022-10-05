@@ -2,7 +2,6 @@
 id: 1351
 title: 'Mini Metro fan art: SF BART'
 date: '2014-04-28T23:17:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1351'
 permalink: /2014/04/mini-metro-fan-art-sf-bart/

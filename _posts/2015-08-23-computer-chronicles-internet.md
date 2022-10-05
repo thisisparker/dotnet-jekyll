@@ -2,7 +2,6 @@
 id: 1527
 title: 'Computer Chronicles: Internet'
 date: '2015-08-23T22:40:48-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1527'
 permalink: /2015/08/computer-chronicles-internet/

@@ -2,7 +2,6 @@
 id: 470
 title: 'Twitter&#8217;s best-in-class censorship reveals weaknesses in centralized corporate communication channels'
 date: '2012-01-29T18:29:34-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=470'
 permalink: /2012/01/twitters-best-in-class-censorship-reveals-weaknesses-in-corporate-centralized-communication-channels/

@@ -2,7 +2,6 @@
 id: 1097
 title: 'The amazing library in Psy&#8217;s &#8220;Gentleman&#8221; video'
 date: '2013-04-14T12:13:11-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1097'
 permalink: /2013/04/the-amazing-library-in-psys-gentleman-video/

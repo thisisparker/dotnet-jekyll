@@ -2,7 +2,6 @@
 id: 1203
 title: 'The pirate drawings of 1922'
 date: '2013-05-30T17:43:52-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1203'
 permalink: /2013/05/the-pirate-drawings-of-1922/

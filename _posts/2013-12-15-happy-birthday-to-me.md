@@ -2,7 +2,6 @@
 id: 1290
 title: 'Happy birthday to me'
 date: '2013-12-15T23:13:17-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1290'
 permalink: /2013/12/happy-birthday-to-me/

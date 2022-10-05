@@ -2,7 +2,6 @@
 id: 1299
 title: 'New Wikipedia article: Michael S. Rogers'
 date: '2014-01-26T16:10:04-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1299'
 permalink: /2014/01/new-wikipedia-article-michael-s-rogers/

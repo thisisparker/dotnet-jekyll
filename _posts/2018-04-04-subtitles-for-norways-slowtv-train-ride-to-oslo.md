@@ -2,7 +2,6 @@
 id: 1816
 title: 'Subtitles for Norway&#8217;s SlowTV train ride to Oslo'
 date: '2018-04-04T19:24:12-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1816'
 permalink: /2018/04/subtitles-for-norways-slowtv-train-ride-to-oslo/

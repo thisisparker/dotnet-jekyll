@@ -2,7 +2,6 @@
 id: 1368
 title: '&#8220;Come Take A Trip In My Airship&#8221;'
 date: '2014-06-21T00:21:48-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1368'
 permalink: /2014/06/come-take-a-trip-in-my-airship/

@@ -2,7 +2,6 @@
 id: 776
 title: 'Public transit and lawful access'
 date: '2012-08-06T03:12:25-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=776'
 permalink: /2012/08/public-transit-and-lawful-access/

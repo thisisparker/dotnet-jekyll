@@ -2,7 +2,6 @@
 id: 1407
 title: 'Chalking &#8220;STOP NSA SPYING&#8221; on Snowden&#8217;s old street'
 date: '2014-08-31T19:25:00-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1407'
 permalink: /2014/08/chalking-stop-nsa-spying-snowdens-old-street/

@@ -2,7 +2,6 @@
 id: 1369
 title: 'My cousin Chris'
 date: '2014-06-15T22:40:45-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1369'
 permalink: /2014/06/my-cousin-chris/

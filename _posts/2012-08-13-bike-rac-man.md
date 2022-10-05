@@ -2,7 +2,6 @@
 id: 786
 title: 'Bike Rac-Man'
 date: '2012-08-13T00:36:10-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=786'
 permalink: /2012/08/bike-rac-man/

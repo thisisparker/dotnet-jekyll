@@ -2,7 +2,6 @@
 id: 1353
 title: 'The Supreme Court&#8217;s real technology problem'
 date: '2014-04-30T17:24:21-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1353'
 permalink: /2014/04/the-supreme-courts-real-technology-problem/

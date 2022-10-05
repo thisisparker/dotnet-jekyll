@@ -2,7 +2,6 @@
 id: 1069
 title: 'A visit from San Francisco&#8217;s wild parrots'
 date: '2013-04-07T11:06:21-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1069'
 permalink: /2013/04/a-visit-from-san-franciscos-wild-parrots/

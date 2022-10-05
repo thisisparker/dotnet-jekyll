@@ -2,7 +2,6 @@
 id: 1231
 title: 'Bill McKibben and the &#8220;currencies&#8221; of change'
 date: '2013-09-16T08:00:58-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1231'
 permalink: /2013/09/bill-mckibben-and-the-currencies-of-change/

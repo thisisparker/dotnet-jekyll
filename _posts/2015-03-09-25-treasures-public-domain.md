@@ -2,7 +2,6 @@
 id: 1463
 title: '25 treasures from the public domain'
 date: '2015-03-09T01:11:54-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1463'
 permalink: /2015/03/25-treasures-public-domain/

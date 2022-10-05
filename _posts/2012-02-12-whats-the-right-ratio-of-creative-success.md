@@ -2,7 +2,6 @@
 id: 520
 title: 'What&#8217;s the right ratio of creative success?'
 date: '2012-02-12T13:44:58-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=520'
 permalink: /2012/02/whats-the-right-ratio-of-creative-success/

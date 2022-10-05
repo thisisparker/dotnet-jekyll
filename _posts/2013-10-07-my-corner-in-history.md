@@ -2,7 +2,6 @@
 id: 1235
 title: 'My corner in history'
 date: '2013-10-07T01:16:11-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1235'
 permalink: /2013/10/my-corner-in-history/

@@ -2,7 +2,6 @@
 id: 444
 title: 'Voluntary obsolescence: checking out of the upgrade cycle'
 date: '2012-01-15T22:43:37-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=444'
 permalink: /2012/01/voluntary-obsolescence-checking-out-of-the-upgrade-cycle/

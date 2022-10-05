@@ -2,7 +2,6 @@
 id: 1488
 title: 'Anonymous speech could be caught in the online abuse crossfire'
 date: '2015-03-28T15:33:14-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1488'
 permalink: /2015/03/anonymous-speech-caught-online-abuse-crossfire/

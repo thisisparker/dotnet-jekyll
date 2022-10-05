@@ -2,7 +2,6 @@
 id: 1312
 title: 'Ex Postal Facto and mail art'
 date: '2014-02-16T22:34:50-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1312'
 permalink: /2014/02/ex-postal-facto-and-mail-art/

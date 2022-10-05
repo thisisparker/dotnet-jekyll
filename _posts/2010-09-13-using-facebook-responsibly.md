@@ -2,7 +2,6 @@
 id: 105
 title: 'Using Facebook responsibly'
 date: '2010-09-13T19:30:43-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=105'
 permalink: /2010/09/using-facebook-responsibly/

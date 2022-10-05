@@ -2,7 +2,6 @@
 id: 752
 title: 'Pwn the Drones presentation at HOPE'
 date: '2012-07-29T22:16:27-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=752'
 permalink: /2012/07/pwn-the-drones-presentation-at-hope/

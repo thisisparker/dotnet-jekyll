@@ -2,7 +2,6 @@
 id: 572
 title: 'A modest defense of QR codes'
 date: '2012-03-19T01:32:59-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=572'
 permalink: /2012/03/a-modest-defense-of-qr-codes/

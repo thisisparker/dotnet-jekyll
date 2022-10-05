@@ -2,7 +2,6 @@
 id: 1295
 title: 'My Android &#8220;personal dictionary&#8221;'
 date: '2014-01-08T22:59:18-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1295'
 permalink: /2014/01/my-android-personal-dictionary/

@@ -2,7 +2,6 @@
 id: 1755
 title: 'Pulling free and open weather data'
 date: '2017-09-22T13:41:19-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1755'
 permalink: /2017/09/pulling-free-and-open-weather-data-in-python/

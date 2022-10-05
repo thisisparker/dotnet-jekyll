@@ -2,7 +2,6 @@
 id: 1332
 title: 'Silicon Valley ad tribute to Steve Jobs: fair use?'
 date: '2014-04-04T23:09:37-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1332'
 permalink: /2014/04/silicon-valley-ad-tribute-to-steve-jobs-fair-use/

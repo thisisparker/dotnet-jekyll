@@ -2,7 +2,6 @@
 id: 1751
 title: '&#8220;A Mind At Play&#8221; and Claude Shannon&#8217;s grave'
 date: '2017-09-20T13:55:16-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1751'
 permalink: /2017/09/a-mind-at-play-and-claude-shannons-grave/

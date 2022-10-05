@@ -2,7 +2,6 @@
 id: 1427
 title: 'On Lichtenstein and &#8220;theft&#8221;'
 date: '2014-11-10T01:24:20-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1427'
 permalink: /2014/11/lichtenstein-theft/

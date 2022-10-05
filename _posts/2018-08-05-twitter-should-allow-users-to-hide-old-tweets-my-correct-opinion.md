@@ -2,7 +2,6 @@
 id: 1843
 title: 'Twitter should allow users to &#8220;hide&#8221; old tweets: my correct opinion'
 date: '2018-08-05T12:29:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1843'
 permalink: /2018/08/twitter-should-allow-users-to-hide-old-tweets-my-correct-opinion/

@@ -2,7 +2,6 @@
 id: 1599
 title: 'Making ethical bots, over at Motherboard'
 date: '2016-03-27T22:48:06-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1599'
 permalink: /2016/03/making-ethical-twitter-bots-motherboard/

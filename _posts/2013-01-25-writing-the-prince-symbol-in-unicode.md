@@ -2,7 +2,6 @@
 id: 1012
 title: 'Writing the Prince symbol in Unicode'
 date: '2013-01-25T08:54:45-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1012'
 permalink: /2013/01/writing-the-prince-symbol-in-unicode/

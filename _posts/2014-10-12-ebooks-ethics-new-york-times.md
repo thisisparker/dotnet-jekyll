@@ -2,7 +2,6 @@
 id: 1422
 title: 'Ebooks and ethics in the New York Times'
 date: '2014-10-12T22:27:55-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1422'
 permalink: /2014/10/ebooks-ethics-new-york-times/

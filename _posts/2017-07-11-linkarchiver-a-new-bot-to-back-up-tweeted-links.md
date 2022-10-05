@@ -2,7 +2,6 @@
 id: 1715
 title: 'LinkArchiver, a new bot to back up tweeted links'
 date: '2017-07-11T13:10:04-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1715'
 permalink: /2017/07/linkarchiver-a-new-bot-to-back-up-tweeted-links/

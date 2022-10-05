@@ -2,7 +2,6 @@
 id: 1241
 title: 'Ripping CDs like a nerd in Mac OS X'
 date: '2013-10-09T23:10:07-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1241'
 permalink: /2013/10/ripping-cds-like-a-nerd-in-mac-os-x/

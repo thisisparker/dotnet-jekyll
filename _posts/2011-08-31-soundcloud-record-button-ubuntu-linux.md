@@ -2,7 +2,6 @@
 id: 371
 title: 'Getting the SoundCloud Record button to work in Ubuntu'
 date: '2011-08-31T21:08:02-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=371'
 permalink: /2011/08/soundcloud-record-button-ubuntu-linux/

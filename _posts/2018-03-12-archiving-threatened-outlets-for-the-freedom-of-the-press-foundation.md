@@ -2,7 +2,6 @@
 id: 1807
 title: 'Archiving threatened outlets for the Freedom of the Press Foundation'
 date: '2018-03-12T20:07:24-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1807'
 permalink: /2018/03/archiving-threatened-outlets-for-the-freedom-of-the-press-foundation/

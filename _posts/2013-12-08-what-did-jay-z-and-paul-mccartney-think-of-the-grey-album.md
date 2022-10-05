@@ -2,7 +2,6 @@
 id: 1283
 title: 'What did Jay Z and Paul McCartney think of the Grey Album?'
 date: '2013-12-08T23:28:39-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1283'
 permalink: /2013/12/what-did-jay-z-and-paul-mccartney-think-of-the-grey-album/

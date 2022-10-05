@@ -2,7 +2,6 @@
 id: 884
 title: 'HOWTO: Create an animated gif from a video with command line tools'
 date: '2012-10-22T03:29:13-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=884'
 permalink: /2012/10/howto-create-an-animated-gif-from-a-video-with-command-line-tools/

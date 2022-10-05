@@ -2,7 +2,6 @@
 id: 1519
 title: 'Misinformation works'
 date: '2015-07-31T17:46:37-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1519'
 permalink: /2015/07/misinformation-works/

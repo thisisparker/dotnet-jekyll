@@ -2,7 +2,6 @@
 id: 1455
 title: 'How does Fraktur degrade across platforms?'
 date: '2015-02-17T00:03:14-08:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1455'
 permalink: /2015/02/fraktur-degrade-across-platforms/

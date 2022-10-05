@@ -2,7 +2,6 @@
 id: 1337
 title: 'Why Netflix Instant&#8217;s selection sucks'
 date: '2014-04-10T01:35:05-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1337'
 permalink: /2014/04/why-netflix-instants-selection-sucks/

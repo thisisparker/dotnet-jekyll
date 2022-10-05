@@ -2,7 +2,6 @@
 id: 1548
 title: '200 Deeplinks at EFF'
 date: '2015-09-27T22:48:06-07:00'
-author: 'Parker Higgins'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1548'
 permalink: /2015/09/200-deeplinks-at-eff/
