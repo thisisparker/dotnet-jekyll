@@ -5,8 +5,6 @@ date: '2012-09-03T01:09:55-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=825'
 permalink: /2012/09/answering-paul-kellys-how-many-questions/
-categories:
-    - Uncategorized
 tags:
     - australia
     - music
@@ -29,8 +27,10 @@ I think the answer to this is pretty conclusively [between one and 30 vigintilli
 
 > How many notes in a saxophone?
 
-This one’s a bit tougher. These days, the standard accepted range for saxophone is between a B♭ below the treble clef to an F♯ above it. That’s about two and a half octaves, or a total of 32 notes. ((The glib answer, of course, is that there are twelve notes, repeated in various octaves.)) It’s possible, if a bit convoluted, to play a low A and a high G, so we can add two for a total of 34 notes.
+This one’s a bit tougher. These days, the standard accepted range for saxophone is between a B♭ below the treble clef to an F♯ above it. That’s about two and a half octaves, or a total of 32 notes.[^1] It’s possible, if a bit convoluted, to play a low A and a high G, so we can add two for a total of 34 notes.
 
 > How many tears in a bottle of gin?
 
 Assuming an average bottle size of 750 mL, and an average tear size of 6.2 µl (as per the research of [S. Mishima, A. Gasset, S. D. Klyce, Jr., and J. L. Baum \[pdf\]](http://www.iovs.org/content/5/3/264.full.pdf)), a bottle of gin could fit [121,000 tears](http://www.wolframalpha.com/input/?i=750+ml+%2F+6.2+µl). I don’t know why you’d want to do that, though.
+
+[^1]: The glib answer, of course, is that there are twelve notes, repeated in various octaves.

@@ -5,8 +5,6 @@ date: '2014-06-15T22:40:45-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1369'
 permalink: /2014/06/my-cousin-chris/
-categories:
-    - Uncategorized
 tags:
     - 'chris dodd'
     - geneology
@@ -15,7 +13,7 @@ tags:
 
 This weekend my dad and I dug through the family tree and determined that former senator and current MPAA chief Chris Dodd is his third cousin—and so my third cousin once removed. To be precise: my great-great-great-grandfather Michael Higgins is Chris Dodd’s great-great-grandfather.
 
-<div class="wp-caption alignright" id="attachment_1370" style="width: 293px">![](https://parkerhiggins.net/wp-content/uploads/2014/06/Bl1-BO2IQAAVIFV.jpg)The Senator and I.
+<div class="wp-caption alignright" id="attachment_1370" style="width: 293px" markdown="1">![](https://parkerhiggins.net/wp-content/uploads/2014/06/Bl1-BO2IQAAVIFV.jpg)The Senator and I.
 
 </div>Michael Higgins was born in Knockanore, County Waterford, Ireland in 1814, and had some four or five children with his wife Margaret Geary. Between about 1865 and 1870, the couple and their children (separately) sailed for the US and settled in Pawcatuck, Connecticut.
 

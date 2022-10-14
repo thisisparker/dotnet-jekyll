@@ -5,8 +5,6 @@ date: '2014-04-04T23:09:37-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1332'
 permalink: /2014/04/silicon-valley-ad-tribute-to-steve-jobs-fair-use/
-categories:
-    - Uncategorized
 tags:
     - copyright
     - 'fair use'
@@ -19,7 +17,7 @@ I saw this ad for the new HBO show Silicon Valley in a BART station on the way h
 
 In case you’re not familiar with the original, this is a straightforward parody of [Albert M. Watson’s famous portrait of Steve Jobs](http://petapixel.com/2011/10/06/the-story-behind-albert-watsons-portrait-of-steve-jobs/), which appeared on the cover of Jobs’s biography and the memorial Apple homepage after his death.
 
-Maybe I had copyright on the brain more than usual, but the ad immediately brought to mind the case *[Leibovitz v. Paramount](https://en.wikipedia.org/wiki/Leibovitz_v._Paramount_Pictures_Corp.)*. That case was over whether an advertisement for a Naked Gun movie (below, right)—a parody of an Annie Leibovitz portrait of Demi Moore on the cover of Vanity Fair (below, left)—was a fair use. ((Side note: I don’t remember this magazine cover or movie ad firsthand, but what staying power must the photo have had to be the recognizable target of a parody two years later! Is there any magazine cover in the past decade that is so iconic?))
+Maybe I had copyright on the brain more than usual, but the ad immediately brought to mind the case *[Leibovitz v. Paramount](https://en.wikipedia.org/wiki/Leibovitz_v._Paramount_Pictures_Corp.)*. That case was over whether an advertisement for a Naked Gun movie (below, right)—a parody of an Annie Leibovitz portrait of Demi Moore on the cover of Vanity Fair (below, left)—was a fair use.[^1]
 
 ![Images at issue in Leibovitz v. Paramount](https://parkerhiggins.net/wp-content/uploads/2014/04/leibovitzvparamount.png)
 
@@ -36,3 +34,5 @@ It’s possible, too, that Silicon Valley has a license with Watson. It’s a ha
 Even if the use of the photograph is a definite fair use or licensed, there’s another interesting possible legal obstacle. (I’m not a lawyer, and we’re out on the fringes here, so take this with a grain of salt.) It seems possible that the estate of Steve Jobs could claim the ad infringes his right of publicity. Such a claim in the Ninth Circuit could lean on *[White v. Samsung](https://en.wikipedia.org/wiki/White_v._Samsung#White_v._Samsung_Electronics_America.2C_Inc.)*, where a majority held that a robot shown in a Samsung ad was too similar to Vanna White. [Judge Kozinski’s dissent](https://en.wikisource.org/wiki/White_v._Samsung_Electronics_America,_Inc./En_banc_Opinion#Dissenting_Opinion) in this case is an all-time great.
 
 But doesn’t the group of Silicon Valley guys wearing the famous Jobs turtleneck and in his thoughtful pose evoke Jobs’s image just as much as the Samsung robot evokes White’s? In any case, I agree much more with Kozinski’s dissent than the holding in the case. I hope we don’t see such a challenge.
+
+[^1]: Side note: I don’t remember this magazine cover or movie ad firsthand, but what staying power must the photo have had to be the recognizable target of a parody two years later! Is there any magazine cover in the past decade that is so iconic? 

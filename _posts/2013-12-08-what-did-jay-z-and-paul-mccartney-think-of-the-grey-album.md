@@ -5,11 +5,6 @@ date: '2013-12-08T23:28:39-08:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1283'
 permalink: /2013/12/what-did-jay-z-and-paul-mccartney-think-of-the-grey-album/
-enclosure:
-    - "https://parkerhiggins.net/wp-content/uploads/2013/12/jayz-greyalbum.mp3\n1060361\naudio/mpeg\n"
-    - "https://parkerhiggins.net/wp-content/uploads/2013/12/paulmccartney-greyalbum.mp3\n258715\naudio/mpeg\n"
-categories:
-    - Uncategorized
 tags:
     - audio
     - 'grey album'
@@ -18,7 +13,7 @@ tags:
     - 'paul mccartney'
 ---
 
-I’ve been working on a writing project around [the Grey Album](https://en.wikipedia.org/wiki/The_Grey_Album), and that’s required a lot of research and digging into events that unfolded in 2003 and 2004. In some ways that’s incredibly frustrating: nearly every link I encounter is broken and requires more searching or an Internet Archive lookup ((thank god for the Internet Archive!)), and in some cases can’t be dug up at all. But in other ways it’s great, as the years between have been plenty of time for new information to come to light and sometimes heated issues to cool down.
+I’ve been working on a writing project around [the Grey Album](https://en.wikipedia.org/wiki/The_Grey_Album), and that’s required a lot of research and digging into events that unfolded in 2003 and 2004. In some ways that’s incredibly frustrating: nearly every link I encounter is broken and requires more searching or an Internet Archive lookup,[^1] and in some cases can’t be dug up at all. But in other ways it’s great, as the years between have been plenty of time for new information to come to light and sometimes heated issues to cool down.
 
 One basic thing is that, in the years since the Grey Album was released, Jay Z and Paul McCartney have both said on the record that they considered it a tribute and weren’t bothered by its creation.
 
@@ -31,3 +26,5 @@ Paul McCartney was asked less directly on a BBC1 special called “[The Beatles 
 <audio controls="controls" preload="none"><source src="https://parkerhiggins.net/wp-content/uploads/2013/12/paulmccartney-greyalbum.mp3"></source></audio>
 
 I haven’t found any record of Ringo commenting. If you find it, please let me know.
+
+[^1]: thank god for the Internet Archive!

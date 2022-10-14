@@ -5,8 +5,6 @@ date: '2012-01-07T19:08:49-08:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=427'
 permalink: /2012/01/whats-bothering-john-lilly-about-the-sopa-discussion/
-categories:
-    - Uncategorized
 tags:
     - 'john lilly'
     - response
@@ -27,10 +25,12 @@ Opponents of the bill point out when its supporters are lying, and when they see
 
 John also rightly points out that we need to be thinking critically about how copyright law can and should work today, and he claims that part of that process needs to be acknowledging the real problem facing rightsholders. I agree, of course, with the first part. But I think the second needs to be examined closer. Rightsholders might only have a “real problem” in a very limited sense of the word.
 
-The ease of copying can absolutely lead to missed profit opportunities. But [as Steve Blank points out in the Atlantic](http://www.theatlantic.com/business/archive/2012/01/sopa-is-a-symbol-of-the-movie-industrys-failure-to-innovate/250967/), the content industry’s track record of identifying which technologies will ultimately be profitable is abysmal, and they’re also not alone in dealing with “piracy”. Every area of commerce grapples with the fact that bad actors can thwart controls, but only the content industries are willing (and able!) to destroy innovation in other sectors to control it. ((The content industry may even be better off than other industries when it comes to piracy, because the version they face — copyright infringement — [isn’t even theft](http://www.slate.com/blogs/moneybox/2011/12/15/piracy_is_a_form_of_theft_and_copyright_infringement_is_neither.html).))
+The ease of copying can absolutely lead to missed profit opportunities. But [as Steve Blank points out in the Atlantic](http://www.theatlantic.com/business/archive/2012/01/sopa-is-a-symbol-of-the-movie-industrys-failure-to-innovate/250967/), the content industry’s track record of identifying which technologies will ultimately be profitable is abysmal, and they’re also not alone in dealing with “piracy”. Every area of commerce grapples with the fact that bad actors can thwart controls, but only the content industries are willing (and able!) to destroy innovation in other sectors to control it.[^1]
 
 Combine that history with the first point — that studios and labels are willing to flat-out lie to support their points — and it becomes hard to take their “problem” seriously. The tech community isn’t denying that Internet users can download Hollywood movies off servers in Sweden, but what does that actually mean for their business? The rightsholders’ plain insincerity, the lack of real data to support their position, and their uncanny knack for attacking each new technology as it emerges conspire against the precariousness of their position.
 
 Finally, and this is a point John acknowledges, these bills were not introduced in a way to foster a conversation. If the content industries were interested in a real conversation, they’d find willing participants. Trying to push through legislation that they wrote in secret with “[Hollywood’s favorite Republican](http://news.cnet.com/8301-31921_3-57343367-281/meet-sopa-author-lamar-smith-hollywoods-favorite-republican/)“, to a Congress [they’ve spent $91 million lobbying](http://www.politico.com/news/stories/1111/68448.html) this year alone, does not demonstrate a good faith effort on their part.
 
 A discussion about how copyright should be shaped and enforced in the face of changing technology and norms is a good one to have. But the people who recognize the importance of technology continue to be denied the opportunity to have that conversation with the other stakeholders. Instead, we have been put on the defensive against incoming legislative U-boats. Without a doubt, a meaningful dialogue would be better now and for the future; unfortunately, our only option at the moment is to point out the glaring flaws in these proposals and keep fighting them until they sink.
+
+[^1]: The content industry may even be better off than other industries when it comes to piracy, because the version they face — copyright infringement — [isn’t even theft](http://www.slate.com/blogs/moneybox/2011/12/15/piracy_is_a_form_of_theft_and_copyright_infringement_is_neither.html).

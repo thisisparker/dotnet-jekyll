@@ -5,8 +5,6 @@ date: '2014-05-26T15:56:32-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1359'
 permalink: /2014/05/accepting-amazons-drm-makes-it-impossible-to-challenge-its-monopoly/
-categories:
-    - Uncategorized
 tags:
     - amazon
     - copyright
@@ -32,7 +30,7 @@ Monopoly, of course, is *economically* the correct term. Publishers of books tha
 
 To the extent Amazon has a monopoly on selling paper books, then, it could be challenged not just by legal action (such as antitrust investigation) but by other businesses competing. There would be some extreme logistical difficulties, and disparities created by economies of scale that might be impossible to overcome, but in principle other businesses are able to compete for Amazon’s market position on physical books.
 
-Copyright behaves differently: when it comes to Macmillan or Hachette’s books, nobody may undercut prices by making production more efficient, or design prettier covers, or edit the text into a more compelling presentation. Where that’s a good thing, it’s because we’ve reached it by public policy. We’ve granted copyright holders an inviolable (if limited) *legal monopoly* because we as a society like the results. ((Of course, that is only as true as copyright policy reflects the will of the public, which it doesn’t, but it’s something to aspire to.))
+Copyright behaves differently: when it comes to Macmillan or Hachette’s books, nobody may undercut prices by making production more efficient, or design prettier covers, or edit the text into a more compelling presentation. Where that’s a good thing, it’s because we’ve reached it by public policy. We’ve granted copyright holders an inviolable (if limited) *legal monopoly* because we as a society like the results.[^1]
 
 A very real danger, though, is if Amazon can take the challengeable market monopoly it has put together, and ratchet it into an unchallengeable legal monopoly. That is exactly what DRM does.
 
@@ -43,3 +41,5 @@ Fortunately Kindle software can, for now, read other non-restricted formats. But
 Amazon has a lot of fans, and they tend to ascribe its rise as a bookseller for its aggressively pro-customer stance. If it drops that stance, even major fans would probably agree that it no longer deserves the throne. Unfortunately, DRM takes the conditional monopoly that customers like (you get to be the largest bookseller so long as you’re good to your customers) and replaces it with an unconditional one (you once achieved monopoly and that is now permanent).
 
 This week’s sketchy move against Hachette looks like a willingness to throw its customers under a bus in the name of better business deals. If publishers continue to insist on DRM, and if customers continue to allow it, we lose our ability to object.
+
+[^1]: Of course, that is only as true as copyright policy reflects the will of the public, which it doesn’t, but it’s something to aspire to.

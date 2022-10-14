@@ -5,8 +5,6 @@ date: '2012-07-06T18:29:58-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=743'
 permalink: /2012/07/not-that-kind-of-hacker/
-categories:
-    - Uncategorized
 tags:
     - hackers
     - hacking
@@ -18,7 +16,7 @@ Two articles that crossed my desk today described the difference between the two
 
 > (when “hacking” meant creative programming rather than online breaking and entering)
 
-The <cite>New York Times</cite> chose to explain it in [a story about “hacker hostels”](https://www.nytimes.com/2012/07/06/technology/at-hacker-hostels-living-on-the-cheap-and-dreaming-of-digital-glory.html?pagewanted=all) ((Incidentally, fellow Iron Blogger Rich Jones provides [another perspective on what hackers would really want in a “hacker hostel”](https://gun.io/blog/what-real-hacker-hostels-would-look-like/) on his own site.)) this way:
+The <cite>New York Times</cite> chose to explain it in [a story about “hacker hostels”](https://www.nytimes.com/2012/07/06/technology/at-hacker-hostels-living-on-the-cheap-and-dreaming-of-digital-glory.html?pagewanted=all)[^1] this way:
 
 > the Mark Zuckerberg variety, not the identity thieves
 
@@ -27,3 +25,5 @@ Obviously both of these descriptions are simplistic, and maybe necessarily so, g
 > The hackers who dominate news coverage and popular culture — malicious, adolescent techno-wizards, willing and able to do great harm to innocent civilians and society at large — don’t exist.
 
 The playful curiosity that actually defines a “hacker” to me seems to be a hard thing to understand for many people, and the polysemy of the word doesn’t help.
+
+[^1]: Incidentally, fellow Iron Blogger Rich Jones provides [another perspective on what hackers would really want in a “hacker hostel”](https://gun.io/blog/what-real-hacker-hostels-would-look-like/) on his own site.

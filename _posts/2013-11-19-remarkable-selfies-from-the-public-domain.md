@@ -5,17 +5,15 @@ date: '2013-11-19T10:17:09-08:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1272'
 permalink: /2013/11/remarkable-selfies-from-the-public-domain/
-categories:
-    - Uncategorized
 tags:
     - copyright
     - pictures
     - 'public domain'
 ---
 
-In honor of the Oxford Dictionary Online selecting [“selfie” as its word of the year](http://www.newyorker.com/online/blogs/culture/2013/11/selfie-word-of-the-year.html), ((personally, I think it’s too soon to tell; historically, some of the best words appear for the first time in late November or early December.)) here are a few examples of remarkable selfies from the public domain. Why might a work–selfie or otherwise, be in the public domain?
+In honor of the Oxford Dictionary Online selecting [“selfie” as its word of the year](http://www.newyorker.com/online/blogs/culture/2013/11/selfie-word-of-the-year.html),[^1] here are a few examples of remarkable selfies from the public domain. Why might a work–selfie or otherwise, be in the public domain?
 
-Perhaps it’s old enough that the copyright term has lapsed. In the US that is definitely the case if the work was created before 1923, and so certainly includes [this first-ever selfie by Robert Cornelius](http://publicdomainreview.org/2013/11/19/robert-cornelius-self-portrait-the-first-ever-selfie-1839/) from 1839 ((although it’s the image was probably never covered by copyright at all, given that photographs [weren’t eligible for copyright until 1865](https://parkerhiggins.net/2012/10/100-years-of-cinematic-copyright/).)):
+Perhaps it’s old enough that the copyright term has lapsed. In the US that is definitely the case if the work was created before 1923, and so certainly includes [this first-ever selfie by Robert Cornelius](http://publicdomainreview.org/2013/11/19/robert-cornelius-self-portrait-the-first-ever-selfie-1839/) from 1839[^2]:
 
 ![780px-RobertCornelius](https://parkerhiggins.net/wp-content/uploads/2013/11/780px-RobertCornelius.jpg)
 
@@ -28,3 +26,6 @@ What else isn’t eligible for copyright? According to [the Copyright Compendium
 ![l1aYe](https://parkerhiggins.net/wp-content/uploads/2013/11/l1aYe.jpg)
 
 It’s easy to get bummed out about how much Congress and the Courts have undermined the public domain in the US in the last several decades. But there’s still plenty to celebrate in there.
+
+[^1]: personally, I think it’s too soon to tell; historically, some of the best words appear for the first time in late November or early December.
+[^2]: although it’s likely the image was never covered by copyright at all, given that photographs [weren’t eligible for copyright until 1865](https://parkerhiggins.net/2012/10/100-years-of-cinematic-copyright/).

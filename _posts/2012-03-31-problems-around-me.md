@@ -5,8 +5,6 @@ date: '2012-03-31T19:55:56-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=602'
 permalink: /2012/03/problems-around-me/
-categories:
-    - Uncategorized
 tags:
     - apis
     - facebook
@@ -24,12 +22,15 @@ Firesheep worked so spectacularly because [the problem it exploited was well-kno
 
 The problem that Girls Around Me has identified has the same combination of near-universal recognition in expert circles and general confusion outside of them. Most users cannot understand the privacy settings on most social networks. Worse, social network operators have a commercial incentive to make their settings deliberately confusing, and [even to induce user “over-sharing”](http://www.antipope.org/charlie/blog-static/2012/03/not-an-april-fool-1.html).
 
-So, then, [Girls Around Me is to privacy settings what Firesheep was to security practices](https://twitter.com/#!/thisisparker/status/186235412061233152): a tool, usable by the general public, that makes an underlying problem understandable. ((Other entries in this field include [Please Rob Me](http://pleaserobme.com/), [You Have Downloaded](http://www.youhavedownloaded.com/), and even EFF’s [Panopticlick](https://panopticlick.eff.org/).))
+So, then, [Girls Around Me is to privacy settings what Firesheep was to security practices](https://twitter.com/#!/thisisparker/status/186235412061233152): a tool, usable by the general public, that makes an underlying problem understandable.[^1]
 
-But once you understand the two problems, the difference between them is clear. The solution to the Firesheep problem — that sites were not using, or not using by default, encrypted connections after initial log-ins — is simple: use established encryption by default. ((In the interim, too, savvy users could install [HTTPS Everywhere](https://www.eff.org/https-everywhere) and protect their own connections with websites that supported encryption.)) Put another way, addressing the issue just required a bit of attention, expertise, and resources.
+But once you understand the two problems, the difference between them is clear. The solution to the Firesheep problem — that sites were not using, or not using by default, encrypted connections after initial log-ins — is simple: use established encryption by default.[^2] Put another way, addressing the issue just required a bit of attention, expertise, and resources.
 
 By contrast, the Girls Around Me problem is part of a fundamental trade-off in the way centralized corporate social networks work today. And the cost of addressing it is correspondingly high. It comes down to users controlling how their data is collected and used, a premise antithetical to the business of advertising companies like Facebook and Google.
 
 But until it happens, and until default settings are protective of user privacy, nothing can prevent creepy situations like Girls Around Me from popping up. As long as these situations look like Girls Around Me — a publicly available application that depends on consistent API access, creeps everybody out, and gets written up in major publications — Facebook, Foursquare, et al, can address it with after-the-fact API cut-offs. But nothing prevents, say, individuals with the know-how from rolling their own stalker apps and flying under the radar.
 
 If you ask me, that’s the creepy part.
+
+[^1]: Other entries in this field include [Please Rob Me](http://pleaserobme.com/), [You Have Downloaded](http://www.youhavedownloaded.com/), and even EFF’s [Panopticlick](https://panopticlick.eff.org/).
+[^2]: In the interim, too, savvy users could install [HTTPS Everywhere](https://www.eff.org/https-everywhere) and protect their own connections with websites that supported encryption.

@@ -5,8 +5,6 @@ date: '2014-03-03T00:15:30-08:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1317'
 permalink: /2014/03/our-encryption-tools-must-be-free-software-not-just-open-source/
-categories:
-    - Uncategorized
 tags:
     - crypto
     - 'free software'
@@ -27,10 +25,12 @@ But beyond any kind of licensing questions, users need to know they are actually
 
 These are reasons enough to reject software for encrypted communications that doesn’t follow these practices. But as is often the case, alongside these technical requirements is a need for software that actually respects the user’s freedom. For that reason, despite the fact that it might raise confusion about funding models, I think we should demand that our security tools are [not just open-source](https://en.wikipedia.org/wiki/The_Free_Software_Definition#Free_Software_Definition_vs_Open_Source_Definition), but are [free software](https://www.gnu.org/philosophy/free-sw.html).
 
-Fundamentally, the Foundation’s blog post talks about how commercial proprietary software has interests that are out of alignment with those of their users. That’s absolutely correct, and the efforts to raise money for better services is a good way to address that problem in the near term. ((A couple of years ago, Jake Appelbaum and Dmytri Kleiner had [a great conversation about this](https://www.youtube.com/watch?v=zOiFgUj9bWI) at Republica in Berlin. I’ve been meaning to snip out the best bits for a while.))
+Fundamentally, the Foundation’s blog post talks about how commercial proprietary software has interests that are out of alignment with those of their users. That’s absolutely correct, and the efforts to raise money for better services is a good way to address that problem in the near term.[^1]
 
 But while “open-source” is a nice proxy to describe that kind of alignment, it doesn’t quite do the trick. Releasing source code doesn’t make software respect its users, and operating for profit doesn’t necessarily mean a software company will [cut corners on security concerns](http://www.nytimes.com/2014/03/03/technology/when-start-ups-dont-lock-the-doors.html) or turn to surveillance as its business model. Really, beyond a threshold of technical competence, the meaningful axis is commitment to user freedoms, and only free software delivers on that.
 
 It’s like the problems with [that old tired phrase](http://epeus.blogspot.com/2012/03/when-youre-merchandise-not-customer.html), “If you’re not paying for it, you’re the product.” Sometimes you’re not paying for something because it’s been released free into the world; sometimes you’re paying for it and they’re still selling you out.
 
 We can and should support open-source encryption tools. [The Freedom of the Press Foundation’s current bundle](https://pressfreedomfoundation.org/) is a great way to do that—and in fact, all of the tools it supports *are* free software and set a high bar for respecting users. (Full disclosure, I donated early on in this cycle.) But most importantly, we should support and promote tools that respect our freedoms.
+
+[^1]: A couple of years ago, Jake Appelbaum and Dmytri Kleiner had [a great conversation about this](https://www.youtube.com/watch?v=zOiFgUj9bWI) at Republica in Berlin. I’ve been meaning to snip out the best bits for a while.

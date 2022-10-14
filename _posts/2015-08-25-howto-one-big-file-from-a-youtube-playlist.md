@@ -5,8 +5,6 @@ date: '2015-08-25T19:39:33-07:00'
 layout: post
 guid: 'https://parkerhiggins.net/?p=1542'
 permalink: /2015/08/howto-one-big-file-from-a-youtube-playlist/
-categories:
-    - Uncategorized
 tags:
     - 'command line'
     - 'cory arcangel'
@@ -41,7 +39,7 @@ And then feed it into the concat demuxer with the following command:
 ffmpeg -f concat -i list.txt -c copy output.mp4
 ```
 
-If that works for you, great, you’re set. Unfortunately, I ran into a problem: the resulting mp4 file had some weird reference frame issues, resulting in some (but not all) of the video parts to be garbled flashing green frames. ((It’s outside the scope of this post, but the next thing I tried, mkvmerge, created a file with the exact same problem.)) `mplayer` kept spitting errors like: `number of reference frames (0+5) exceeds max (3; probably corrupt input), discarding one.`
+If that works for you, great, you’re set. Unfortunately, I ran into a problem: the resulting mp4 file had some weird reference frame issues, resulting in some (but not all) of the video parts to be garbled flashing green frames.[^1] `mplayer` kept spitting errors like: `number of reference frames (0+5) exceeds max (3; probably corrupt input), discarding one.`
 
 I wasn’t going to be able to use the `concat demuxer`, but as I mentioned above `ffmpeg` has three different concat options. This [Q&amp;A describes a way to place the mp4 files in a new transport stream container](http://superuser.com/questions/43588/how-can-i-merge-two-mp4-files-without-losing-quality/522658#522658), which is one of the kinds of files that can be concatenated with the concat *protocol*, at the file level. One by one, I made temporary mpeg transport stream files like this:
 
@@ -54,3 +52,5 @@ And then I merged all those files, temp1.ts through temp8.ts, with the following
 `ffmpeg -i "concat:temp1.ts|temp2.ts|temp3.ts|temp4.ts|temp5.ts|temp6.ts|temp7.ts|temp8.ts" -c copy -bsf:a aac_adtstoasc output.mp4`
 
 Which works like a charm. Not a totally painless process, but now I’ve got a pretty well merged and not transcoded local version and can watch me some glockenspiel.
+
+[^1]: It’s outside the scope of this post, but the next thing I tried, mkvmerge, created a file with the exact same problem.
