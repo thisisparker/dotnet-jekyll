@@ -1,6 +1,6 @@
 ---
 title: 'Public (sub-)domains'
-date: '2022-11-04T16:30:00-08:00'
+date: '2022-11-04T16:30:00-04:00'
 layout: post
 permalink: /2022/11/public-sub-domains
 categories:
