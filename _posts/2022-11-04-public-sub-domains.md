@@ -32,7 +32,7 @@ Wouldn't those all be great places to call your home in the fediverse?
 
 Normally I would wonder to myself if this kind of thought experiment is cool but this time I feel like I've got external validation in the form of [the reaction to this thread on Mastodon](https://mastodon.xyz/web/@xor/109281433411212592), which has also been great. Somebody even bought the saddest.city domain on the strength of the strangest.saddest.city find.
 
-People responded with some cool possible instance names from [The Great Gatsby](https://mastodon.social/@MattHodges/109282389881819378), [Frankenstein](https://mastodon.social/@ashur/109282921833199535),[White Noise](https://post.lurk.org/@samplereality/109282791738200388), the [King James Bible](https://code4lib.social/@pbinkley/109282743661309956) and more. Really fun.
+People responded with some cool possible instance names from [The Great Gatsby](https://mastodon.social/@MattHodges/109282389881819378), [Frankenstein](https://mastodon.social/@ashur/109282921833199535), [White Noise](https://post.lurk.org/@samplereality/109282791738200388), the [King James Bible](https://code4lib.social/@pbinkley/109282743661309956) and more. Really fun.
 
 The [little Python script that finds these](https://gist.github.com/thisisparker/f091f01852911bd849d03c4e09d89856) uses [NLTK](https://www.nltk.org/) to tokenize big text files first into sentences and then, within sentences, into words. Then it checks to see if there are three long-ish words in a row where the third one is on a list of TLDs. Since posting that script on Mastodon yesterday, I've updated it with the built-in `whois` check as well.
 
