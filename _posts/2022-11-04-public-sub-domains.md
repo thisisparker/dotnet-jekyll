@@ -17,7 +17,7 @@ The tremendous influx of traffic to Mastodon got me thinking that it might final
 
 [Many Mastodon instances](https://instances.social/) are on subdomains, and since the early days weirder new-style TLDs have been de rigueur. (The flagship has always been at a `.social`!) So I set out to find three-word phrases where the third word is a 4+-letter top-level domain, using as my first source text Moby Dick.
 
-The results were great! The script I wrote output all possible options, which I then spot-checked to see which were available, but I've since updated the script to do a quick `whois` check to see if the domain is already registered. (`whois` support is a little spotty for some of the weirder domains, so many are inconclusive, but I was surprised at some of the good ones available. As of right now, here are some possible instances available for registration:
+The results were great! The script I wrote output all possible options, which I then spot-checked to see which were available, but I've since updated the script to do a quick `whois` check to see if the domain is already registered. (`whois` support is a little spotty for some of the weirder domains, so many are inconclusive, but I was surprised at some of the good ones available.) As of right now, here are some possible instances available for registration:
 
 - certain.fragmentary.parts
 - famous.whaling.house
