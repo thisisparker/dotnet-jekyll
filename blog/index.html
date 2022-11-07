@@ -3,6 +3,8 @@ layout: default
 title: blog
 ---
 
+<div class="blog-page">
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -30,4 +32,6 @@ title: blog
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+</div>
+
 </div>
