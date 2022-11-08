@@ -5,6 +5,7 @@ date: '2010-07-14T15:24:08-07:00'
 author: 'Parker Higgins'
 layout: page
 guid: 'https://parkerhiggins.net/?page_id=2'
+published: false
 ---
 
 [![](https://parkerhiggins.net/wp-content/uploads/2010/07/IMG_0037-scaled.jpg)](https://parkerhiggins.net/wp-content/uploads/2010/07/IMG_0037-scaled.jpg)
