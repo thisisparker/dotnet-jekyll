@@ -1,0 +1,23 @@
+{
+  "subject": "acct:xor@tech.intersects.art",
+  "aliases": [
+    "https://tech.intersects.art/@xor",
+    "https://tech.intersects.art/users/xor"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://tech.intersects.art/@xor"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://tech.intersects.art/users/xor"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://tech.intersects.art/authorize_interaction?uri={uri}"
+    }
+  ]
+}

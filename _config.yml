@@ -4,6 +4,8 @@ url: 'https://parkerhiggins.net'
 title: 'parker higgins dot net'
 description: 'parker higgins is an artist and activist in brooklyn, new york'
 
+include: ['.well-known']
+
 timezone: America/New_York
 
 lsi: false
