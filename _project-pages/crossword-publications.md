@@ -17,14 +17,14 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 ## Indies
 
 |---|---|---|
-| 2022/10/30 | _Rosswords_ | [Pop-up Scare (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/30/pop-up-scare/) |
-| 2022/10/02 | _Rosswords_ | [Let's Split Dessert! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/02/lets-split-dessert/) |
+| 2022/10/30 | _Rossword Puzzles_ | [Pop-up Scare (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/30/pop-up-scare/) |
+| 2022/10/02 | _Rossword Puzzles_ | [Let's Split Dessert! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/02/lets-split-dessert/) |
 | 2022/07/22 | _Boswords Summer 2022_ | [Acting Shifty (tournament puzzle 4)](https://www.boswords.org/) |
 | 2022/05/25 | _AVCX Classic_ | [Low Scores (with Malaika Handa)](https://avxwords.com/puzzles/1095/) |
-| 2022/03/27 | _Rosswords_ | [Labor Unions (with Ross Trudeau)](https://rosswordpuzzles.com/2022/03/27/labor-unions/) |
-| 2022/03/20 | _Rosswords_ | [Where Do You Get Off?! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/03/20/where-do-you-get-off/) |
+| 2022/03/27 | _Rossword Puzzles_ | [Labor Unions (with Ross Trudeau)](https://rosswordpuzzles.com/2022/03/27/labor-unions/) |
+| 2022/03/20 | _Rossword Puzzles_ | [Where Do You Get Off?! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/03/20/where-do-you-get-off/) |
 | 2022/01/20 | _QVXWordz_ | [Exit West (Grid Charlemagne)](https://qvxwordz.blogspot.com/2022/01/35-sweet-goodbyes-exit-west-by-parker.html) |
-| 2022/01/09 | _Rosswords_ | [Chap Shtick (with Ross Trudeau and the Cursewords Live Crew)](https://rosswordpuzzles.com/2022/01/09/chap-shtick/) |
+| 2022/01/09 | _Rossword Puzzles_ | [Chap Shtick (with Ross Trudeau and the Cursewords Live Crew)](https://rosswordpuzzles.com/2022/01/09/chap-shtick/) |
 | 2021/09/22 | _Adam Aaronson_ | [Recycled Packaging (with Adam Aaronson)](https://aaronson.org/crosswords/recycledpackaging/) |
-| 2021/03/28 | _Rosswords_ | [Evergreen Content](https://rosswordpuzzles.com/2021/03/28/ship-off-a-canal-battle/) |
-| 2021/03/07 | _Rosswords_ | [Baby's First Word (with Ross Trudeau)](https://rosswordpuzzles.com/2021/03/07/babys-first-word/) |
+| 2021/03/28 | _Rossword Puzzles_ | [Evergreen Content](https://rosswordpuzzles.com/2021/03/28/ship-off-a-canal-battle/) |
+| 2021/03/07 | _Rossword Puzzles_ | [Baby's First Word (with Ross Trudeau)](https://rosswordpuzzles.com/2021/03/07/babys-first-word/) |
