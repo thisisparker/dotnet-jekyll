@@ -9,6 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
+| 2022/12/14 | _The Los Angeles Times_ | Untitled (Wednesday) |
 | 2022/06/16 | _The New York Times_ | [Untitled (Thursday) (with Ross Trudeau)](https://www.nytimes.com/crosswords/game/daily/2022/06/16) |
 | 2022/01/15 | _Wall Street Journal_ | [Carbon Neutral (with Jessie Bullock and Ross Trudeau)](https://www.wsj.com/articles/carbon-neutral-saturday-crossword-january-15-11642193133) |
 | 2021/09/22 | _Universal Crossword_ | Don't Burn After Reading |
