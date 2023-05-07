@@ -21,6 +21,7 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 ## Indies
 
 |---|---|---|
+| 2023/05/02 | _AVCX Classic_ | [Tunnel Vision](https://avxwords.com/download-puzzle/?id=1321) |
 | 2022/10/30 | _Rossword Puzzles_ | [Pop-up Scare (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/30/pop-up-scare/) |
 | 2022/10/02 | _Rossword Puzzles_ | [Let's Split Dessert! (with Ross Trudeau)](https://rosswordpuzzles.com/2022/10/02/lets-split-dessert/) |
 | 2022/07/22 | _Boswords Summer 2022_ | [Acting Shifty (tournament puzzle 4)](https://www.boswords.org/) |
