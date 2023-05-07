@@ -9,3 +9,5 @@ gem "jekyll-feed"
 gem "classifier-reborn"
 gem "numo-narray"
 gem "numo-linalg"
+
+gem "webrick", "~> 1.8"
