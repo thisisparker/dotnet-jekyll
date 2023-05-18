@@ -9,6 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
+| 2023/05/17 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2023/05/17) |
 | 2023/03/31 | _The New Yorker_ | [Hit Rewind (with Ross Trudeau)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/03/31) |
 | 2023/02/02 | _Universal Crossword_ | Travel Packs |
 | 2023/01/28 | _The Modern Crossword_ | [Cross-Border Connections (with Brooke Husic)](https://www.puzzlesociety.com/crossword-puzzles/modern-crossword/2023/1/28) |
