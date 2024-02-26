@@ -1,6 +1,7 @@
 # Setup
 domain: 'parkerhiggins.net'
-baseurl: 'https://parkerhiggins.net'
+url: 'https://parkerhiggins.net'
+baseurl: ''
 title: 'parker higgins dot net'
 description: 'parker higgins is an artist and activist in brooklyn, new york'
 
@@ -13,6 +14,14 @@ lsi: false
 paginate: 5
 paginate_path: '/blog/page:num/'
 permalink: '/:year/:month/:title/'
+
+navbar:
+  - title: projects
+    path: /projects
+  - title: blog
+    path: /blog
+  - title: mastodon
+    path: https://tech.intersects.art/@xor 
 
 feed:
   tags:

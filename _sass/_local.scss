@@ -2,8 +2,19 @@ body {
   border-top: 10px solid black;
 }
 
+header {
+  min-height: 100px;
+  position: relative;
+}
+
 .container {
   max-width: 55rem;
+}
+
+main {
+  @media (max-width: 650px) {
+    padding-top: 100px;
+  }
 }
 
 .blog-page {
@@ -12,7 +23,7 @@ body {
   margin-right: auto;
 }
 
-.masthead-title {
+.site-title {
   margin-top: 3rem;
 }
 
@@ -39,24 +50,39 @@ ul {
   list-style: square;
 }
 
+.footer {
+  text-align: right;
+}
+
 /* Navbar stuff */
+
+header.masthead .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
 
 ul#navbar {
   list-style: none;
   display: flex;
-  flex-flow: row wrap;
-  align-items: flex-end;
-  justify-content: flex-end;
-  row-gap: 23px;
+  margin-top: 12px;
+  float: right;
 }
-  
+
+.site-title {
+  margin-top: 0px;
+  a, a:visited {
+    color: black;
+  }
+  a:hover {
+    color: #007eff;
+  }
+}
+
 ul#navbar li {
   padding: 0px;
   margin: 0px;
   margin-left: 10px;
-}
-
-ul#navbar li:hover {
 }
 
 ul#navbar li a {
@@ -71,6 +97,106 @@ ul#navbar li a {
 ul#navbar li a:hover {
   background: white;
   color: black;
+}
+
+.nav-trigger {
+  display: none;
+}
+
+.menu-icon {
+  display: none;
+}
+
+.page-link {
+  color: black;
+  line-height: 1.5;
+
+  // Gaps between nav items, but not on the last one
+  &:not(:last-child) {
+    margin-right: 20px;
+  }
+}
+
+.masthead {
+  @media (max-width: 650px) {
+    position: absolute;
+    top: 9px;
+    right: 16px;
+    left: 16px;
+    width: 93%;
+    padding-bottom: 0;
+    padding-left: 0;
+
+    .site-title {
+      margin-top: 8px;
+    }
+
+    ul#navbar li {
+      margin: 0px;
+      text-align: right;
+    }
+    
+    ul#navbar li a {
+      font-weight: normal;
+      background: black;
+      color: white;
+      padding: 8px;
+      text-decoration: none;
+      border: none;
+    }
+    
+    ul#navbar li a:hover {
+      background: white;
+      color: black;
+    }
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 20px;
+      text-align: center;
+
+      > svg {
+        fill: #111;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    ul#navbar {
+      display: block;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  }
 }
 
 /* Home page */
