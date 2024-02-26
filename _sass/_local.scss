@@ -72,7 +72,7 @@ ul#navbar {
 .site-title {
   margin-top: 0px;
   a, a:visited {
-    color: black;
+    color: var(--heading-color);
   }
   a:hover {
     color: #007eff;
@@ -120,12 +120,11 @@ ul#navbar li a:hover {
 .masthead {
   @media (max-width: 650px) {
     position: absolute;
+    padding-right: 40px;
     top: 9px;
-    right: 16px;
-    left: 16px;
-    width: 93%;
-    padding-bottom: 0;
-    padding-left: 0;
+    right: var(--spacer-2);
+    left: var(--spacer-2);
+    width: 100%;
 
     .site-title {
       margin-top: 8px;
@@ -169,7 +168,7 @@ ul#navbar li a:hover {
       text-align: center;
 
       > svg {
-        fill: #111;
+        fill: var(--heading-color);
       }
     }
 
