@@ -9,6 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
+| 2024/06/20 | _Puzzmo_ | Consider enjoying this puzzle with some pale ale (11×13) |
 | 2024/05/18 | _Los Angeles Times_ | Untitled (Saturday) |
 | 2023/10/06 | _Universal Crossword_ | Game Faces |
 | 2023/05/17 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2023/05/17) |
