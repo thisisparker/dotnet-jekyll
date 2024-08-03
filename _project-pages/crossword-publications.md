@@ -9,6 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
+| 2024/08/02 | _Puzzmo_ | [Did you not hear me the first time? (11×11)](https://puzzmo.com/link/crossword/2024/08/02) |
 | 2024/06/20 | _Puzzmo_ | Consider enjoying this puzzle with some pale ale (11×13) |
 | 2024/05/18 | _Los Angeles Times_ | Untitled (Saturday) |
 | 2023/10/06 | _Universal Crossword_ | Game Faces |
