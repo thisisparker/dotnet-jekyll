@@ -11,16 +11,16 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 |---|---|---|
 | 2024/08/02 | _Puzzmo_ | [Did you not hear me the first time? (11×11)](https://puzzmo.com/link/crossword/2024/08/02) |
 | 2024/06/20 | _Puzzmo_ | Consider enjoying this puzzle with some pale ale (11×13) |
-| 2024/05/18 | _Los Angeles Times_ | Untitled (Saturday) |
-| 2023/10/06 | _Universal Crossword_ | Game Faces |
+| 2024/05/18 | _Los Angeles Times_ | [Untitled (Saturday)](https://www.puzzlesociety.com/member/crossword-puzzles/la-times-crossword/2024/05/18) |
+| 2023/10/06 | _Universal Crossword_ | [Game Faces](https://www.puzzlesociety.com/member/crossword-puzzles/universal-crossword/2023/10/06) |
 | 2023/05/17 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2023/05/17) |
 | 2023/03/31 | _The New Yorker_ | [Hit Rewind (with Ross Trudeau)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/03/31) |
-| 2023/02/02 | _Universal Crossword_ | Travel Packs |
+| 2023/02/02 | _Universal Crossword_ | [Travel Packs](https://www.puzzlesociety.com/member/crossword-puzzles/universal-crossword/2023/02/02) |
 | 2023/01/28 | _The Modern Crossword_ | [Cross-Border Connections (with Brooke Husic)](https://www.puzzlesociety.com/member/crossword-puzzles/modern-crossword/2023/01/28) |
-| 2022/12/14 | _Los Angeles Times_ | Untitled (Wednesday) |
+| 2022/12/14 | _Los Angeles Times_ | [Untitled (Wednesday)](https://www.puzzlesociety.com/member/crossword-puzzles/la-times-crossword/2022/12/14) |
 | 2022/06/16 | _The New York Times_ | [Untitled (Thursday) (with Ross Trudeau)](https://www.nytimes.com/crosswords/game/daily/2022/06/16) |
 | 2022/01/15 | _Wall Street Journal_ | [Carbon Neutral (with Jessie Bullock and Ross Trudeau)](https://www.wsj.com/articles/carbon-neutral-saturday-crossword-january-15-11642193133) |
-| 2021/09/22 | _Universal Crossword_ | Don't Burn After Reading |
+| 2021/09/22 | _Universal Crossword_ | [Don't Burn After Reading](https://www.puzzlesociety.com/member/crossword-puzzles/universal-crossword/2021/09/22) |
 
 
 ## Indies
