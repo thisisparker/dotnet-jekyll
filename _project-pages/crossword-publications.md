@@ -10,7 +10,7 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 
 |---|---|---|
 | 2024/08/02 | _Puzzmo_ | [Did you not hear me the first time? (11×11)](https://puzzmo.com/link/crossword/2024/08/02) |
-| 2024/06/20 | _Puzzmo_ | Consider enjoying this puzzle with some pale ale (11×13) |
+| 2024/06/20 | _Puzzmo_ | [Consider enjoying this puzzle with some pale ale (11×13)](https://www.puzzmo.com/puzzle/2024-06-20/crossword) |
 | 2024/05/18 | _Los Angeles Times_ | [Untitled (Saturday)](https://www.puzzlesociety.com/member/crossword-puzzles/la-times-crossword/2024/05/18) |
 | 2023/10/06 | _Universal Crossword_ | [Game Faces](https://www.puzzlesociety.com/member/crossword-puzzles/universal-crossword/2023/10/06) |
 | 2023/05/17 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2023/05/17) |
