@@ -80,7 +80,6 @@ sass:
 # Specify the author for blog posts
 author:
   name: Parker Higgins
-  url: https://twitter.com/xor
 
 # Custom vars
 version: 3.0.0
