@@ -7,7 +7,7 @@ layout: default
 <article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  {% if page.image %}<img src="{{ page.image }}" alt="{{ page.image_alt | escape_once }}"/>{% endif %}
+  {% if page.image and page.image != "/assets/images/default.jpg" and page.show_hero != false %}<img src="{{ page.image }}" alt="{{ page.image_alt | escape_once }}"/>{% endif %}
   {{ content }}
 </article>
 

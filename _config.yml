@@ -46,7 +46,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/card-primate-apple.jpg
+      image: /assets/images/default.jpg # magic filename, referenced in _layouts/post
       author: Parker Higgins
 
 # Gems

@@ -10,6 +10,7 @@ tags:
     - ryan fitzgerald
     - ingrid
 image: /assets/images/lat-blank-grid.png
+show_hero: false
 ---
 
 I constructed today's _Los Angeles Times_ crossword puzzle — my first for a paper that my family has subscribed to for my entire life. The puzzle will be available for a week or two on the [_LA Times_ crossword page](https://www.latimes.com/games/daily-crossword), maybe a bit longer in the archives for [Puzzle Society members](https://www.puzzlesociety.com/crossword-puzzles/la-times-crossword), and should be downloadable with a quick [`xword-dl lat -d 12/14/22`](https://github.com/thisisparker/xword-dl) for a good long time. Some spoiler-y notes below!
