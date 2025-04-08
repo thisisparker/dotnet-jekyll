@@ -281,8 +281,38 @@ figure {
 }
 
 figcaption {
-  font-size: 80%;
+  font-size: 70%;
 }
+
+/* Galleries */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.gallery-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.gallery-item {
+  width: calc(25% - 10px); /* 4 columns */
+  box-sizing: border-box;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Fonts */
 
 @font-face {
     font-family: 'Public Sans';

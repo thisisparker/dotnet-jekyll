@@ -28,5 +28,13 @@
        ga('send', 'pageview');
      </script>
     {% endif %}
+
+    {% if page.lightbox %}
+    <script type="text/javascript">
+    const lightbox = GLightbox({
+        touchNavigation: true,
+        loop: true});
+    </script>
+    {% endif %}
   </body>
 </html>

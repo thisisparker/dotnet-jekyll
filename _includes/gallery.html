@@ -1,0 +1,15 @@
+<div class="gallery">
+  <ul class="gallery-list">
+    {% assign directory = include.directory %}
+    {% for image in site.static_files %}
+      {% if image.path contains directory %}
+        <li class="gallery-item">
+          <a class="glightbox" href="{{ image.path | relative_url }}" data-gallery="gallery">
+            <img src="{{ image.path | relative_url }}" alt="{{ image.basename }}" class="gallery-image">
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+    
