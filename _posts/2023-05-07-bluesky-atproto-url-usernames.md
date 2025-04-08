@@ -9,9 +9,8 @@ tags:
     - bluesky
     - "social network"
 image: /assets/images/bird-bluesky.jpg
+image_alt: "A bird perched in a bare tree against a blue sky."
 ---
-
-<img src="/assets/images/bird-bluesky.jpg" alt="A bird perched in a bare tree against a blue sky." />
 
 I've been posting for a few weeks now on [bluesky](https://bsky.app/), a new social network built on new technology called the [AT Protocol](https://atproto.com/). Everything about that stack—the app, the network, the protocol, etc—is under active development and subject to change (and my understanding might not be fully correct), but I am excited about one component in particular that I think is still underappreciated.
 

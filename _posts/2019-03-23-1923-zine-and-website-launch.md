@@ -6,6 +6,7 @@ layout: post
 guid: 'https://parkerhiggins.net/?p=1927'
 permalink: /2019/03/1923-zine-and-website-launch/
 image: /wp-content/uploads/2019/03/Screenshot_2019-02-16_11-56-40.png
+image_alt: Archival illustration of a baby painting in the number "1923".
 tags:
     - copyright
     - kickstarter
@@ -13,8 +14,6 @@ tags:
     - publishing
     - zine
 ---
-
-<img src="/wp-content/uploads/2019/03/Screenshot_2019-02-16_11-56-40.png" />
 
 Towards the beginning of this year I ran a [Kickstarter campaign for a monthly zine](https://www.kickstarter.com/projects/887675031/1923-a-monthly-zine-of-public-domain-treasures/description) of archival material from the year 1923.
 

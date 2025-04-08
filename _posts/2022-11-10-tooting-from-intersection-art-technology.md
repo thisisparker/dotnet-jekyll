@@ -10,9 +10,8 @@ tags:
     - 'social media'
     - hometown
 image: /assets/images/intersection.png
+image_alt: 'The "bouncing DVD logo" with the text "@ the intersection of Art & Technology"'
 ---
-
-<img src="/assets/images/intersection.png">
 
 I've finally taken the plunge at set up my own Mastodon instance at a dedicated domain, as has been foretold by the prophesy of my recent posts. Instead of using one of the [very fun subdomains I surfaced in classic literature](https://parkerhiggins.net/2022/11/public-sub-domains), though, I found one that plays on the goofy meme-y phrase about "the intersection of art and technology." And so, my new Mastodon instance lives at [tech.intersects.art](https://tech.intersects.art). The plan is to offer accounts to a handful of friends—never a big general purpose server, but hopefully developing something adjacent to a group chat.
 

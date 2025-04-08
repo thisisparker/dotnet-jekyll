@@ -11,9 +11,10 @@ tags:
     - slowtv
     - subtitles
     - trains
+image: /wp-content/uploads/2018/04/Screenshot_2018-03-23_22-34-01.png
+image_alt: A photographer stands by snowy railroad tracks, poised to snap a picture of the train on which our view is mounted.
 ---
 
-![](https://parkerhiggins.net/wp-content/uploads/2018/04/Screenshot_2018-03-23_22-34-01.png)
 
 One thing I enjoy is Norway’s public service broadcaster’s production of a train ride from Bergen to Oslo, which was first broadcast in real time, over seven or so hours, in 2009. It’s predictably pretty quiet stuff, but—at least now that it’s on Netflix—there are in fact subtitles of what little dialog there is.
 

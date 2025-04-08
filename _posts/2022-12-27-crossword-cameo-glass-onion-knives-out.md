@@ -16,6 +16,7 @@ tags:
     - film
     - netflix
 image: /assets/images/glass-onion-still.jpg
+image_alt: Daniel Craig as Benoit Blanc sits in a bathtub surrounded by papers.
 ---
 
 Through some remarkably sharp eyes and impressive grid IDing, I learned that a crossword puzzle shown briefly on-screen on "Glass Onion: A Knives Out Mystery" is the [June 16, 2022 New York Times puzzle](https://www.nytimes.com/crosswords/game/daily/2022/6/16) constructed by me and [Ross Trudeau](https://rosswordpuzzles.com). Some very very minor spoilers follow.
