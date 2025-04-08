@@ -223,6 +223,9 @@ header.masthead {
   display: flex;
   align-items: center;
   column-gap: 20px;
+  width: 70vw;
+  position: relative;
+  left: calc(-35vw + 50%);
 }
 
 .home-block img {
@@ -235,6 +238,7 @@ header.masthead {
 }
 .home-block img {
   max-width: 100%;
+  z-index: -1;
   }
 }
 
