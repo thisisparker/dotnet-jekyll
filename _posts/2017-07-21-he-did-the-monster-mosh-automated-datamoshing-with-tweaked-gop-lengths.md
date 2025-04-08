@@ -13,6 +13,8 @@ tags:
     - programming
     - python
     - video
+images: /assets/images/beyonce_mosh_2.png
+show_hero: false
 ---
 
 After I posted yesterday about my [automated datamoshing experiment](https://parkerhiggins.net/2017/07/making-mosh-ups-automated-datamoshing-from-multiple-video-sources/), I got a [nice message on Twitter from developer and botmaker Ryan Bauman](https://twitter.com/ryanfb/status/888159099413811202) who was able to run my script on his own videos. We talked for a bit about how it could be improved, and I had a major realization that I had to test immediately.

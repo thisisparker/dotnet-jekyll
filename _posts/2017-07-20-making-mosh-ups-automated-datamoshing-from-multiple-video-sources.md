@@ -12,6 +12,8 @@ tags:
     - programming
     - python
     - video
+image: /assets/images/beyonce_mosh.png
+show_hero: false
 ---
 
 Datamoshing is a glitch art technique applied to videos to intentionally create “pixel bleeding” and other digital motion artifacts. It became popular several years ago when it was used in near-simultaneous music videos by [Chairlift](https://www.youtube.com/watch?v=mvqakws0CeU) and [Kanye West](https://www.youtube.com/watch?v=wMH0e8kIZtE). In those cases, and in the tutorials and techniques documented since then, the glitches are typically introduced to a single edited video, and done manually in a visual editing program.
