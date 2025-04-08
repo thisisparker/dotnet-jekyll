@@ -17,7 +17,7 @@ header {
 }
 
 main {
-  @media (max-width: 650px) {
+  @media (max-width: 768px) {
     padding-top: 100px;
   }
 }
@@ -26,10 +26,6 @@ main {
   max-width: 45rem;
   margin-left: auto;
   margin-right: auto;
-}
-
-.site-title {
-  margin-top: 3rem;
 }
 
 a {
@@ -65,7 +61,7 @@ ul {
 header.masthead .wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: start;
+  align-items: center;
 }
 
 ul#navbar {
@@ -77,6 +73,7 @@ ul#navbar {
 
 .site-title {
   margin-top: 0px;
+  text-wrap: nowrap;
   a, a:visited {
     color: var(--heading-color);
   }
@@ -123,14 +120,18 @@ ul#navbar li a:hover {
   }
 }
 
-.masthead {
-  @media (max-width: 650px) {
+header.masthead {
+  @media (max-width: 768px) {
     position: absolute;
     padding-right: 40px;
-    top: 9px;
+    top: 0;
     right: var(--spacer-2);
     left: var(--spacer-2);
     width: 100%;
+
+    .wrapper {
+      align-items: start;
+    }
 
     .site-title {
       margin-top: 8px;
@@ -212,15 +213,15 @@ ul#navbar li a:hover {
   column-gap: 20px;
 }
 
-.home-block div img {
+.home-block img {
   max-width: 45%;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
 .home-block {
   flex-wrap: wrap
 }
-.home-block div img {
+.home-block img {
   max-width: 100%;
   }
 }
@@ -252,7 +253,7 @@ ul#navbar li a:hover {
   max-width: 30%
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
 #featured-project-list li {
   max-width: 100%;
 }
