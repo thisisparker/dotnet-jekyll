@@ -20,6 +20,8 @@ navbar:
     path: /projects
   - title: blog
     path: /blog
+  - title: bluesky
+    path: https://bsky.app/profile/xor.blue
   - title: mastodon
     path: https://tech.intersects.art/@xor 
 
