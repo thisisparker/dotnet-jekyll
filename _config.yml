@@ -37,7 +37,6 @@ collections:
 
 author:
   name: Parker Higgins
-  twitter: xor
 
 twitter:
   username: "@xor"
@@ -48,8 +47,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/card-primate-apple.jpg
-      author:
-        twitter: xor
+      author: Parker Higgins
 
 # Gems
 plugins:
