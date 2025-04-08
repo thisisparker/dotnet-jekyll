@@ -130,11 +130,18 @@ header.masthead {
     width: 100%;
 
     .wrapper {
-      align-items: start;
+      display: inline;
+      position: relative;
     }
 
     .site-title {
+      position: absolute;
       margin-top: 8px;
+    }
+
+    .site-nav {
+      position: absolute;
+      right: 40px;
     }
 
     ul#navbar li {
@@ -187,6 +194,11 @@ header.masthead {
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
+    }
+
+    .site-nav {
+      position: static;
+      right: 40px;
     }
 
     ul#navbar {
