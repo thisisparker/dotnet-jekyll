@@ -21,9 +21,9 @@ From experience, that works great if you're in a Slack or Discord with the other
 
 ### What I built
 
-What I built was [`puzzmo2signal`, a quick little Go program](https://github.com/thisisparker/puzzmo2signal) that listens for inbound webhook requests, cleans up the contents a bit, and forwards them on to a designated Signal group. The message comes in like any other Signal message, and then we can trash talk each other.[^1]
+What I built was [`puzzmo2signal`, a quick little Go program](https://github.com/thisisparker/puzzmo2signal) that listens for inbound webhook requests, cleans up the contents a bit, and forwards them on to a designated Signal group. The message comes in like any other Signal message, and then we can trash talk each other.
 
-![An inbound Signal message from "Bottie Botterson" with our scores](/assets/images/bot-message-to-signal.png)
+{% include figure.html alt='An inbound Signal message from "Bottie Botterson" with our scores' url='/assets/images/bot-message-to-signal.png' caption="There's currently some kind of bug that is setting Weather Memoku scores to 0 on Puzzmo's side, so that one is not subject to trash talk." %}
 
 From a technical perspective, the middle section of what it's doing is pretty straightforward: it takes a blob of JSON with a `content` key (that's the payload of a Discord-formatted webhook) and strips the Markdown off of it to make it suitable for sending via Signal. That's normal. The front and back of it are both a little weird though.
 
@@ -54,5 +54,3 @@ Why did I do this? One reason is that I just started a(nother!) batch at [Recurs
 I really like small projects that make the web work for its users. Often I've done that work on the client end, like my [crossword puzzle scraper](https://github.com/thisisparker/xword-dl/). This was a fun opportunity to work on the server side.
 
 As a meta note: Recurse means more blog posts likely coming soon! I will try to keep them pretty accessible and looking forward to sharing.
-
-[^1]: There's currently some kind of bug that is setting Weather Memoku scores to 0 on Puzzmo's side, so that one is not subject to trash talk.
