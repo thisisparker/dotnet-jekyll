@@ -15,7 +15,7 @@ tags:
 
 As the federated social network Mastodon has surged in popularity over the last month, [more than a thousand instances](https://instances.mastodon.xyz/) — ranging from a single user to tens of thousands — have been started by the community.
 
-![](https://parkerhiggins.net/wp-content/uploads/2017/04/mastodon-logo-282x300.png)
+![](/assets/images/mastodon-logo.png)
 
 That’s a really great development in terms of decentralization and distribution, which bring a lot of benefits, but it also makes it a near certainty that a currently popular instance will go away. It could happen abruptly, if a sysadmin accidentally drops a database, or gradually, if it becomes to expensive or time-consuming to run, but it will happen.
 
