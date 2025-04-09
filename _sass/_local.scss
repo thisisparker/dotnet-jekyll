@@ -223,20 +223,41 @@ header.masthead {
   display: flex;
   align-items: center;
   column-gap: 20px;
+  width: 70vw;
+  position: relative;
+  left: calc(-35vw + 50%);
+  pointer-events: none;
 }
 
 .home-block img {
   max-width: 45%;
 }
 
-@media (max-width: 768px) {
-.home-block {
-  flex-wrap: wrap
+.home-block.bio {
+  pointer-events: auto;
 }
-.home-block img {
-  max-width: 100%;
+
+@media (max-width: 1276px) {
+  .home-block {
+    left: 0;
+    width: 70%;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  .home-block img {
+    max-width: 100%;
+    z-index: -1;
   }
 }
+
+@media (max-width: 768px) {
+  .home-block {
+    left: 0;
+    width: 100%;
+    flex-wrap: wrap
+  }
+}
+
 
 /* Projects */
 
