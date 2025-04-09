@@ -226,10 +226,15 @@ header.masthead {
   width: 70vw;
   position: relative;
   left: calc(-35vw + 50%);
+  pointer-events: none;
 }
 
 .home-block img {
   max-width: 45%;
+}
+
+.home-block.bio {
+  pointer-events: auto;
 }
 
 @media (max-width: 1276px) {
