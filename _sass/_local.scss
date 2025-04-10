@@ -298,11 +298,15 @@ header.masthead {
 /* Figures */
 
 figure {
-  padding-bottom: 1rem;
+  display: table;
+  margin: 0 auto;
 }
 
 figcaption {
+  display: table-caption;
+  caption-side: bottom;
   font-size: 70%;
+  padding-bottom: 1rem;
 }
 
 /* Galleries */
