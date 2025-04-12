@@ -227,14 +227,19 @@ header.masthead {
   position: relative;
   left: calc(-35vw + 50%);
   pointer-events: none;
-}
-
-.home-block img {
+  .bio {
+    pointer-events: auto;
+  }
+  img {
   max-width: 45%;
+  }
 }
 
-.home-block.bio {
-  pointer-events: auto;
+@media (min-width: 1920px) {
+  .home-block {
+    width: 1344px;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 1276px) {
@@ -252,9 +257,7 @@ header.masthead {
 
 @media (max-width: 768px) {
   .home-block {
-    left: 0;
     width: 100%;
-    flex-wrap: wrap
   }
 }
 
