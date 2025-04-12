@@ -16,10 +16,25 @@ title: blog
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
+    <div class="excerpt-wrapper">
     {{ post.excerpt }}
+    <a class="read-more-link" href="{{ post.url | relative_url }}">Read more →</a>
+    </div>
   </article>
   {% endfor %}
 </div>
+
+<!-- Quick inline style because this is the only place we use it! -->
+
+<style>
+  .excerpt-wrapper, .excerpt-wrapper p {
+      display: inline;
+  }
+
+  .read-more-link {
+      margin-left: 0.25em;
+  }
+</style>
 
 <div class="pagination">
   {% if paginator.next_page %}
