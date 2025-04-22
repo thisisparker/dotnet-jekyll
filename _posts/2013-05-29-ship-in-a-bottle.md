@@ -12,8 +12,7 @@ tags:
     - drawing
     - pirates
     - 'public domain'
+image: /assets/images/pirate-drawings/shipinabottle.png
 ---
-
-![shipinabottle](https://parkerhiggins.net/wp-content/uploads/2013/05/shipinabottle-1024x488.png)
 
 I cleaned up this illustration from a scan of the title page of [*Pirates*](http://archive.org/details/pirates00john) (1922). The illustrator is the great [Claud Lovat Fraser](https://en.wikipedia.org/wiki/Claud_Lovat_Fraser). The book came out the year after he died.

@@ -10,9 +10,9 @@ categories:
 tags:
     - pictures
     - 'san francisco'
+image: /assets/images/morning-in-sf.jpg
+image_alt: Shot overlooking Downton and the Bay Bridge from Bernal Hill
 ---
-
-![Shot overlooking Downtown and the Bay Bridge from Bernal Hill](https://parkerhiggins.net/wp-content/uploads/2013/01/IMG_20130106_082329.jpg)
 
 I took this photograph this morning from Bernal Hill, a little earlier than I would normally be awake because the dog I’m sitting for (Hi, Ace!) demands it. I’ve been up to the hill a bunch of times, and the view is still striking.
 
