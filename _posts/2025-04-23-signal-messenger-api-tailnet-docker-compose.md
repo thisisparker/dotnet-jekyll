@@ -7,7 +7,7 @@ tags:
     - tailscale
     - docker
 image: /assets/images/signal-from-python.png
-image_alt: "REPL view showing a Python command to POST a request to signal/v2/send and a Signal messanger window showing a received message."
+image_alt: "REPL view showing a Python command to POST a request to signal/v2/send and a Signal messenger window showing a received message."
 ---
 
 I've got a new configuration for sending Signal messages on the command line, and it's powerful and flexible and finally gives me a nice ergonomic interface to use from other programs. Even cooler, it is accessible over Tailscale from any of my devices, which means I can securely reach it from multiple machines without going through the rigmarole of configuring and maintaining multiple copies of `signal-cli`.
