@@ -18,6 +18,7 @@ Some very fun ones in here! I like "delicate, cryptic", "whimsically morbid", "q
 
 I've put the [full list of 255 music descriptors up on Github](https://gist.github.com/thisisparker/ebb1094335c168c7584d56be97c8d989), but as a sample here's all of the second episode:
 
+<div class="column-list" markdown="1">
 - eerie
 - quirky
 - jauntily macabre theme
@@ -45,6 +46,14 @@ I've put the [full list of 255 music descriptors up on Github](https://gist.gith
 - instrumental
 - chilling
 - jauntily macabre outro 
+</div>
+
+<style>
+.column-list {
+    columns: 12rem auto;
+    margin-bottom: 1rem;
+}
+</style>
 
 Jauntily macabre indeed. I do sort of wonder at what point in the creative process those were selected. (Like: did Danny Elfman get a note that they're looking for a "whimsically morbid" piece for that section, or did he write a piece that somebody downstream clocked as whimsically morbid?)
 
