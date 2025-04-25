@@ -67,7 +67,7 @@ volumes:
 
 Before we go through the fun parts, let me lay out the end state I was working towards:
 
-- for compatibility reasons, I want the API to available from the host machine itself at `localhost:8080`
+- for compatibility reasons, I want the API to be available from the host machine itself at `localhost:8080`
 - for external access, I want the API to be available over Tailscale at a memorable domain (without requiring a port number)
 - I want the API to "play nice" with an existing `signal-cli` install. I almost didn't dare to dream that I'd be able to use my existing config, but (spoiler alert) I think that's possible
 
