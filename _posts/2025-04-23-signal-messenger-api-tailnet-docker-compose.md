@@ -80,7 +80,9 @@ I was able to get all those things. Stepping through the interesting portions:
       - TS_AUTH_ONCE=true
 ```
 
-These are all magic Tailscale environment variables. The one thing I'll note is that I'm using [an OAuth client secret](https://tailscale.com/kb/1282/docker#ts_authkey) here instead of an authkey so I don't have to worry about cycling it. That in turn requires the `--advertise-tags` bit is passed to the `TS_EXTRA_ARGS`.
+These are all magic Tailscale environment variables. ~~The one thing I'll note is that I'm using [an OAuth client secret](https://tailscale.com/kb/1282/docker#ts_authkey) here instead of an authkey so I don't have to worry about cycling it. That in turn requires the `--advertise-tags` bit is passed to the `TS_EXTRA_ARGS`.~~
+
+(**Update 2025-04-25**: It turns out I had a misunderstanding about the relationship between Tailscale OAuth clients and auth keys and the struck-out portion above is not exactly correct. The `TS_AUTHKEY` value is used when creating the node and on initial authorization, but then the machine's state is preserved and its expiry can be disabled. That's why we map the container's state directory to the local machine, and as long as we keep it there, it's fine to just use an auth key as the `AUTHKEY`. If you do use a client secret though, it is still the case that you have to provide the tags argument.)
 
 ```yaml
 ports:
