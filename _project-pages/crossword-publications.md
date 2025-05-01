@@ -9,7 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
-| 2024/02/12 | _Puzzmo_ | [Top of the Rock (10×10)](https://www.puzzmo.com/puzzle/2025-02-12/crossword) |
+| 2025/02/12 | _Puzzmo_ | [Top of the Rock (10×10)](https://www.puzzmo.com/puzzle/2025-02-12/crossword) |
 | 2025/01/22 | _Los Angeles Times_ | [Untitled (Wednesday)](https://www.puzzlesociety.com/member/crossword-puzzles/la-times-crossword/2025/01/22) |
 | 2025/01/15 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2025/01/15) |
 | 2024/12/16 | _Puzzmo_ | [Ooh! Ooh! (11×11)](https://www.puzzmo.com/puzzle/2024-12-16/crossword) |
