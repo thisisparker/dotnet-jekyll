@@ -1,8 +1,8 @@
 ---
 title: Cursewords Live
-year: 2021–
+year: 2021–2023
 image: /assets/images/cursewords-live.jpg
 link: https://cursewords.live
 ---
 
-Cursewords Live is a regular Twitch stream where Ross Trudeau and I solve crossword puzzles in the Cursewords software I develop and construct crosswords live with audience participation.
+Cursewords Live was a regular Twitch stream co-hosted with Ross Trudea. On the stream, we'd solve crossword puzzles in my Cursewords software and construct crosswords live with audience participation.
