@@ -1,7 +1,8 @@
 ---
 layout: home
 title: parker higgins dot net
-image: /assets/images/higgins-goldsworthy.jpg
+image: /assets/images/higgins-goldsworthy-og.jpg
+display_image: /assets/images/higgins-goldsworthy.jpg
 image_alt: Parker Higgins in sunglasses standing in a forest with a tote bag over his shoulder and a mirrorless camera hanging around his neck. Behind him, a cairn built by Andy Goldsworthy.
 ---
 
