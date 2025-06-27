@@ -30,7 +30,6 @@ main {
 
 a {
   font-weight: bold;
-  text-decoration: none;
 }
 
 :root {
@@ -76,6 +75,7 @@ ul#navbar {
   text-wrap: nowrap;
   a, a:visited {
     color: var(--heading-color);
+    text-decoration: none;
   }
   a:hover {
     color: #007eff;
