@@ -6,7 +6,6 @@ tags:
     - pomological watercolors
     - programming
     - public domain
-callout_text: "**Hello [Hacker News readers](https://news.ycombinator.com/item?id=44397168)!** If you like this blog post, you may be interested to know that I'm [on the job market](https://bsky.app/profile/xor.blue/post/3lrqee7esmk2o). If you or your company is hiring and think I might be a good fit, please [be in touch](https://www.linkedin.com/in/parkerhiggins/)."
 ---
 
 A decade ago today I published a blog post calling for the US government to [release its paintings of fruits](https://parkerhiggins.net/2015/04/us-government-release-7584-fruit-pictures/). The Pomological Watercolor Collection, as I had recently come to know, is a beautiful and remarkable corpus of over 7,000 pictures of fruits and other biological specimens, made between the 1880s and 1940s. Through a handful of FOIA requests I'd learned that the images had been meticulously digitized and put online for purchase, but that less than 100 pictures had been sold that way — not nearly enough to justify the paywall.
