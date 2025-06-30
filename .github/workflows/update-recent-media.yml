@@ -60,7 +60,14 @@ jobs:
           git commit -m "Update recent culture data with recently.py"
           git push
 
+      - name: Get new commit SHA
+        id: get_commit_sha
+        if: steps.check_changes.outputs.changed == 'true'
+        run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
   trigger-rebuild:
     needs: update-recent-data
     if: needs.update-recent-data.outputs.data-changed == 'true'
     uses: ./.github/workflows/build-and-deploy.yml
+    with:
+      ref: ${{ needs.update-recent-data.outputs.new-commit-sha }}
