@@ -1,0 +1,66 @@
+name: Update Recent Data
+
+on:
+  schedule:
+    - cron: '15 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-recent-data:
+    runs-on: ubuntu-latest
+    outputs:
+      data-changed: ${{ steps.check_changes.outputs.changed }}
+    steps:
+      - name: Check out blog repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Check out recently repository
+        uses: actions/checkout@v4
+        with:
+          repository: thisisparker/recently
+          path: recently
+      
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      
+      - name: Run recently.py script
+        env:
+          GDOC_CREDENTIALS: ${{ secrets.GDOC_CREDENTIALS }}
+          GDOC_KEY: ${{ secrets.GDOC_KEY }}
+        run: |
+          cd recently
+          uv run recently.py
+      
+      - name: Copy updated data file
+        run: |
+          if [ -f recently/_data/recently.json ]; then
+            cp recently/_data/recently.json _data/recently.json
+          else
+            echo "Warning: recently.json not found in expected location"
+            exit 1
+          fi
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet _data/recently.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/recently.json
+          git commit -m "Update recent culture data with recently.py"
+          git push
+
+  trigger-rebuild:
+    needs: update-recent-data
+    if: needs.update-recent-data.outputs.data-changed == 'true'
+    uses: ./.github/workflows/build-and-deploy.yml
