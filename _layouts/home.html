@@ -6,6 +6,7 @@ layout: default
     <img class="home-image" src="{{ page.display_image }}" alt="{{ page.image_alt | escape }}">
     <div class="bio">
         {{ content }}
+        {% include recently.html %}
     </div>
 </div>
 

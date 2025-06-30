@@ -235,6 +235,25 @@ header.masthead {
   }
 }
 
+.recently {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  font-size: 80%;
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    li {
+      margin-left: 0;
+    }
+  }
+}
+
+.recently > * {
+  flex: 1;
+}
+
 @media (min-width: 1920px) {
   .home-block {
     width: 1344px;
@@ -258,6 +277,10 @@ header.masthead {
 @media (max-width: 768px) {
   .home-block {
     width: 100%;
+  }
+  .recently {
+    flex-direction: column;
+    gap: 0;
   }
 }
 

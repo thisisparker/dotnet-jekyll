@@ -1,0 +1,14 @@
+<div class="recently">
+    <div class="movies"><h3>Recently watched</h3>
+    <ul>
+        {% for movie in site.data.recently.movies %}<li>{{ movie.title }} ({{ movie.year }})</li>{% endfor %}
+    </ul></div>
+    <div class="books"><h3>Recently read</h3>
+    <ul>
+        {% for book in site.data.recently.books %}<li>{{ book.title}} by {{ book.author }}</li>{% endfor %}
+    </ul></div>
+    <div class="concerts"><h3>Recently attended</h3>
+    <ul>
+        {% for concert in site.data.recently.concerts %}<li>{{ concert.artists }} at {{ concert.venue }}</li>{% endfor %}
+    </ul></div>
+</div>

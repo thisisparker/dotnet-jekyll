@@ -1,0 +1,44 @@
+{
+    "movies": [
+        {
+            "title": "Network",
+            "year": "1976"
+        },
+        {
+            "title": "Shall We Dance?",
+            "year": "1996"
+        },
+        {
+            "title": "The Phoenician Scheme",
+            "year": "2025"
+        }
+    ],
+    "books": [
+        {
+            "title": "Invisible Cities",
+            "author": "Italo Calvino"
+        },
+        {
+            "title": "Orbital",
+            "author": "Samantha Harvey"
+        },
+        {
+            "title": "The Dream Machine",
+            "author": "M. Mitchell Waldrop"
+        }
+    ],
+    "concerts": [
+        {
+            "artists": "Goose",
+            "venue": "Westville Music Bowl"
+        },
+        {
+            "artists": "Matthew Evan Taylor and Metropolis Ensemble",
+            "venue": "Brooklyn Botanical Garden"
+        },
+        {
+            "artists": "Eggy",
+            "venue": "Wonder Bar"
+        }
+    ]
+}
