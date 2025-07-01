@@ -31,12 +31,12 @@ jobs:
           GDOC_KEY: ${{ secrets.GDOC_KEY }}
         run: |
           cd recently
-          uv run recently.py
+          uv run recently.py > recently.json
       
       - name: Copy updated data file
         run: |
-          if [ -f recently/_data/recently.json ]; then
-            cp recently/_data/recently.json _data/recently.json
+          if [ -f recently/recently.json ]; then
+            cp recently/recently.json _data/recently.json
           else
             echo "Warning: recently.json not found in expected location"
             exit 1
