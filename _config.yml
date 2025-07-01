@@ -26,9 +26,6 @@ navbar:
     path: https://tech.intersects.art/@xor 
 
 feed:
-  tags:
-    path: "/tag/"
-    disable_in_development: true
 
 collections:
   projects:
