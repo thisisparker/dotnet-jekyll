@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Intermezzo",
+            "author": "Sally Rooney"
+        },
+        {
             "title": "Invisible Cities",
             "author": "Italo Calvino"
         },
         {
             "title": "Orbital",
             "author": "Samantha Harvey"
-        },
-        {
-            "title": "The Dream Machine",
-            "author": "M. Mitchell Waldrop"
         }
     ],
     "concerts": [
