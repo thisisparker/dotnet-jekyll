@@ -14,7 +14,7 @@ permalink: /projects/
         <li>
         <div class="project-box">
             <div class="project-title">
-                <a href="{{ project.link }}"><h2>{{ project.title }}</h2></a>
+                <h2><a href="{{ project.link }}">{{ project.title }}</a></h2>
                 <span class="year">{{ project.year }}</span>
             </div>
             {% if project.image %}
@@ -35,7 +35,7 @@ permalink: /projects/
         <li>
         <div class="project-box">
             <div class="project-title">
-                 <a href="{{ project.link | relative_url}}"><h3>{{ project.title }}</h3></a>
+                <h3><a href="{{ project.link | relative_url}}">{{ project.title }}</a></h3>
                 <span class="year">{{ project.year }}</span>
             </div>
             {% if project.image %}

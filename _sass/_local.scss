@@ -123,11 +123,10 @@ ul#navbar li a:hover {
 header.masthead {
   @media (max-width: 768px) {
     position: absolute;
-    padding-right: 40px;
     top: 0;
     right: var(--spacer-2);
     left: var(--spacer-2);
-    width: 100%;
+    max-width: 100%;
 
     .wrapper {
       display: inline;
@@ -296,7 +295,12 @@ header.masthead {
   justify-content: space-between;
 }
 
+.project-box {
+  display: flex;
+  flex-direction: column;
+}
 .project-title {
+  min-height: 5rem;
   padding-bottom: 1rem;
 }
 
@@ -317,7 +321,10 @@ header.masthead {
   max-width: 100%;
 }
 #non-featured-project-list li {
-  max-width: 45%;
+  max-width: 100%;
+}
+.project-title {
+  min-height: fit-content;
 }
 }
 
