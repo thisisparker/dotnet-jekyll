@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "The Jazz Bakers",
+            "venue": "The Baked Potato"
+        },
+        {
             "artists": "Sungazer Plus",
             "venue": "Blue Note"
         },
         {
             "artists": "Goose",
             "venue": "Westville Music Bowl"
-        },
-        {
-            "artists": "Matthew Evan Taylor and Metropolis Ensemble",
-            "venue": "Brooklyn Botanical Garden"
         }
     ]
 }
