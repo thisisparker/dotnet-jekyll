@@ -1,16 +1,16 @@
 {
     "movies": [
         {
+            "title": "Superman",
+            "year": "2025"
+        },
+        {
             "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
             "year": "1991"
         },
         {
             "title": "In the Mood for Love",
             "year": "2000"
-        },
-        {
-            "title": "Kill the Jockey",
-            "year": "2024"
         }
     ],
     "books": [
