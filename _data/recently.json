@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Metallic Realms",
+            "author": "Lincoln Michel"
+        },
+        {
             "title": "Intermezzo",
             "author": "Sally Rooney"
         },
         {
             "title": "Invisible Cities",
             "author": "Italo Calvino"
-        },
-        {
-            "title": "Orbital",
-            "author": "Samantha Harvey"
         }
     ],
     "concerts": [
