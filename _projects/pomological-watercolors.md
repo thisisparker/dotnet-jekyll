@@ -1,7 +1,7 @@
 ---
 title: The Pomological Watercolor Collection
 year: 2015–
-link: https://twitter.com/pomological
+link: https://bsky.app/profile/pomological.xor.blue
 image: /assets/images/pom-strawberries.jpg
 featured: true
 ---
