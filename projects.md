@@ -19,7 +19,7 @@ permalink: /projects/
             </div>
             {% if project.image %}
             <div class="project-image-box">
-                <img class="project-image" src="{{ project.image }}" />
+                <a href="{{ project.link }}"><img class="project-image" src="{{ project.image }}" /></a>
             </div>
             {% endif %}
             <div class="project-description">
@@ -40,7 +40,7 @@ permalink: /projects/
             </div>
             {% if project.image %}
             <div class="project-image-box">
-                <img class="project-image" src="{{ project.image }}" />
+                <a href="{{ project.link }}"><img class="project-image" src="{{ project.image }}" /></a>
             </div>
             {% endif %}
             <div class="project-description">
