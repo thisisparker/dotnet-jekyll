@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Murder the Truth",
+            "author": "David Enrich"
+        },
+        {
             "title": "The Employees",
             "author": "Olga Ravn"
         },
         {
             "title": "Metallic Realms",
             "author": "Lincoln Michel"
-        },
-        {
-            "title": "Intermezzo",
-            "author": "Sally Rooney"
         }
     ],
     "concerts": [
