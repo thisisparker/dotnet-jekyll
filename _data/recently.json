@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "PC Worship and High. and Lukka ",
+            "venue": "Ripper's"
+        },
+        {
             "artists": "Eggy",
             "venue": "Brooklyn Bowl"
         },
         {
             "artists": "Bushwick's Dead",
             "venue": "Brooklyn Bowl"
-        },
-        {
-            "artists": "The Jazz Bakers",
-            "venue": "The Baked Potato"
         }
     ]
 }
