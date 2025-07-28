@@ -1,3 +1,51 @@
+['PC Worship', 'High.', 'Lukka']
+PC Worship, High., and Lukka
+['Eggy']
+Eggy
+["Bushwick's Dead"]
+Bushwick's Dead
+['The Jazz Bakers']
+The Jazz Bakers
+['Sungazer Plus']
+Sungazer Plus
+['Goose']
+Goose
+['Matthew Evan Taylor', 'Metropolis Ensemble']
+Matthew Evan Taylor and Metropolis Ensemble
+['Eggy']
+Eggy
+['Matt Berninger', 'Ronboy']
+Matt Berninger and Ronboy
+['Dave Kikoski']
+Dave Kikoski
+["Bushwick's Dead"]
+Bushwick's Dead
+["Anthony Braxton's Composition 19 (For 100 Tubas)"]
+Anthony Braxton's Composition 19 (For 100 Tubas)
+['Phish']
+Phish
+['Phish']
+Phish
+['Phish']
+Phish
+["Taper's Choice"]
+Taper's Choice
+['Philip Glass Ensemble']
+Philip Glass Ensemble
+['Dogs in a Pile']
+Dogs in a Pile
+['Neal Francis', 'The Improvement Movement']
+Neal Francis and The Improvement Movement
+['Bards of Gungywamp']
+Bards of Gungywamp
+['Cassius', 'Miley Serious']
+Cassius and Miley Serious
+['Eggy', 'Tyler Ballgame']
+Eggy and Tyler Ballgame
+['Geese', 'Frank Pellegrini']
+Geese and Frank Pellegrini
+["Taper's Choice"]
+Taper's Choice
 {
     "movies": [
         {
@@ -29,7 +77,7 @@
     ],
     "concerts": [
         {
-            "artists": "PC, and Lukka",
+            "artists": "PC Worship, High., and Lukka",
             "venue": "Ripper's"
         },
         {
