@@ -10,7 +10,7 @@ image: /assets/images/blue-malaika-image.png
 image_alt: A random assortment of generated blue tiles in the style of the (purple) tiles on Malaika's site.
 ---
 
-A few weeks again, my friend [Malaika Handa](https://malaikahanda.com) nerd-sniped me with an interesting request. She is a very prolific crossword constructor (think: multiple publications a week) _and_ she keeps comprehensive records of those publications in a spreadsheet that is always up to date.[^1] She wanted a site to display that history in a clean and browsable way.
+A few weeks ago, my friend [Malaika Handa](https://malaikahanda.com) nerd-sniped me with an interesting request. She is a very prolific crossword constructor (think: multiple publications a week) _and_ she keeps comprehensive records of those publications in a spreadsheet that is always up to date.[^1] She wanted a site to display that history in a clean and browsable way.
 
 I [built her that site](https://malaikahanda.com), and we published it yesterday. I'm really proud of how it turned out, and want to share some thoughts about how it came together.
 
