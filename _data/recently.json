@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Dead in the Water",
+            "author": "Matthew  Campbell"
+        },
+        {
+            "title": "Dead in the Water",
+            "author": "Matthew  Campbell"
+        },
+        {
             "title": "Murder the Truth",
             "author": "David Enrich"
-        },
-        {
-            "title": "The Employees",
-            "author": "Olga Ravn"
-        },
-        {
-            "title": "Metallic Realms",
-            "author": "Lincoln Michel"
         }
     ],
     "concerts": [
