@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Why Read Moby-Dick?",
+            "author": "Nathaniel Philbrick"
+        },
+        {
             "title": "Dead in the Water",
             "author": "Matthew  Campbell"
         },
         {
             "title": "Murder the Truth",
             "author": "David Enrich"
-        },
-        {
-            "title": "The Employees",
-            "author": "Olga Ravn"
         }
     ],
     "concerts": [
