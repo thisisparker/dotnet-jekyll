@@ -13,7 +13,20 @@
             "year": "2016"
         }
     ],
-    "books": [],
+    "books": [
+        {
+            "title": "Titanium Noir",
+            "author": "Nick Harkaway"
+        },
+        {
+            "title": "Why Read Moby-Dick?",
+            "author": "Nathaniel Philbrick"
+        },
+        {
+            "title": "Dead in the Water",
+            "author": "Matthew  Campbell"
+        }
+    ],
     "concerts": [
         {
             "artists": "PC Worship, High., and Lukka",
