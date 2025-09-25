@@ -6,6 +6,7 @@ tags:
     - crossword
 image: /assets/images/fill-harmonics/fill-harmonics.png
 image_alt: The Fill Harmonics setup, with a grid ready to play.
+show_hero: false
 ---
 
 Today I’m releasing [Fill Harmonics](https://fillharmonics.com/), a music machine that takes its rules and styling from the world of crossword puzzles. The name is a pun: in crossword lingo, “fill” is the stuff that goes into the grid. This project is a collaboration with Natan Last, one of my cruciverbal inspirations and the author of “Across The Universe,” a very fun upcoming book on the history and culture of crosswords ([available for pre-order now!](https://www.penguinrandomhouse.com/books/723796/across-the-universe-by-natan-last/)).
