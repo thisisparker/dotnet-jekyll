@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Goose",
+            "venue": "Kemba Live"
+        },
+        {
             "artists": "Neighbor and Tom Hamilton",
             "venue": "Brooklyn Bowl"
         },
         {
             "artists": "PC Worship, High., and Lukka",
             "venue": "Ripper's"
-        },
-        {
-            "artists": "Eggy",
-            "venue": "Brooklyn Bowl"
         }
     ]
 }
