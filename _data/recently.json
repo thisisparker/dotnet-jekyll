@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Nels Cline and Consentrik Quartet",
+            "venue": "Littlefield"
+        },
+        {
             "artists": "Goose",
             "venue": "Kemba Live"
         },
         {
             "artists": "Neighbor and Tom Hamilton",
             "venue": "Brooklyn Bowl"
-        },
-        {
-            "artists": "PC Worship, High., and Lukka",
-            "venue": "Ripper's"
         }
     ]
 }
