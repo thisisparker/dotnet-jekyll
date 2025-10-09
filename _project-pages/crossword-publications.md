@@ -19,7 +19,7 @@ After years of solving, in 2020 I began constructing crossword puzzles for submi
 | 2024/08/02 | _Puzzmo_ | [Did you not hear me the first time? (11×11)](https://puzzmo.com/link/crossword/2024/08/02) |
 | 2024/06/20 | _Puzzmo_ | [Consider enjoying this puzzle with some pale ale (11×13)](https://www.puzzmo.com/puzzle/2024-06-20/crossword) |
 | 2024/05/18 | _Los Angeles Times_ | [Untitled (Saturday)](https://www.gocomics.com/puzzles/la-times-crossword/2024/05/18) |
-| 2023/10/06 | _Universal Crossword_ | [Game Faces](https://www.gocomics.com/puzzles/universal-crossword/2023/10/16) |
+| 2023/10/06 | _Universal Crossword_ | [Game Faces](https://www.gocomics.com/puzzles/universal-crossword/2023/10/06) |
 | 2023/05/17 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2023/05/17) |
 | 2023/03/31 | _The New Yorker_ | [Hit Rewind (with Ross Trudeau)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/03/31) |
 | 2023/02/02 | _Universal Crossword_ | [Travel Packs](https://www.gocomics.com/puzzles/universal-crossword/2023/02/02) |
