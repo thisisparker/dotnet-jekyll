@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Greta & Valdin",
+            "author": "Rebecca K. Reilly"
+        },
+        {
             "title": "Titanium Noir",
             "author": "Nick Harkaway"
         },
         {
             "title": "Why Read Moby-Dick?",
             "author": "Nathaniel Philbrick"
-        },
-        {
-            "title": "Dead in the Water",
-            "author": "Matthew  Campbell"
         }
     ],
     "concerts": [
