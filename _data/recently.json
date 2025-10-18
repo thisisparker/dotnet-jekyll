@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Death by Piano, Smoota + The Beast, and Mother Feather",
+            "venue": "Union Pool"
+        },
+        {
             "artists": "Lost Dog, Ghost Rodeo, The Monotone Assassins, Sui Moto, and Reggie Mids & Friends",
             "venue": "Trans-Pecos"
         },
         {
             "artists": "Nels Cline and Consentrik Quartet",
             "venue": "Littlefield"
-        },
-        {
-            "artists": "Goose",
-            "venue": "Kemba Live"
         }
     ]
 }
