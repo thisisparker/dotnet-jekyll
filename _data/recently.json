@@ -13,20 +13,7 @@
             "year": "2014"
         }
     ],
-    "books": [
-        {
-            "title": "Greta & Valdin",
-            "author": "Rebecca K. Reilly"
-        },
-        {
-            "title": "Titanium Noir",
-            "author": "Nick Harkaway"
-        },
-        {
-            "title": "Why Read Moby-Dick?",
-            "author": "Nathaniel Philbrick"
-        }
-    ],
+    "books": [],
     "concerts": [
         {
             "artists": "Death by Piano, Smoota + The Beast, and Mother Feather",
