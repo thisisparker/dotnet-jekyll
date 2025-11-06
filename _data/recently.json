@@ -1,18 +1,5 @@
 {
-    "movies": [
-        {
-            "title": "K\u00f6ln 75",
-            "year": "2025"
-        },
-        {
-            "title": "It Was Just an Accident",
-            "year": "2025"
-        },
-        {
-            "title": "One Battle After Another",
-            "year": "2025"
-        }
-    ],
+    "movies": [],
     "books": [
         {
             "title": "Greta & Valdin",
