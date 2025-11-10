@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Daryl Sherman and Jay Leonhart",
+            "venue": "Jazz Vespers @ Saint Peter's"
+        },
+        {
             "artists": "Twisted Livin'",
             "venue": "Anchor Rock Club"
         },
         {
             "artists": "Kelly Moran",
             "venue": "Roulette"
-        },
-        {
-            "artists": "Kevin Fitzgerald Burke",
-            "venue": "Jazz Vespers @ Saint Peter's"
         }
     ]
 }
