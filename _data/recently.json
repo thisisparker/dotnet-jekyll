@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "The Bloody Chamber and Other Stories",
+            "author": "Angela Carter"
+        },
+        {
+            "title": "Shadow Ticket",
+            "author": "Thomas Pynchon"
+        },
+        {
             "title": "Greta & Valdin",
             "author": "Rebecca K. Reilly"
-        },
-        {
-            "title": "Titanium Noir",
-            "author": "Nick Harkaway"
-        },
-        {
-            "title": "Why Read Moby-Dick?",
-            "author": "Nathaniel Philbrick"
         }
     ],
     "concerts": [
