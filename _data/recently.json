@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "The Maniac",
+            "author": "Benjam\u00edn Labatut"
+        },
+        {
             "title": "The Bloody Chamber and Other Stories",
             "author": "Angela Carter"
         },
         {
             "title": "Shadow Ticket",
             "author": "Thomas Pynchon"
-        },
-        {
-            "title": "Greta & Valdin",
-            "author": "Rebecca K. Reilly"
         }
     ],
     "concerts": [
