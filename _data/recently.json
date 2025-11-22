@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Luis Conte Band",
+            "venue": "The Baked Potato"
+        },
+        {
             "artists": "Daryl Sherman and Jay Leonhart",
             "venue": "Jazz Vespers @ Saint Peter's"
         },
         {
             "artists": "Twisted Livin'",
             "venue": "Anchor Rock Club"
-        },
-        {
-            "artists": "Kelly Moran",
-            "venue": "Roulette"
         }
     ]
 }
