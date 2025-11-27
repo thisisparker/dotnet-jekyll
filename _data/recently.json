@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Underground",
+            "author": "Haruki Murakami"
+        },
+        {
+            "title": "Crook Manifesto",
+            "author": "Colson Whitehead"
+        },
+        {
             "title": "Midnight Timetable",
             "author": "Bora Chung"
-        },
-        {
-            "title": "The Maniac",
-            "author": "Benjam\u00edn Labatut"
-        },
-        {
-            "title": "The Bloody Chamber and Other Stories",
-            "author": "Angela Carter"
         }
     ],
     "concerts": [
