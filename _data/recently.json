@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Across the Universe",
+            "author": "Natan Last"
+        },
+        {
             "title": "Underground",
             "author": "Haruki Murakami"
         },
         {
             "title": "Crook Manifesto",
             "author": "Colson Whitehead"
-        },
-        {
-            "title": "Midnight Timetable",
-            "author": "Bora Chung"
         }
     ],
     "concerts": [
