@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": ".LCD Soundsystem",
+            "venue": "Knockdown Center"
+        },
+        {
             "artists": "Saccata Quartet",
             "venue": "Solar Myth"
         },
         {
             "artists": "Forgetmenots, Logan Hone, Nighttime, and Badlands",
             "venue": "Terremoto"
-        },
-        {
-            "artists": "Luis Conte Band",
-            "venue": "The Baked Potato"
         }
     ]
 }
