@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "barrett and Phin",
+            "venue": "Mercury Lounge"
+        },
+        {
             "artists": "LCD Soundsystem",
             "venue": "Knockdown Center"
         },
         {
             "artists": "Nels Cline and Saccata Quartet",
             "venue": "Solar Myth"
-        },
-        {
-            "artists": "Forgetmenots, Logan Hone, Nighttime, and Badlands",
-            "venue": "Terremoto"
         }
     ]
 }
