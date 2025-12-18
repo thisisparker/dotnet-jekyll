@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Unabridged",
+            "author": "Stefan Fatsis"
+        },
+        {
             "title": "Across the Universe",
             "author": "Natan Last"
         },
         {
             "title": "Underground",
             "author": "Haruki Murakami"
-        },
-        {
-            "title": "Crook Manifesto",
-            "author": "Colson Whitehead"
         }
     ],
     "concerts": [
