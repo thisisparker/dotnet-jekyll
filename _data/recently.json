@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Phish",
+            "venue": "Madison Square Garden"
+        },
+        {
+            "artists": "Nels Cline and Medeski Martin Metzger Cline",
+            "venue": "Le Poisson Rouge"
+        },
+        {
             "artists": "barrett and Phin",
             "venue": "Mercury Lounge"
-        },
-        {
-            "artists": "LCD Soundsystem",
-            "venue": "Knockdown Center"
-        },
-        {
-            "artists": "Nels Cline and Saccata Quartet",
-            "venue": "Solar Myth"
         }
     ]
 }
