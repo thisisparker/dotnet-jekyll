@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Under the Eye of the Big Bird",
+            "author": "Hiromi Kawakami"
+        },
+        {
             "title": "The Age of Extraction",
             "author": "Tim Wu"
         },
         {
             "title": "Unabridged",
             "author": "Stefan Fatsis"
-        },
-        {
-            "title": "Across the Universe",
-            "author": "Natan Last"
         }
     ],
     "concerts": [
