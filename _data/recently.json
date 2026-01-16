@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Tim Berne",
+            "venue": "Lowlands"
+        },
+        {
             "artists": "Ches Smith",
             "venue": "The Stone"
         },
         {
             "artists": "Tim Berne",
             "venue": "Lowlands"
-        },
-        {
-            "artists": "Robyn",
-            "venue": "Brooklyn Paramount"
         }
     ]
 }
