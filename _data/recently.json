@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Donovan Locke",
+            "venue": "Communist's Daughter"
+        },
+        {
             "artists": "Tim Berne",
             "venue": "Lowlands"
         },
         {
             "artists": "Ches Smith",
             "venue": "The Stone"
-        },
-        {
-            "artists": "Tim Berne",
-            "venue": "Lowlands"
         }
     ]
 }
