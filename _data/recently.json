@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Matt Stapleton and the Hartley's band",
+            "venue": "Hartley's "
+        },
+        {
             "artists": "BIGYUKI and Jharis Yokley",
             "venue": "Lun\u00e0tico"
         },
         {
             "artists": "Donovan Locke",
             "venue": "Communist's Daughter"
-        },
-        {
-            "artists": "Tim Berne",
-            "venue": "Lowlands"
         }
     ]
 }
