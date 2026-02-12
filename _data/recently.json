@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Born in Flames",
+            "author": "Bench Ansfield"
+        },
+        {
             "title": "London Falling",
             "author": "Patrick Radden Keefe"
         },
         {
             "title": "Under the Eye of the Big Bird",
             "author": "Hiromi Kawakami"
-        },
-        {
-            "title": "The Age of Extraction",
-            "author": "Tim Wu"
         }
     ],
     "concerts": [
