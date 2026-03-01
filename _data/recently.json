@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Dark Pools",
+            "author": "Scott Patterson"
+        },
+        {
             "title": "Bel Canto",
             "author": "Ann Patchett"
         },
         {
             "title": "Born in Flames",
             "author": "Bench Ansfield"
-        },
-        {
-            "title": "London Falling",
-            "author": "Patrick Radden Keefe"
         }
     ],
     "concerts": [
