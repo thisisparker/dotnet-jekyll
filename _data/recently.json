@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "John Medeski, Stanton Moore, Nels Cline, and Skerik",
+            "venue": "Brooklyn Bowl"
+        },
+        {
             "artists": "Mitski",
             "venue": "The Shed"
         },
         {
             "artists": "Matt Stapleton and the Hartley's band",
             "venue": "Hartley's "
-        },
-        {
-            "artists": "BIGYUKI and Jharis Yokley",
-            "venue": "Lun\u00e0tico"
         }
     ]
 }
