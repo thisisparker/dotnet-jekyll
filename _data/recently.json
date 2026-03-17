@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Grace Bowers",
+            "venue": "Night Club 101"
+        },
+        {
             "artists": "Unbroken Chain",
             "venue": "The Capitol Theatre"
         },
         {
             "artists": "John Medeski, Stanton Moore, Nels Cline, and Skerik",
             "venue": "Brooklyn Bowl"
-        },
-        {
-            "artists": "Mitski",
-            "venue": "The Shed"
         }
     ]
 }
