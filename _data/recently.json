@@ -15,15 +15,15 @@
     ],
     "books": [
         {
+            "title": "Speedboat",
+            "author": "Renata Adler"
+        },
+        {
             "title": "The Sirens' Call",
             "author": "Christopher L. Hayes"
         },
         {
             "title": "On the Calculation of Volume II",
-            "author": "Solvej Balle"
-        },
-        {
-            "title": "On the Calculation of Volume I",
             "author": "Solvej Balle"
         }
     ],
