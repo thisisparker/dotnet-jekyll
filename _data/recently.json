@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "The New New Thing",
+            "author": "Michael   Lewis"
+        },
+        {
             "title": "Speedboat",
             "author": "Renata Adler"
         },
         {
             "title": "The Sirens' Call",
             "author": "Christopher L. Hayes"
-        },
-        {
-            "title": "On the Calculation of Volume II",
-            "author": "Solvej Balle"
         }
     ],
     "concerts": [
