@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Pink Talking Fish",
+            "venue": "Brooklyn Bowl"
+        },
+        {
             "artists": "The Red Pears and Together Pangea",
             "venue": "Le Poisson Rouge"
         },
         {
             "artists": "Bushwick's Dead",
             "venue": "Brooklyn Bowl"
-        },
-        {
-            "artists": "Grace Bowers",
-            "venue": "Night Club 101"
         }
     ]
 }
