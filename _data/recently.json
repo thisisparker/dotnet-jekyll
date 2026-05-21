@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Children of Memory",
+            "author": "Adrian Tchaikovsky"
+        },
+        {
             "title": "On the Calculation of Volume III",
             "author": "Solvej Balle"
         },
         {
             "title": "A Distant Mirror",
             "author": "Barbara W. Tuchman"
-        },
-        {
-            "title": "The New New Thing",
-            "author": "Michael   Lewis"
         }
     ],
     "concerts": [
