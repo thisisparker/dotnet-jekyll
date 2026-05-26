@@ -1,5 +1,18 @@
 {
-    "movies": [],
+    "movies": [
+        {
+            "title": "Aliens",
+            "year": "1986"
+        },
+        {
+            "title": "So This Is New York",
+            "year": "1948"
+        },
+        {
+            "title": "Los Angeles Plays Itself",
+            "year": "2003"
+        }
+    ],
     "books": [
         {
             "title": "Children of Memory",
