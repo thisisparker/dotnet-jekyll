@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Chloe Alexandra Thompson and Kelly Moran",
+            "venue": "Pioneer Works"
+        },
+        {
+            "artists": "Koastle",
+            "venue": "Silo"
+        },
+        {
             "artists": "goat (jp)",
             "venue": "Roulette"
-        },
-        {
-            "artists": "Pink Talking Fish",
-            "venue": "Brooklyn Bowl"
-        },
-        {
-            "artists": "The Red Pears and Together Pangea",
-            "venue": "Le Poisson Rouge"
         }
     ]
 }
