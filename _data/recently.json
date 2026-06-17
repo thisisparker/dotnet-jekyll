@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Rosal\u00eda",
+            "venue": "Madison Square Garden"
+        },
+        {
             "artists": "Chloe Alexandra Thompson and Kelly Moran",
             "venue": "Pioneer Works"
         },
         {
             "artists": "Koastle",
             "venue": "Silo"
-        },
-        {
-            "artists": "goat (jp)",
-            "venue": "Roulette"
         }
     ]
 }
