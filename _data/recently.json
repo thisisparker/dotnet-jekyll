@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Springer Mountain",
+            "author": "Wyatt Williams"
+        },
+        {
+            "title": "The Waves",
+            "author": "Virginia Woolf"
+        },
+        {
             "title": "Children of Memory",
             "author": "Adrian Tchaikovsky"
-        },
-        {
-            "title": "On the Calculation of Volume III",
-            "author": "Solvej Balle"
-        },
-        {
-            "title": "A Distant Mirror",
-            "author": "Barbara W. Tuchman"
         }
     ],
     "concerts": [
