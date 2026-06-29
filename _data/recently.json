@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Red Baraat",
+            "venue": "Barb\u00e8s"
+        },
+        {
             "artists": "Diarrhea Planet, Gremlins, and Ghost Town Remedy",
             "venue": "East Side Bowl"
         },
         {
             "artists": "Rosal\u00eda",
             "venue": "Madison Square Garden"
-        },
-        {
-            "artists": "Chloe Alexandra Thompson and Kelly Moran",
-            "venue": "Pioneer Works"
         }
     ]
 }
