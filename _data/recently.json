@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "On the Calculation of Volume IV",
+            "author": "Solvej Balle"
+        },
+        {
             "title": "Springer Mountain",
             "author": "Wyatt Williams"
         },
         {
             "title": "The Waves",
             "author": "Virginia Woolf"
-        },
-        {
-            "title": "Children of Memory",
-            "author": "Adrian Tchaikovsky"
         }
     ],
     "concerts": [
