@@ -13,20 +13,7 @@
             "year": "2026"
         }
     ],
-    "books": [
-        {
-            "title": "On the Calculation of Volume IV",
-            "author": "Solvej Balle"
-        },
-        {
-            "title": "Springer Mountain",
-            "author": "Wyatt Williams"
-        },
-        {
-            "title": "The Waves",
-            "author": "Virginia Woolf"
-        }
-    ],
+    "books": [],
     "concerts": [
         {
             "artists": "Phish",
