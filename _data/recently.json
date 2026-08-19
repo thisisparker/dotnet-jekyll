@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Bonjour Tristesse",
+            "author": "Fran\u00e7oise Sagan"
+        },
+        {
             "title": "Children of Strife",
             "author": "Adrian Tchaikovsky"
         },
         {
             "title": "My Brilliant Friend",
             "author": "Elena Ferrante"
-        },
-        {
-            "title": "Tokyo Express",
-            "author": "Seich\u014d Matsumoto"
         }
     ],
     "concerts": [
