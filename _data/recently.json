@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Stoner",
+            "author": "John  Williams"
+        },
+        {
             "title": "Moneyball",
             "author": "Michael   Lewis"
         },
         {
             "title": "Bartleby the Scrivener",
             "author": "Herman Melville"
-        },
-        {
-            "title": "Bonjour Tristesse",
-            "author": "Fran\u00e7oise Sagan"
         }
     ],
     "concerts": [
