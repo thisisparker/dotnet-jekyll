@@ -1,16 +1,16 @@
 {
     "movies": [
         {
+            "title": "The Usual Suspects",
+            "year": "1995"
+        },
+        {
             "title": "The Informant!",
             "year": "2009"
         },
         {
             "title": "The Hunt for Red October",
             "year": "1990"
-        },
-        {
-            "title": "The Rock",
-            "year": "1996"
         }
     ],
     "books": [
