@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Living with a Wild God",
+            "author": "Barbara Ehrenreich"
+        },
+        {
             "title": "Stoner",
             "author": "John  Williams"
         },
         {
             "title": "Moneyball",
             "author": "Michael   Lewis"
-        },
-        {
-            "title": "Bartleby the Scrivener",
-            "author": "Herman Melville"
         }
     ],
     "concerts": [
