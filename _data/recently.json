@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "The Universal Baseball Association, Inc., J. Henry Waugh, Prop.",
+            "author": "Robert Coover"
+        },
+        {
             "title": "Living with a Wild God",
             "author": "Barbara Ehrenreich"
         },
         {
             "title": "Stoner",
             "author": "John  Williams"
-        },
-        {
-            "title": "Moneyball",
-            "author": "Michael   Lewis"
         }
     ],
     "concerts": [
