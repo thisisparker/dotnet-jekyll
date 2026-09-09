@@ -1,16 +1,16 @@
 {
     "movies": [
         {
+            "title": "Coyote vs. Acme",
+            "year": "2026"
+        },
+        {
             "title": "Stop Making Sense",
             "year": "1984"
         },
         {
             "title": "The Samurai and the Prisoner",
             "year": "2026"
-        },
-        {
-            "title": "The Usual Suspects",
-            "year": "1995"
         }
     ],
     "books": [
