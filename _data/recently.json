@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "John Craigie and Humbird",
+            "venue": "Music Hall of Williamsburg"
+        },
+        {
             "artists": "Tim Berne",
             "venue": "Lowlands"
         },
         {
             "artists": "The Dirt Whisperers",
             "venue": "Fred's Dog House"
-        },
-        {
-            "artists": "Angine de Poitrine and Annie-Claude Desch\u00eanes",
-            "venue": "Le Poisson Rouge"
         }
     ]
 }
