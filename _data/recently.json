@@ -1,18 +1,5 @@
 {
-    "movies": [
-        {
-            "title": "All Watched Over by Machines of Loving Grace",
-            "year": "2011"
-        },
-        {
-            "title": "Coyote vs. Acme",
-            "year": "2026"
-        },
-        {
-            "title": "Stop Making Sense",
-            "year": "1984"
-        }
-    ],
+    "movies": [],
     "books": [
         {
             "title": "Embassytown",
