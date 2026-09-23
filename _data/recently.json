@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Cloudthief",
+            "author": "Nathaniel Rich"
+        },
+        {
             "title": "Embassytown",
             "author": "China Mi\u00e9ville"
         },
         {
             "title": "Neuromancer",
             "author": "William Gibson"
-        },
-        {
-            "title": "The Universal Baseball Association, Inc., J. Henry Waugh, Prop.",
-            "author": "Robert Coover"
         }
     ],
     "concerts": [
