@@ -29,16 +29,16 @@
     ],
     "concerts": [
         {
+            "artists": "Carly Rae Jepsen",
+            "venue": "Irving Plaza"
+        },
+        {
             "artists": "Visions of Hildegard",
             "venue": "Mezame"
         },
         {
             "artists": "John Craigie and Humbird",
             "venue": "Music Hall of Williamsburg"
-        },
-        {
-            "artists": "Tim Berne",
-            "venue": "Lowlands"
         }
     ]
 }
