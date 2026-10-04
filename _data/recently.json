@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Revenge",
+            "author": "Y\u014dko Ogawa"
+        },
+        {
             "title": "A Marriage at Sea",
             "author": "Sophie Elmhirst"
         },
         {
             "title": "A World Appears",
             "author": "Michael Pollan"
-        },
-        {
-            "title": "Play It as It Lays",
-            "author": "Joan Didion"
         }
     ],
     "concerts": [
