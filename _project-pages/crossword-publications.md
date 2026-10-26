@@ -9,6 +9,7 @@ image: /assets/images/nyt-crossword.jpg
 After years of solving, in 2020 I began constructing crossword puzzles for submission to the mainstream and independent outlets that run them. Here is a list of published puzzles, with links to solve where available.
 
 |---|---|---|
+| 2026/10/25 | _Apple News_ | [Can You Repeat That? (with Ross Trudeau)](https://apple.news/JJRYFR5KmRS2C6UxuSP_jDw) |
 | 2025/02/12 | _Puzzmo_ | [Top of the Rock (10×10)](https://www.puzzmo.com/puzzle/2025-02-12/crossword) |
 | 2025/01/22 | _Los Angeles Times_ | [Untitled (Wednesday)](https://www.latimes.com/games/daily-crossword?id=tca250122&set=latimes&puzzleType=crossword) |
 | 2025/01/15 | _The New York Times_ | [Untitled (Wednesday)](https://www.nytimes.com/crosswords/game/daily/2025/01/15) |
