@@ -15,16 +15,16 @@
     ],
     "books": [
         {
+            "title": "Dracula",
+            "author": "Bram Stoker"
+        },
+        {
             "title": "Frankenstein",
             "author": "Mary Wollstonecraft Shelley"
         },
         {
             "title": "Splinters",
             "author": "Leslie Jamison"
-        },
-        {
-            "title": "Revenge",
-            "author": "Y\u014dko Ogawa"
         }
     ],
     "concerts": [
