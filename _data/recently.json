@@ -13,20 +13,7 @@
             "year": "1987"
         }
     ],
-    "books": [
-        {
-            "title": "Dracula",
-            "author": "Bram Stoker"
-        },
-        {
-            "title": "Frankenstein",
-            "author": "Mary Wollstonecraft Shelley"
-        },
-        {
-            "title": "Splinters",
-            "author": "Leslie Jamison"
-        }
-    ],
+    "books": [],
     "concerts": [
         {
             "artists": "Animal Collective",
