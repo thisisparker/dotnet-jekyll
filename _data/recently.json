@@ -16,16 +16,16 @@
     "books": [],
     "concerts": [
         {
+            "artists": "Jeff Tweedy",
+            "venue": "The Town Hall"
+        },
+        {
             "artists": "Animal Collective",
             "venue": "Knockdown Center"
         },
         {
             "artists": "Carly Rae Jepsen",
             "venue": "Irving Plaza"
-        },
-        {
-            "artists": "Visions of Hildegard",
-            "venue": "Mezame"
         }
     ]
 }
