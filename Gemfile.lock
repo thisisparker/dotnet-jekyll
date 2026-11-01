@@ -3,11 +3,14 @@ GEM
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.3.0)
+    bigdecimal (4.1.3)
     classifier-reborn (2.3.0)
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
+    csv (3.3.7)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -52,10 +55,11 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     matrix (0.4.2)
     mercenary (0.4.0)
     numo-linalg (0.1.7)
@@ -88,12 +92,16 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  bigdecimal
   classifier-reborn
+  csv
   jekyll
   jekyll-feed
   jekyll-gist
   jekyll-paginate
   jekyll-seo-tag
+  logger
   numo-linalg
   numo-narray
   webrick (~> 1.8)
