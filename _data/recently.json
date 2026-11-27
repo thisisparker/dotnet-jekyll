@@ -16,16 +16,16 @@
     "books": [],
     "concerts": [
         {
+            "artists": "BIGYUKI and Jharis Yoakley",
+            "venue": "Lun\u00e0tico"
+        },
+        {
             "artists": "Angine de Poitrine",
             "venue": "Brooklyn Steel"
         },
         {
             "artists": "Carsie Blanton and The Burning Hell",
             "venue": "Littlefield"
-        },
-        {
-            "artists": "Jeff Tweedy",
-            "venue": "The Town Hall"
         }
     ]
 }
